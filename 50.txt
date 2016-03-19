@@ -1,0 +1,6937 @@
+15000is the power_budget
+140 is TSV_MAX 
+50is TAM_WIDTH_MAX 
+5 nil is here
+no of tam   die level peak_power
+ ************* 37 0 3704
+1 2833432
+2 1423109
+3 945023
+4 740459
+5 567014
+6 494049
+7 431729
+8 370639
+9 315281
+10 307909
+11 304219
+12 248049
+13 246409
+14 244359
+15 189415
+16 186549
+17 186139
+18 185319
+19 181629
+20 180809
+21 179579
+22 177939
+23 127099
+24 126689
+25 126279
+27 125459
+28 124639
+29 121769
+30 120949
+31 120129
+37 119719
+39 119309
+41 118489
+42 117669
+43 116849
+44 116029
+45 69289
+ ************* 16 0 53
+1 7906
+2 4049
+3 2892
+4 2121
+5 1735
+6 1542
+7 1349
+8 1157
+9 1156
+10 964
+12 963
+14 771
+17 770
+20 578
+34 577
+40 385
+ ************* 14 0 54
+1 26597
+2 13623
+3 9730
+4 7136
+5 5838
+6 5189
+7 4541
+8 3892
+10 3243
+14 2595
+15 2594
+20 1946
+29 1945
+40 1297
+ ************* 19 0 174
+1 1652
+2 832
+3 558
+4 427
+5 344
+6 285
+7 249
+8 225
+9 201
+10 178
+11 167
+12 154
+13 142
+14 131
+16 119
+20 107
+23 83
+25 82
+28 71
+ ************* 23 0 198
+1 631161
+2 318644
+3 214472
+4 165449
+5 134810
+6 110300
+7 98044
+8 85788
+9 79660
+10 73532
+11 67405
+12 61277
+13 55150
+14 55149
+15 49022
+16 49021
+17 42894
+20 42893
+21 36766
+26 30639
+27 30638
+34 24511
+40 24510
+ ************* 24 0 12614
+1 5301239
+2 2650729
+3 1809815
+4 1358456
+5 1126316
+6 907097
+7 793217
+8 679337
+9 674957
+10 565457
+11 561077
+12 455738
+13 451577
+14 451358
+15 447197
+16 341858
+20 337478
+22 333317
+23 230821
+24 227978
+39 223598
+43 219218
+46 115629
+47 114317
+ ************* 12 0 32
+1 5850
+2 3014
+3 2127
+4 1596
+5 1418
+6 1241
+7 1064
+8 887
+9 886
+11 709
+16 532
+32 355
+ ************* 12 0 33
+1 5850
+2 3014
+3 2127
+4 1596
+5 1418
+6 1241
+7 1064
+8 887
+9 886
+11 709
+16 532
+32 355
+ ************* 16 0 55
+1 8482
+2 4433
+3 3084
+4 2313
+5 1927
+6 1734
+7 1541
+8 1349
+9 1156
+11 964
+12 963
+15 771
+17 770
+22 578
+34 577
+43 385
+ ************* 32 0 238
+1 312080
+2 157204
+3 104803
+4 79184
+5 64046
+6 53566
+7 46579
+8 40756
+9 36099
+10 32605
+11 30276
+12 27947
+13 25618
+14 24454
+15 22125
+16 20960
+17 19796
+18 18632
+19 18631
+20 17467
+21 16303
+22 16302
+23 15138
+25 13974
+26 13973
+27 12809
+30 11645
+32 11644
+34 10480
+39 9316
+43 9315
+45 8151
+ ************* 9 0 534
+1 135845
+2 68016
+3 45469
+4 34197
+5 30643
+6 22922
+7 19727
+8 17286
+9 15603
+ ************* 25 0 2497
+1 1785278
+2 892835
+3 595412
+4 446852
+5 363383
+6 297902
+7 255581
+8 223817
+9 217951
+10 181887
+12 149342
+13 145823
+14 145431
+16 112105
+17 109367
+20 108975
+23 77995
+24 74867
+25 73303
+33 72911
+40 72519
+46 39193
+47 38411
+48 37629
+49 36847
+ ************* 32 0 5109
+1 1879524
+2 939859
+3 639989
+4 480479
+5 395654
+6 320969
+7 278654
+8 242384
+9 235754
+10 200069
+11 193634
+12 165749
+13 159509
+14 153269
+15 152879
+16 123434
+17 123239
+19 116999
+21 110564
+22 110369
+23 85214
+27 83069
+29 82874
+32 80729
+34 80534
+37 74489
+38 74294
+41 74099
+42 68054
+44 67859
+45 67664
+46 42899
+ ************* 32 0 5084
+1 1879524
+2 939859
+3 639989
+4 480479
+5 395654
+6 320969
+7 278654
+8 242384
+9 235754
+10 200069
+11 193634
+12 165749
+13 159509
+14 153269
+15 152879
+16 123434
+17 123239
+19 116999
+21 110564
+22 110369
+23 85214
+27 83069
+29 82874
+32 80729
+34 80534
+37 74489
+38 74294
+41 74099
+42 68054
+44 67859
+45 67664
+46 42899
+ ************* 16 0 56
+1 12994
+2 6641
+3 4620
+4 3465
+5 2887
+6 2598
+7 2309
+8 2021
+9 1732
+11 1444
+12 1443
+15 1155
+17 1154
+22 866
+34 865
+44 577
+ ************* 23 0 125
+1 54712
+2 27752
+3 18634
+4 14272
+5 11497
+6 9515
+7 8326
+8 7532
+9 6740
+10 5947
+11 5550
+12 5154
+13 4757
+14 4361
+16 3964
+18 3568
+20 3172
+22 3171
+23 2775
+28 2379
+32 2378
+35 1982
+46 1586
+ ************* 28 0 3525
+1 1418234
+2 709372
+3 483258
+4 354794
+5 290128
+6 257361
+7 225028
+8 192912
+9 161664
+10 160579
+11 129548
+12 129331
+13 128680
+14 128029
+15 97215
+18 96998
+19 96347
+20 95913
+21 95696
+22 64882
+35 64665
+36 64448
+37 64014
+39 63797
+40 63363
+41 63146
+43 33199
+44 32766
+ ************* 18 0 74
+1 3394
+2 1739
+3 1188
+4 891
+5 721
+6 636
+7 551
+8 467
+9 424
+10 382
+12 339
+14 297
+16 255
+17 254
+20 212
+27 170
+34 169
+40 127
+ ************* 32 0 2809
+1 1016074
+2 508247
+3 338832
+4 254229
+5 203383
+6 169629
+7 145800
+8 127222
+9 113084
+10 104444
+11 92619
+12 85025
+13 83344
+14 83133
+15 67935
+16 63716
+17 62666
+21 62244
+22 46415
+23 44515
+24 42618
+25 41988
+29 41777
+32 41566
+41 41355
+43 41144
+44 23418
+45 22785
+46 22363
+47 21941
+48 21520
+49 21310
+ ************* 29 0 4044
+1 3163654
+2 1582035
+3 1057511
+4 791442
+5 636758
+6 551690
+7 477047
+8 416582
+9 361121
+10 346109
+11 290648
+12 286061
+13 271466
+14 261458
+15 216005
+16 215588
+19 200993
+20 200576
+21 186398
+22 150536
+23 145532
+30 140945
+31 140528
+37 135941
+38 125933
+40 125516
+41 111338
+43 110921
+44 75893
+ ************* 18 0 76
+1 3394
+2 1739
+3 1188
+4 891
+5 721
+6 636
+7 551
+8 467
+9 424
+10 382
+12 339
+14 297
+16 255
+17 254
+20 212
+27 170
+34 169
+40 127
+ ************* 15 0 52
+1 1840
+2 941
+3 642
+4 513
+5 427
+6 342
+7 299
+9 256
+11 214
+12 213
+14 171
+17 170
+21 128
+34 127
+42 85
+ ************* 25 0 4179
+1 1819997
+2 914149
+3 606978
+4 475404
+5 364237
+6 317719
+7 277534
+8 240874
+9 202562
+10 200689
+11 194579
+12 160739
+13 160504
+14 156979
+15 121725
+16 120554
+20 120319
+21 116794
+22 114209
+23 80604
+32 80369
+37 80134
+41 76609
+43 73084
+45 41359
+ ************* 8 0 27
+1 55300
+2 30722
+3 21506
+4 18433
+5 15361
+6 12289
+9 9217
+17 6145
+ ************* 11 0 42
+1 80656
+2 43016
+3 29574
+4 24196
+5 18820
+6 16131
+8 13442
+10 10754
+15 8066
+16 8065
+29 5377
+ ************* 15 0 54
+1 4162
+2 2129
+3 1452
+4 1161
+5 967
+6 774
+7 677
+9 580
+11 484
+12 483
+14 387
+17 386
+21 290
+34 289
+42 193
+ ************* 28 0 1727
+1 2803245
+2 1402081
+3 954596
+4 713425
+5 588713
+6 480507
+7 418151
+8 365882
+9 341123
+10 303526
+11 279684
+12 248506
+14 232000
+15 217328
+16 187067
+17 186150
+20 179731
+21 170561
+22 154972
+23 125628
+26 124711
+33 123794
+40 117375
+41 110956
+42 108205
+43 101786
+44 92616
+46 63272
+ ************* 21 0 106
+1 43610
+2 22201
+3 15065
+4 11497
+5 9118
+6 7929
+7 6740
+8 5947
+9 5550
+10 4757
+11 4361
+13 3964
+14 3568
+16 3172
+17 3171
+19 2775
+22 2379
+25 2378
+28 1982
+37 1586
+50 1585
+ ************* 22 0 3579
+1 1149163
+2 580587
+3 387173
+4 290466
+5 230074
+6 193759
+7 164339
+8 161235
+9 129230
+10 129057
+11 128884
+12 97052
+13 96879
+15 96706
+16 96533
+18 64874
+19 64701
+22 64528
+31 64355
+33 64182
+35 33041
+36 32869
+ ************* 16 0 54
+1 8482
+2 4433
+3 3084
+4 2313
+5 1927
+6 1734
+7 1541
+8 1349
+9 1156
+11 964
+12 963
+15 771
+17 770
+22 578
+34 577
+43 385
+ ************* 25 0 138
+1 30466
+2 15335
+3 10428
+4 7770
+5 6338
+6 5316
+7 4702
+8 4089
+9 3680
+10 3271
+11 3067
+12 2862
+13 2658
+14 2453
+15 2249
+17 2045
+18 2044
+19 1840
+22 1636
+24 1635
+25 1431
+30 1227
+35 1226
+37 1022
+50 818
+ ************* 32 0 244
+1 829724
+2 416404
+3 280687
+4 209744
+5 169646
+6 141886
+7 123379
+8 107956
+9 95619
+10 86365
+11 80196
+12 74027
+13 67858
+14 64774
+15 58605
+16 55520
+17 52436
+18 49352
+19 49351
+20 46267
+21 43183
+22 43182
+23 40098
+25 37014
+26 37013
+27 33929
+30 30845
+32 30844
+34 27760
+39 24676
+43 24675
+45 21591
+ ************* 2 1 500
+1 190031
+2 170276
+ ************* 13 1 4805
+1 4696701
+2 2348892
+3 1566081
+4 1174703
+5 939855
+6 876529
+7 876014
+8 587609
+9 584524
+13 584009
+14 583494
+15 315179
+16 294064
+ ************* 14 1 52
+1 118129
+2 62173
+3 43521
+4 34195
+5 27977
+6 24869
+7 21760
+8 18652
+9 18651
+10 15543
+13 12434
+19 9326
+25 9325
+37 6217
+ ************* 14 1 54
+1 241045
+2 123613
+3 86529
+4 67987
+5 55625
+6 49445
+7 43264
+8 37084
+9 37083
+10 30903
+13 24722
+19 18542
+25 18541
+38 12361
+ ************* 15 1 66
+1 777193
+2 394765
+3 271401
+4 209719
+5 172709
+6 148037
+7 123364
+8 111028
+9 98691
+11 86355
+13 74018
+16 61682
+21 49346
+25 49345
+31 37009
+ ************* 7 1 18
+1 23588
+2 13759
+3 9828
+4 7862
+6 5897
+8 5896
+11 3931
+ ************* 7 1 16
+1 5128
+2 3076
+3 2051
+4 2050
+5 1538
+8 1537
+9 1025
+ ************* 15 1 62
+1 466727
+2 238329
+3 168816
+4 129095
+5 109234
+6 89373
+7 79443
+8 69513
+9 69512
+10 59582
+12 49652
+16 39722
+17 39721
+23 29791
+46 19861
+ ************* 14 1 53
+1 9609
+2 5033
+3 3431
+4 2745
+5 2287
+6 1830
+7 1601
+9 1372
+11 1143
+14 915
+17 914
+21 686
+33 685
+41 457
+ ************* 11 1 2641
+1 2247166
+2 1123810
+3 749358
+4 562359
+5 475929
+6 374918
+7 343979
+8 317589
+9 287104
+10 247974
+11 236599
+ ************* 9 1 35
+1 222848
+2 120709
+3 83568
+4 64997
+5 55712
+6 46427
+8 37141
+12 27856
+23 18571
+ ************* 5 1 12
+1 1388
+2 867
+3 694
+4 520
+7 347
+ ************* 8 1 24
+1 43532
+2 23046
+3 17924
+4 12803
+6 10242
+8 7682
+12 7681
+16 5121
+ ************* 7 1 20
+1 5192
+2 3028
+3 2163
+4 1730
+6 1298
+8 1297
+11 865
+ ************* 9 1 34
+1 102128
+2 53284
+3 39963
+4 31082
+5 26642
+6 22202
+8 17761
+11 13321
+22 8881
+ ************* 5 1 12
+1 1031
+2 644
+3 515
+4 386
+7 257
+ ************* 7 1 24
+1 12580
+2 7076
+3 4718
+4 3931
+5 3145
+8 2359
+15 1573
+ ************* 10 1 3623
+1 5048890
+2 2525190
+3 1693419
+4 1292071
+5 1033209
+6 861629
+7 759427
+8 663193
+9 622163
+10 544579
+ ************* 15 1 65
+1 777193
+2 394765
+3 271401
+4 209719
+5 172709
+6 148037
+7 123364
+8 111028
+9 98691
+11 86355
+13 74018
+16 61682
+21 49346
+25 49345
+31 37009
+ ************* 8 2 707
+1 926665
+2 463725
+3 347411
+4 260951
+5 189425
+6 174491
+7 173705
+10 102965
+ ************* 17 2 66
+1 591585
+2 308117
+3 209519
+4 160221
+5 135571
+6 110922
+7 98597
+8 86273
+9 86272
+10 73948
+11 73947
+12 61623
+16 49299
+17 49298
+24 36974
+33 36973
+47 24649
+ ************* 14 2 53
+1 121238
+2 62173
+3 43521
+4 34195
+5 27978
+6 24869
+7 21760
+8 18652
+9 18651
+10 15543
+13 12434
+19 9326
+26 9325
+38 6217
+ ************* 17 2 74
+1 14478
+2 7350
+3 5122
+4 3786
+5 3118
+6 2672
+7 2449
+8 2004
+10 1781
+11 1559
+12 1558
+13 1336
+16 1113
+22 891
+24 890
+32 668
+48 667
+ ************* 12 2 1357
+1 480681
+2 240543
+3 160362
+4 120373
+5 96419
+6 80383
+7 71455
+8 60289
+9 53589
+10 50343
+11 44050
+12 43644
+ ************* 20 2 96
+1 57736
+2 29224
+3 19958
+4 14968
+5 12117
+6 10691
+7 9266
+8 7840
+9 7128
+10 6415
+11 6414
+12 5702
+13 5701
+14 4989
+16 4276
+20 3564
+22 3563
+27 2851
+32 2850
+40 2138
+ ************* 21 2 101
+1 223784
+2 113208
+3 76350
+4 57920
+5 47389
+6 39491
+7 34226
+8 31592
+9 28960
+10 26327
+11 23694
+12 21062
+13 21061
+14 18429
+16 18428
+17 15796
+21 13164
+22 13163
+28 10531
+32 10530
+42 7898
+ ************* 12 2 52
+1 96512
+2 49560
+3 33910
+4 26084
+5 23476
+6 18259
+8 15650
+9 13042
+12 10434
+16 10433
+18 7825
+36 5217
+ ************* 17 2 1348
+1 415000
+2 207675
+3 138509
+4 104013
+5 86239
+6 69342
+7 68639
+8 52095
+9 51391
+10 51215
+11 40127
+12 34846
+13 34495
+17 33791
+18 33615
+22 22527
+23 21647
+ ************* 3 2 169
+1 10119
+2 5098
+3 3899
+ ************* 8 2 455
+1 61336
+2 30765
+3 21374
+4 15477
+5 14534
+6 13109
+7 10164
+8 8454
+ ************* 11 2 517
+1 70952
+2 35625
+3 23969
+4 18047
+5 15979
+6 12125
+7 12031
+8 11937
+9 11843
+10 9869
+11 7801
+ ************* 5 2 253
+1 778
+2 390
+3 260
+4 213
+5 209
+ ************* 2 2 74
+1 11001
+2 8065
+ ************* 7 2 344
+1 19223
+2 9630
+3 6445
+4 5585
+5 4179
+6 3262
+7 3077
+ ************* 2 2 163
+1 1346
+2 989
+ ************* 4 2 265
+1 8737
+2 4394
+3 2964
+4 2339
+ ************* 6 2 263
+1 237962
+2 119320
+3 80624
+4 72884
+5 48368
+6 44504
+ ************* 4 2 105
+1 8191
+2 4125
+3 2769
+4 2595
+ ************* 4 2 194
+1 34619
+2 19249
+3 11623
+4 9749
+ ************* 9 2 758
+1 545180
+2 273055
+3 182200
+4 137001
+5 130479
+6 92267
+7 88073
+8 87607
+9 87141
+ ************* 3 2 154
+1 13245
+2 6652
+3 4679
+ ************* 3 2 226
+1 13137
+2 6589
+3 4755
+ ************* 3 2 197
+1 7061
+2 3558
+3 2855
+ ************* 14 2 1388
+1 514283
+2 257249
+3 171715
+4 136511
+5 106919
+6 86183
+7 83159
+8 76895
+9 62639
+10 59831
+11 53567
+12 53351
+15 46871
+18 39311
+ ************* 25 2 6060
+1 2102430
+2 1058511
+3 717079
+4 535807
+5 438619
+6 375647
+7 329419
+8 278641
+9 256983
+10 232049
+11 206205
+12 206023
+13 194193
+14 184183
+15 159431
+16 145417
+22 133587
+23 133405
+25 123577
+26 121393
+27 111565
+28 111383
+29 101555
+30 86813
+31 72981
+ ************* 10 2 223
+1 768
+2 386
+3 259
+4 196
+5 164
+6 144
+7 128
+8 116
+9 108
+10 104
+ ************* 5 2 285
+1 12576
+2 6314
+3 4832
+4 3239
+5 2726
+ ************* 9 3 4572
+1 2854026
+2 1427347
+3 1003994
+4 713841
+5 669664
+6 669329
+7 668659
+8 357088
+9 335334
+ ************* 13 3 2784
+1 2217311
+2 1109078
+3 809198
+4 554961
+5 539324
+6 405233
+7 404810
+8 277903
+9 270296
+14 269873
+15 269450
+16 139163
+17 135359
+ ************* 2 3 286
+1 50221
+2 47111
+ ************* 2 3 291
+1 50221
+2 47111
+ ************* 11 4 43
+1 428
+2 220
+3 155
+4 116
+5 103
+6 90
+7 77
+8 64
+11 51
+16 38
+32 25
+ ************* 27 4 191
+1 15292
+2 7719
+3 5146
+4 3896
+5 3161
+6 2646
+7 2279
+8 1985
+9 1764
+10 1617
+11 1470
+12 1396
+13 1250
+14 1176
+15 1103
+16 1029
+18 955
+19 882
+21 809
+22 808
+23 735
+26 662
+27 661
+30 588
+35 515
+36 514
+42 441
+ ************* 3 4 45
+1 5058
+2 2582
+3 2507
+ ************* 5 4 173
+1 26602
+2 13354
+3 11129
+4 6782
+5 5829
+ ************* 28 4 950
+1 191874
+2 95992
+3 64070
+4 48106
+5 38481
+6 32167
+7 27613
+8 24163
+9 21518
+10 19757
+11 17624
+12 16194
+13 14983
+14 14873
+16 12192
+17 11420
+18 10869
+19 10319
+20 9989
+25 9878
+32 6206
+33 5985
+34 5765
+35 5655
+36 5545
+37 5325
+38 5215
+39 5105
+ ************* 17 4 466
+1 185794
+2 93014
+3 62248
+4 46741
+5 37364
+6 31241
+7 28199
+8 23488
+9 20906
+10 19034
+12 18799
+14 18564
+16 11978
+17 11274
+18 10571
+19 10103
+20 9869
+ ************* 17 4 421
+1 65686
+2 32891
+3 21959
+4 16493
+5 13243
+6 11027
+7 9695
+8 8342
+9 7383
+10 6717
+11 6431
+16 4219
+17 4026
+18 3739
+19 3549
+20 3454
+21 3359
+ ************* 5 4 152
+1 22427
+2 11262
+3 8721
+4 5680
+5 4605
+ ************* 24 4 1089
+1 26351
+2 13182
+3 8802
+4 6597
+5 5310
+6 4440
+7 3798
+8 3305
+9 2964
+10 2820
+11 2418
+12 2226
+13 2118
+16 1659
+17 1572
+18 1488
+19 1416
+32 836
+33 822
+34 798
+35 774
+36 750
+37 738
+38 714
+ ************* 15 4 937
+1 120188
+2 60128
+3 40137
+4 30132
+5 24701
+6 21182
+7 17663
+8 15100
+9 14144
+11 11033
+12 10625
+16 7586
+17 7174
+18 7106
+32 3863
+not ok
+not ok
+not ok
+Generated... 0 
+not ok
+ok
+Generated 1 
+not ok
+not ok
+ok
+Generated 2 
+not ok
+not ok
+ok
+Generated 3 
+not ok
+ok
+Generated 4 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 5 
+not ok
+ok
+Generated 6 
+not ok
+ok
+Generated 7 
+not ok
+not ok
+ok
+Generated 8 
+not ok
+not ok
+ok
+Generated 9 
+not ok
+not ok
+not ok
+ok
+Generated 10 
+not ok
+not ok
+ok
+Generated 11 
+not ok
+ok
+Generated 12 
+not ok
+ok
+Generated 13 
+not ok
+not ok
+ok
+Generated 14 
+not ok
+not ok
+not ok
+ok
+Generated 15 
+not ok
+not ok
+not ok
+ok
+Generated 16 
+not ok
+not ok
+ok
+Generated 17 
+not ok
+ok
+Generated 18 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 19 
+not ok
+ok
+Generated 20 
+not ok
+not ok
+ok
+Generated 21 
+not ok
+ok
+Generated 22 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 23 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 24 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 25 
+not ok
+ok
+Generated 26 
+not ok
+ok
+Generated 27 
+not ok
+ok
+Generated 28 
+not ok
+not ok
+not ok
+ok
+Generated 29 
+not ok
+not ok
+ok
+Generated 30 
+not ok
+not ok
+ok
+Generated 31 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 32 
+not ok
+ok
+Generated 33 
+not ok
+not ok
+not ok
+ok
+Generated 34 
+not ok
+not ok
+ok
+Generated 35 
+not ok
+ok
+Generated 36 
+not ok
+ok
+Generated 37 
+not ok
+ok
+Generated 38 
+not ok
+ok
+Generated 39 
+not ok
+not ok
+not ok
+ok
+Generated 40 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 41 
+not ok
+not ok
+ok
+Generated 42 
+not ok
+ok
+Generated 43 
+not ok
+ok
+Generated 44 
+not ok
+ok
+Generated 45 
+not ok
+ok
+Generated 46 
+not ok
+ok
+Generated 47 
+not ok
+not ok
+not ok
+ok
+Generated 48 
+not ok
+not ok
+not ok
+ok
+Generated 49 
+not ok
+not ok
+ok
+Generated 50 
+not ok
+not ok
+ok
+Generated 51 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 52 
+not ok
+not ok
+not ok
+ok
+Generated 53 
+not ok
+ok
+Generated 54 
+not ok
+not ok
+ok
+Generated 55 
+not ok
+ok
+Generated 56 
+not ok
+ok
+Generated 57 
+not ok
+ok
+Generated 58 
+not ok
+not ok
+not ok
+ok
+Generated 59 
+not ok
+ok
+Generated 60 
+not ok
+not ok
+ok
+Generated 61 
+not ok
+not ok
+not ok
+ok
+Generated 62 
+not ok
+not ok
+ok
+Generated 63 
+not ok
+not ok
+ok
+Generated 64 
+not ok
+not ok
+ok
+Generated 65 
+not ok
+not ok
+not ok
+ok
+Generated 66 
+not ok
+ok
+Generated 67 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 68 
+not ok
+ok
+Generated 69 
+not ok
+ok
+Generated 70 
+not ok
+not ok
+not ok
+ok
+Generated 71 
+not ok
+ok
+Generated 72 
+not ok
+not ok
+ok
+Generated 73 
+not ok
+ok
+Generated 74 
+not ok
+not ok
+not ok
+ok
+Generated 75 
+not ok
+ok
+Generated 76 
+not ok
+ok
+Generated 77 
+not ok
+not ok
+ok
+Generated 78 
+not ok
+not ok
+ok
+Generated 79 
+not ok
+not ok
+ok
+Generated 80 
+not ok
+not ok
+ok
+Generated 81 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 82 
+not ok
+not ok
+ok
+Generated 83 
+not ok
+ok
+Generated 84 
+not ok
+ok
+Generated 85 
+not ok
+not ok
+ok
+Generated 86 
+not ok
+not ok
+not ok
+ok
+Generated 87 
+not ok
+ok
+Generated 88 
+not ok
+ok
+Generated 89 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 90 
+not ok
+ok
+Generated 91 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 92 
+not ok
+ok
+Generated 93 
+not ok
+ok
+Generated 94 
+not ok
+not ok
+ok
+Generated 95 
+not ok
+not ok
+not ok
+ok
+Generated 96 
+not ok
+not ok
+ok
+Generated 97 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 98 
+not ok
+not ok
+ok
+Generated 99 
+not ok
+ok
+Generated 100 
+not ok
+ok
+Generated 101 
+not ok
+not ok
+ok
+Generated 102 
+not ok
+ok
+Generated 103 
+not ok
+not ok
+ok
+Generated 104 
+not ok
+ok
+Generated 105 
+not ok
+ok
+Generated 106 
+not ok
+ok
+Generated 107 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 108 
+not ok
+ok
+Generated 109 
+not ok
+not ok
+not ok
+ok
+Generated 110 
+not ok
+not ok
+ok
+Generated 111 
+not ok
+ok
+Generated 112 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 113 
+not ok
+ok
+Generated 114 
+not ok
+ok
+Generated 115 
+not ok
+ok
+Generated 116 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 117 
+not ok
+ok
+Generated 118 
+not ok
+not ok
+not ok
+ok
+Generated 119 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 120 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 121 
+not ok
+ok
+Generated 122 
+not ok
+ok
+Generated 123 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 124 
+not ok
+ok
+Generated 125 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 126 
+not ok
+ok
+Generated 127 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 128 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 129 
+not ok
+not ok
+not ok
+ok
+Generated 130 
+not ok
+not ok
+not ok
+ok
+Generated 131 
+not ok
+not ok
+ok
+Generated 132 
+not ok
+ok
+Generated 133 
+not ok
+not ok
+ok
+Generated 134 
+not ok
+not ok
+not ok
+ok
+Generated 135 
+not ok
+ok
+Generated 136 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 137 
+not ok
+not ok
+ok
+Generated 138 
+not ok
+ok
+Generated 139 
+not ok
+not ok
+ok
+Generated 140 
+not ok
+ok
+Generated 141 
+not ok
+not ok
+ok
+Generated 142 
+not ok
+not ok
+not ok
+ok
+Generated 143 
+not ok
+not ok
+not ok
+ok
+Generated 144 
+not ok
+ok
+Generated 145 
+not ok
+ok
+Generated 146 
+not ok
+not ok
+not ok
+ok
+Generated 147 
+not ok
+not ok
+not ok
+ok
+Generated 148 
+not ok
+ok
+Generated 149 
+not ok
+ok
+Generated 150 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 151 
+not ok
+ok
+Generated 152 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 153 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 154 
+not ok
+not ok
+ok
+Generated 155 
+not ok
+ok
+Generated 156 
+not ok
+not ok
+not ok
+ok
+Generated 157 
+not ok
+ok
+Generated 158 
+not ok
+ok
+Generated 159 
+not ok
+not ok
+ok
+Generated 160 
+not ok
+not ok
+ok
+Generated 161 
+not ok
+ok
+Generated 162 
+not ok
+not ok
+not ok
+ok
+Generated 163 
+not ok
+ok
+Generated 164 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 165 
+not ok
+ok
+Generated 166 
+not ok
+not ok
+ok
+Generated 167 
+not ok
+ok
+Generated 168 
+not ok
+ok
+Generated 169 
+not ok
+ok
+Generated 170 
+not ok
+ok
+Generated 171 
+not ok
+ok
+Generated 172 
+not ok
+ok
+Generated 173 
+not ok
+not ok
+ok
+Generated 174 
+not ok
+ok
+Generated 175 
+not ok
+ok
+Generated 176 
+not ok
+ok
+Generated 177 
+not ok
+not ok
+ok
+Generated 178 
+not ok
+ok
+Generated 179 
+not ok
+ok
+Generated 180 
+not ok
+not ok
+ok
+Generated 181 
+not ok
+ok
+Generated 182 
+not ok
+not ok
+ok
+Generated 183 
+not ok
+ok
+Generated 184 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 185 
+not ok
+not ok
+not ok
+ok
+Generated 186 
+not ok
+not ok
+ok
+Generated 187 
+not ok
+ok
+Generated 188 
+not ok
+ok
+Generated 189 
+not ok
+not ok
+not ok
+ok
+Generated 190 
+not ok
+not ok
+ok
+Generated 191 
+not ok
+ok
+Generated 192 
+not ok
+not ok
+ok
+Generated 193 
+not ok
+ok
+Generated 194 
+not ok
+ok
+Generated 195 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 196 
+not ok
+ok
+Generated 197 
+not ok
+not ok
+not ok
+ok
+Generated 198 
+not ok
+not ok
+not ok
+ok
+Generated 199 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 200 
+not ok
+not ok
+not ok
+ok
+Generated 201 
+not ok
+ok
+Generated 202 
+not ok
+not ok
+ok
+Generated 203 
+not ok
+not ok
+ok
+Generated 204 
+not ok
+ok
+Generated 205 
+not ok
+ok
+Generated 206 
+not ok
+not ok
+ok
+Generated 207 
+not ok
+not ok
+ok
+Generated 208 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 209 
+not ok
+not ok
+ok
+Generated 210 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 211 
+not ok
+not ok
+ok
+Generated 212 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 213 
+not ok
+ok
+Generated 214 
+not ok
+ok
+Generated 215 
+not ok
+not ok
+ok
+Generated 216 
+not ok
+not ok
+ok
+Generated 217 
+not ok
+ok
+Generated 218 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 219 
+not ok
+ok
+Generated 220 
+not ok
+ok
+Generated 221 
+not ok
+ok
+Generated 222 
+not ok
+ok
+Generated 223 
+not ok
+ok
+Generated 224 
+not ok
+not ok
+ok
+Generated 225 
+not ok
+not ok
+ok
+Generated 226 
+not ok
+ok
+Generated 227 
+not ok
+not ok
+ok
+Generated 228 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 229 
+not ok
+ok
+Generated 230 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 231 
+not ok
+not ok
+ok
+Generated 232 
+not ok
+ok
+Generated 233 
+not ok
+not ok
+ok
+Generated 234 
+not ok
+not ok
+ok
+Generated 235 
+not ok
+ok
+Generated 236 
+not ok
+ok
+Generated 237 
+not ok
+ok
+Generated 238 
+not ok
+not ok
+ok
+Generated 239 
+not ok
+ok
+Generated 240 
+not ok
+not ok
+not ok
+ok
+Generated 241 
+not ok
+ok
+Generated 242 
+not ok
+ok
+Generated 243 
+not ok
+ok
+Generated 244 
+not ok
+not ok
+ok
+Generated 245 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 246 
+not ok
+not ok
+ok
+Generated 247 
+not ok
+not ok
+not ok
+ok
+Generated 248 
+not ok
+ok
+Generated 249 
+not ok
+not ok
+ok
+Generated 250 
+not ok
+ok
+Generated 251 
+not ok
+not ok
+ok
+Generated 252 
+not ok
+ok
+Generated 253 
+not ok
+ok
+Generated 254 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 255 
+not ok
+ok
+Generated 256 
+not ok
+not ok
+ok
+Generated 257 
+not ok
+not ok
+ok
+Generated 258 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 259 
+not ok
+ok
+Generated 260 
+not ok
+not ok
+ok
+Generated 261 
+not ok
+ok
+Generated 262 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 263 
+not ok
+ok
+Generated 264 
+not ok
+not ok
+ok
+Generated 265 
+not ok
+not ok
+not ok
+ok
+Generated 266 
+not ok
+ok
+Generated 267 
+not ok
+ok
+Generated 268 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 269 
+not ok
+ok
+Generated 270 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 271 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 272 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 273 
+not ok
+ok
+Generated 274 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 275 
+not ok
+not ok
+ok
+Generated 276 
+not ok
+not ok
+ok
+Generated 277 
+not ok
+ok
+Generated 278 
+not ok
+not ok
+ok
+Generated 279 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 280 
+not ok
+ok
+Generated 281 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 282 
+not ok
+not ok
+ok
+Generated 283 
+not ok
+ok
+Generated 284 
+not ok
+not ok
+ok
+Generated 285 
+not ok
+ok
+Generated 286 
+not ok
+ok
+Generated 287 
+not ok
+not ok
+ok
+Generated 288 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 289 
+not ok
+not ok
+ok
+Generated 290 
+not ok
+ok
+Generated 291 
+not ok
+ok
+Generated 292 
+not ok
+not ok
+ok
+Generated 293 
+not ok
+not ok
+ok
+Generated 294 
+not ok
+not ok
+ok
+Generated 295 
+not ok
+ok
+Generated 296 
+not ok
+ok
+Generated 297 
+not ok
+not ok
+not ok
+ok
+Generated 298 
+not ok
+ok
+Generated 299 
+not ok
+ok
+Generated 300 
+not ok
+not ok
+ok
+Generated 301 
+not ok
+not ok
+ok
+Generated 302 
+not ok
+ok
+Generated 303 
+not ok
+ok
+Generated 304 
+not ok
+ok
+Generated 305 
+not ok
+ok
+Generated 306 
+not ok
+not ok
+ok
+Generated 307 
+not ok
+ok
+Generated 308 
+not ok
+ok
+Generated 309 
+not ok
+ok
+Generated 310 
+not ok
+not ok
+not ok
+ok
+Generated 311 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 312 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 313 
+not ok
+not ok
+ok
+Generated 314 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 315 
+not ok
+not ok
+not ok
+ok
+Generated 316 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 317 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 318 
+not ok
+not ok
+not ok
+ok
+Generated 319 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 320 
+not ok
+not ok
+ok
+Generated 321 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 322 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 323 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 324 
+not ok
+not ok
+ok
+Generated 325 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 326 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 327 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 328 
+not ok
+ok
+Generated 329 
+not ok
+not ok
+ok
+Generated 330 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 331 
+not ok
+not ok
+ok
+Generated 332 
+not ok
+not ok
+ok
+Generated 333 
+not ok
+ok
+Generated 334 
+not ok
+ok
+Generated 335 
+not ok
+ok
+Generated 336 
+not ok
+ok
+Generated 337 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 338 
+not ok
+ok
+Generated 339 
+not ok
+not ok
+ok
+Generated 340 
+not ok
+ok
+Generated 341 
+not ok
+ok
+Generated 342 
+not ok
+not ok
+ok
+Generated 343 
+not ok
+not ok
+not ok
+ok
+Generated 344 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 345 
+not ok
+not ok
+not ok
+ok
+Generated 346 
+not ok
+not ok
+ok
+Generated 347 
+not ok
+not ok
+ok
+Generated 348 
+not ok
+not ok
+ok
+Generated 349 
+not ok
+ok
+Generated 350 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 351 
+not ok
+ok
+Generated 352 
+not ok
+ok
+Generated 353 
+not ok
+not ok
+not ok
+ok
+Generated 354 
+not ok
+not ok
+not ok
+ok
+Generated 355 
+not ok
+not ok
+ok
+Generated 356 
+not ok
+ok
+Generated 357 
+not ok
+ok
+Generated 358 
+not ok
+ok
+Generated 359 
+not ok
+not ok
+ok
+Generated 360 
+not ok
+ok
+Generated 361 
+not ok
+ok
+Generated 362 
+not ok
+ok
+Generated 363 
+not ok
+ok
+Generated 364 
+not ok
+not ok
+ok
+Generated 365 
+not ok
+not ok
+ok
+Generated 366 
+not ok
+not ok
+ok
+Generated 367 
+not ok
+ok
+Generated 368 
+not ok
+ok
+Generated 369 
+not ok
+ok
+Generated 370 
+not ok
+ok
+Generated 371 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 372 
+not ok
+not ok
+ok
+Generated 373 
+not ok
+not ok
+ok
+Generated 374 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 375 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 376 
+not ok
+ok
+Generated 377 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 378 
+not ok
+ok
+Generated 379 
+not ok
+not ok
+ok
+Generated 380 
+not ok
+ok
+Generated 381 
+not ok
+ok
+Generated 382 
+not ok
+not ok
+not ok
+ok
+Generated 383 
+not ok
+ok
+Generated 384 
+not ok
+ok
+Generated 385 
+not ok
+ok
+Generated 386 
+not ok
+not ok
+not ok
+ok
+Generated 387 
+not ok
+not ok
+ok
+Generated 388 
+not ok
+not ok
+not ok
+ok
+Generated 389 
+not ok
+not ok
+ok
+Generated 390 
+not ok
+ok
+Generated 391 
+not ok
+not ok
+ok
+Generated 392 
+not ok
+ok
+Generated 393 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 394 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 395 
+not ok
+not ok
+ok
+Generated 396 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 397 
+not ok
+ok
+Generated 398 
+not ok
+ok
+Generated 399 
+not ok
+not ok
+not ok
+ok
+Generated 400 
+not ok
+ok
+Generated 401 
+not ok
+not ok
+not ok
+ok
+Generated 402 
+not ok
+ok
+Generated 403 
+not ok
+not ok
+ok
+Generated 404 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 405 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 406 
+not ok
+not ok
+ok
+Generated 407 
+not ok
+ok
+Generated 408 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 409 
+not ok
+not ok
+ok
+Generated 410 
+not ok
+ok
+Generated 411 
+not ok
+ok
+Generated 412 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 413 
+not ok
+not ok
+ok
+Generated 414 
+not ok
+ok
+Generated 415 
+not ok
+ok
+Generated 416 
+not ok
+ok
+Generated 417 
+not ok
+not ok
+not ok
+ok
+Generated 418 
+not ok
+ok
+Generated 419 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 420 
+not ok
+not ok
+ok
+Generated 421 
+not ok
+ok
+Generated 422 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 423 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 424 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 425 
+not ok
+ok
+Generated 426 
+not ok
+ok
+Generated 427 
+not ok
+not ok
+ok
+Generated 428 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 429 
+not ok
+not ok
+not ok
+ok
+Generated 430 
+not ok
+not ok
+not ok
+ok
+Generated 431 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 432 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 433 
+not ok
+not ok
+not ok
+ok
+Generated 434 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 435 
+not ok
+not ok
+ok
+Generated 436 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 437 
+not ok
+not ok
+not ok
+ok
+Generated 438 
+not ok
+not ok
+ok
+Generated 439 
+not ok
+ok
+Generated 440 
+not ok
+ok
+Generated 441 
+not ok
+ok
+Generated 442 
+not ok
+not ok
+ok
+Generated 443 
+not ok
+not ok
+not ok
+ok
+Generated 444 
+not ok
+not ok
+not ok
+ok
+Generated 445 
+not ok
+not ok
+ok
+Generated 446 
+not ok
+not ok
+not ok
+ok
+Generated 447 
+not ok
+ok
+Generated 448 
+not ok
+not ok
+not ok
+ok
+Generated 449 
+not ok
+not ok
+ok
+Generated 450 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 451 
+not ok
+ok
+Generated 452 
+not ok
+ok
+Generated 453 
+not ok
+ok
+Generated 454 
+not ok
+ok
+Generated 455 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 456 
+not ok
+not ok
+ok
+Generated 457 
+not ok
+ok
+Generated 458 
+not ok
+not ok
+not ok
+ok
+Generated 459 
+not ok
+ok
+Generated 460 
+not ok
+not ok
+ok
+Generated 461 
+not ok
+ok
+Generated 462 
+not ok
+ok
+Generated 463 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 464 
+not ok
+not ok
+ok
+Generated 465 
+not ok
+ok
+Generated 466 
+not ok
+not ok
+not ok
+ok
+Generated 467 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 468 
+not ok
+ok
+Generated 469 
+not ok
+ok
+Generated 470 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 471 
+not ok
+ok
+Generated 472 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 473 
+not ok
+not ok
+ok
+Generated 474 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 475 
+not ok
+not ok
+ok
+Generated 476 
+not ok
+not ok
+not ok
+ok
+Generated 477 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 478 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 479 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 480 
+not ok
+not ok
+not ok
+ok
+Generated 481 
+not ok
+not ok
+not ok
+ok
+Generated 482 
+not ok
+ok
+Generated 483 
+not ok
+not ok
+ok
+Generated 484 
+not ok
+ok
+Generated 485 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 486 
+not ok
+not ok
+ok
+Generated 487 
+not ok
+not ok
+ok
+Generated 488 
+not ok
+not ok
+not ok
+ok
+Generated 489 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 490 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 491 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 492 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 493 
+not ok
+ok
+Generated 494 
+not ok
+ok
+Generated 495 
+not ok
+ok
+Generated 496 
+not ok
+ok
+Generated 497 
+not ok
+ok
+Generated 498 
+not ok
+ok
+Generated 499 
+not ok
+ok
+Generated 500 
+not ok
+not ok
+not ok
+ok
+Generated 501 
+not ok
+ok
+Generated 502 
+not ok
+not ok
+ok
+Generated 503 
+not ok
+ok
+Generated 504 
+not ok
+not ok
+not ok
+ok
+Generated 505 
+not ok
+not ok
+not ok
+ok
+Generated 506 
+not ok
+not ok
+not ok
+ok
+Generated 507 
+not ok
+not ok
+ok
+Generated 508 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 509 
+not ok
+ok
+Generated 510 
+not ok
+ok
+Generated 511 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 512 
+not ok
+not ok
+ok
+Generated 513 
+not ok
+ok
+Generated 514 
+not ok
+ok
+Generated 515 
+not ok
+ok
+Generated 516 
+not ok
+ok
+Generated 517 
+not ok
+not ok
+ok
+Generated 518 
+not ok
+ok
+Generated 519 
+not ok
+not ok
+not ok
+ok
+Generated 520 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 521 
+not ok
+ok
+Generated 522 
+not ok
+ok
+Generated 523 
+not ok
+ok
+Generated 524 
+not ok
+not ok
+not ok
+ok
+Generated 525 
+not ok
+not ok
+ok
+Generated 526 
+not ok
+ok
+Generated 527 
+not ok
+not ok
+ok
+Generated 528 
+not ok
+ok
+Generated 529 
+not ok
+ok
+Generated 530 
+not ok
+ok
+Generated 531 
+not ok
+ok
+Generated 532 
+not ok
+not ok
+not ok
+ok
+Generated 533 
+not ok
+not ok
+ok
+Generated 534 
+not ok
+ok
+Generated 535 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 536 
+not ok
+ok
+Generated 537 
+not ok
+ok
+Generated 538 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 539 
+not ok
+ok
+Generated 540 
+not ok
+not ok
+ok
+Generated 541 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 542 
+not ok
+ok
+Generated 543 
+not ok
+ok
+Generated 544 
+not ok
+not ok
+ok
+Generated 545 
+not ok
+not ok
+ok
+Generated 546 
+not ok
+ok
+Generated 547 
+not ok
+not ok
+ok
+Generated 548 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 549 
+not ok
+ok
+Generated 550 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 551 
+not ok
+not ok
+ok
+Generated 552 
+not ok
+ok
+Generated 553 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 554 
+not ok
+not ok
+ok
+Generated 555 
+not ok
+ok
+Generated 556 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 557 
+not ok
+ok
+Generated 558 
+not ok
+ok
+Generated 559 
+not ok
+not ok
+ok
+Generated 560 
+not ok
+not ok
+not ok
+ok
+Generated 561 
+not ok
+ok
+Generated 562 
+not ok
+not ok
+ok
+Generated 563 
+not ok
+not ok
+ok
+Generated 564 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 565 
+not ok
+not ok
+ok
+Generated 566 
+not ok
+ok
+Generated 567 
+not ok
+not ok
+ok
+Generated 568 
+not ok
+ok
+Generated 569 
+not ok
+ok
+Generated 570 
+not ok
+not ok
+ok
+Generated 571 
+not ok
+ok
+Generated 572 
+not ok
+not ok
+not ok
+ok
+Generated 573 
+not ok
+not ok
+not ok
+ok
+Generated 574 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 575 
+not ok
+ok
+Generated 576 
+not ok
+ok
+Generated 577 
+not ok
+ok
+Generated 578 
+not ok
+not ok
+ok
+Generated 579 
+not ok
+not ok
+ok
+Generated 580 
+not ok
+ok
+Generated 581 
+not ok
+ok
+Generated 582 
+not ok
+not ok
+ok
+Generated 583 
+not ok
+not ok
+not ok
+ok
+Generated 584 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 585 
+not ok
+ok
+Generated 586 
+not ok
+not ok
+not ok
+ok
+Generated 587 
+not ok
+ok
+Generated 588 
+not ok
+ok
+Generated 589 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 590 
+not ok
+not ok
+not ok
+ok
+Generated 591 
+not ok
+not ok
+ok
+Generated 592 
+not ok
+not ok
+not ok
+ok
+Generated 593 
+not ok
+ok
+Generated 594 
+not ok
+not ok
+not ok
+ok
+Generated 595 
+not ok
+ok
+Generated 596 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 597 
+not ok
+ok
+Generated 598 
+not ok
+ok
+Generated 599 
+not ok
+ok
+Generated 600 
+not ok
+ok
+Generated 601 
+not ok
+ok
+Generated 602 
+not ok
+ok
+Generated 603 
+not ok
+not ok
+not ok
+ok
+Generated 604 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 605 
+not ok
+not ok
+ok
+Generated 606 
+not ok
+not ok
+not ok
+ok
+Generated 607 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 608 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 609 
+not ok
+ok
+Generated 610 
+not ok
+ok
+Generated 611 
+not ok
+not ok
+ok
+Generated 612 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 613 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 614 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 615 
+not ok
+not ok
+not ok
+ok
+Generated 616 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 617 
+not ok
+not ok
+ok
+Generated 618 
+not ok
+not ok
+ok
+Generated 619 
+not ok
+ok
+Generated 620 
+not ok
+not ok
+ok
+Generated 621 
+not ok
+not ok
+not ok
+ok
+Generated 622 
+not ok
+not ok
+not ok
+ok
+Generated 623 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 624 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 625 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 626 
+not ok
+ok
+Generated 627 
+not ok
+ok
+Generated 628 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 629 
+not ok
+not ok
+not ok
+ok
+Generated 630 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 631 
+not ok
+not ok
+ok
+Generated 632 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 633 
+not ok
+not ok
+ok
+Generated 634 
+not ok
+ok
+Generated 635 
+not ok
+ok
+Generated 636 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 637 
+not ok
+ok
+Generated 638 
+not ok
+not ok
+ok
+Generated 639 
+not ok
+ok
+Generated 640 
+not ok
+ok
+Generated 641 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 642 
+not ok
+ok
+Generated 643 
+not ok
+ok
+Generated 644 
+not ok
+ok
+Generated 645 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 646 
+not ok
+ok
+Generated 647 
+not ok
+ok
+Generated 648 
+not ok
+not ok
+ok
+Generated 649 
+not ok
+not ok
+ok
+Generated 650 
+not ok
+not ok
+not ok
+ok
+Generated 651 
+not ok
+ok
+Generated 652 
+not ok
+ok
+Generated 653 
+not ok
+ok
+Generated 654 
+not ok
+ok
+Generated 655 
+not ok
+ok
+Generated 656 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 657 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 658 
+not ok
+ok
+Generated 659 
+not ok
+ok
+Generated 660 
+not ok
+not ok
+ok
+Generated 661 
+not ok
+not ok
+ok
+Generated 662 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 663 
+not ok
+ok
+Generated 664 
+not ok
+not ok
+ok
+Generated 665 
+not ok
+not ok
+ok
+Generated 666 
+not ok
+not ok
+ok
+Generated 667 
+not ok
+ok
+Generated 668 
+not ok
+not ok
+not ok
+ok
+Generated 669 
+not ok
+not ok
+ok
+Generated 670 
+not ok
+not ok
+not ok
+ok
+Generated 671 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 672 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 673 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 674 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 675 
+not ok
+not ok
+ok
+Generated 676 
+not ok
+ok
+Generated 677 
+not ok
+not ok
+not ok
+ok
+Generated 678 
+not ok
+not ok
+ok
+Generated 679 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 680 
+not ok
+ok
+Generated 681 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 682 
+not ok
+ok
+Generated 683 
+not ok
+ok
+Generated 684 
+not ok
+not ok
+ok
+Generated 685 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 686 
+not ok
+not ok
+ok
+Generated 687 
+not ok
+ok
+Generated 688 
+not ok
+ok
+Generated 689 
+not ok
+ok
+Generated 690 
+not ok
+not ok
+ok
+Generated 691 
+not ok
+ok
+Generated 692 
+not ok
+ok
+Generated 693 
+not ok
+not ok
+ok
+Generated 694 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 695 
+not ok
+not ok
+ok
+Generated 696 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 697 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 698 
+not ok
+not ok
+not ok
+ok
+Generated 699 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 700 
+not ok
+not ok
+ok
+Generated 701 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 702 
+not ok
+not ok
+ok
+Generated 703 
+not ok
+not ok
+not ok
+ok
+Generated 704 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 705 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 706 
+not ok
+not ok
+ok
+Generated 707 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 708 
+not ok
+ok
+Generated 709 
+not ok
+not ok
+ok
+Generated 710 
+not ok
+ok
+Generated 711 
+not ok
+not ok
+ok
+Generated 712 
+not ok
+ok
+Generated 713 
+not ok
+ok
+Generated 714 
+not ok
+ok
+Generated 715 
+not ok
+not ok
+ok
+Generated 716 
+not ok
+ok
+Generated 717 
+not ok
+not ok
+ok
+Generated 718 
+not ok
+not ok
+not ok
+ok
+Generated 719 
+not ok
+ok
+Generated 720 
+not ok
+ok
+Generated 721 
+not ok
+ok
+Generated 722 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 723 
+not ok
+ok
+Generated 724 
+not ok
+ok
+Generated 725 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 726 
+not ok
+ok
+Generated 727 
+not ok
+not ok
+not ok
+ok
+Generated 728 
+not ok
+not ok
+not ok
+ok
+Generated 729 
+not ok
+not ok
+ok
+Generated 730 
+not ok
+ok
+Generated 731 
+not ok
+not ok
+not ok
+ok
+Generated 732 
+not ok
+not ok
+ok
+Generated 733 
+not ok
+not ok
+not ok
+ok
+Generated 734 
+not ok
+not ok
+ok
+Generated 735 
+not ok
+not ok
+ok
+Generated 736 
+not ok
+not ok
+ok
+Generated 737 
+not ok
+not ok
+ok
+Generated 738 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 739 
+not ok
+not ok
+ok
+Generated 740 
+not ok
+ok
+Generated 741 
+not ok
+not ok
+ok
+Generated 742 
+not ok
+not ok
+ok
+Generated 743 
+not ok
+not ok
+ok
+Generated 744 
+not ok
+ok
+Generated 745 
+not ok
+ok
+Generated 746 
+not ok
+not ok
+ok
+Generated 747 
+not ok
+ok
+Generated 748 
+not ok
+not ok
+ok
+Generated 749 
+not ok
+ok
+Generated 750 
+not ok
+ok
+Generated 751 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 752 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 753 
+not ok
+ok
+Generated 754 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 755 
+not ok
+ok
+Generated 756 
+not ok
+not ok
+not ok
+ok
+Generated 757 
+not ok
+not ok
+not ok
+ok
+Generated 758 
+not ok
+ok
+Generated 759 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 760 
+not ok
+ok
+Generated 761 
+not ok
+not ok
+ok
+Generated 762 
+not ok
+ok
+Generated 763 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 764 
+not ok
+not ok
+ok
+Generated 765 
+not ok
+ok
+Generated 766 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 767 
+not ok
+ok
+Generated 768 
+not ok
+ok
+Generated 769 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 770 
+not ok
+ok
+Generated 771 
+not ok
+ok
+Generated 772 
+not ok
+not ok
+not ok
+ok
+Generated 773 
+not ok
+not ok
+ok
+Generated 774 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 775 
+not ok
+not ok
+not ok
+ok
+Generated 776 
+not ok
+ok
+Generated 777 
+not ok
+not ok
+ok
+Generated 778 
+not ok
+ok
+Generated 779 
+not ok
+ok
+Generated 780 
+not ok
+ok
+Generated 781 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 782 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 783 
+not ok
+ok
+Generated 784 
+not ok
+ok
+Generated 785 
+not ok
+not ok
+not ok
+ok
+Generated 786 
+not ok
+ok
+Generated 787 
+not ok
+ok
+Generated 788 
+not ok
+ok
+Generated 789 
+not ok
+ok
+Generated 790 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 791 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 792 
+not ok
+ok
+Generated 793 
+not ok
+ok
+Generated 794 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 795 
+not ok
+ok
+Generated 796 
+not ok
+not ok
+ok
+Generated 797 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 798 
+not ok
+ok
+Generated 799 
+not ok
+ok
+Generated 800 
+not ok
+ok
+Generated 801 
+not ok
+not ok
+ok
+Generated 802 
+not ok
+ok
+Generated 803 
+not ok
+not ok
+ok
+Generated 804 
+not ok
+ok
+Generated 805 
+not ok
+ok
+Generated 806 
+not ok
+not ok
+ok
+Generated 807 
+not ok
+not ok
+ok
+Generated 808 
+not ok
+not ok
+ok
+Generated 809 
+not ok
+ok
+Generated 810 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 811 
+not ok
+not ok
+ok
+Generated 812 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 813 
+not ok
+ok
+Generated 814 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 815 
+not ok
+ok
+Generated 816 
+not ok
+ok
+Generated 817 
+not ok
+not ok
+ok
+Generated 818 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 819 
+not ok
+ok
+Generated 820 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 821 
+not ok
+not ok
+ok
+Generated 822 
+not ok
+not ok
+ok
+Generated 823 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 824 
+not ok
+not ok
+not ok
+ok
+Generated 825 
+not ok
+ok
+Generated 826 
+not ok
+ok
+Generated 827 
+not ok
+ok
+Generated 828 
+not ok
+not ok
+ok
+Generated 829 
+not ok
+not ok
+not ok
+ok
+Generated 830 
+not ok
+ok
+Generated 831 
+not ok
+ok
+Generated 832 
+not ok
+not ok
+not ok
+ok
+Generated 833 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 834 
+not ok
+not ok
+not ok
+ok
+Generated 835 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 836 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 837 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 838 
+not ok
+ok
+Generated 839 
+not ok
+not ok
+ok
+Generated 840 
+not ok
+ok
+Generated 841 
+not ok
+ok
+Generated 842 
+not ok
+not ok
+ok
+Generated 843 
+not ok
+ok
+Generated 844 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 845 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 846 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 847 
+not ok
+ok
+Generated 848 
+not ok
+ok
+Generated 849 
+not ok
+ok
+Generated 850 
+not ok
+ok
+Generated 851 
+not ok
+not ok
+ok
+Generated 852 
+not ok
+not ok
+ok
+Generated 853 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 854 
+not ok
+not ok
+ok
+Generated 855 
+not ok
+ok
+Generated 856 
+not ok
+ok
+Generated 857 
+not ok
+not ok
+ok
+Generated 858 
+not ok
+not ok
+ok
+Generated 859 
+not ok
+not ok
+ok
+Generated 860 
+not ok
+not ok
+ok
+Generated 861 
+not ok
+not ok
+ok
+Generated 862 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 863 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 864 
+not ok
+ok
+Generated 865 
+not ok
+not ok
+ok
+Generated 866 
+not ok
+ok
+Generated 867 
+not ok
+ok
+Generated 868 
+not ok
+ok
+Generated 869 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 870 
+not ok
+not ok
+ok
+Generated 871 
+not ok
+ok
+Generated 872 
+not ok
+ok
+Generated 873 
+not ok
+ok
+Generated 874 
+not ok
+ok
+Generated 875 
+not ok
+not ok
+ok
+Generated 876 
+not ok
+not ok
+not ok
+ok
+Generated 877 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 878 
+not ok
+not ok
+ok
+Generated 879 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 880 
+not ok
+not ok
+ok
+Generated 881 
+not ok
+ok
+Generated 882 
+not ok
+ok
+Generated 883 
+not ok
+ok
+Generated 884 
+not ok
+ok
+Generated 885 
+not ok
+ok
+Generated 886 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 887 
+not ok
+not ok
+not ok
+ok
+Generated 888 
+not ok
+not ok
+ok
+Generated 889 
+not ok
+ok
+Generated 890 
+not ok
+ok
+Generated 891 
+not ok
+ok
+Generated 892 
+not ok
+ok
+Generated 893 
+not ok
+not ok
+ok
+Generated 894 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 895 
+not ok
+ok
+Generated 896 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 897 
+not ok
+ok
+Generated 898 
+not ok
+not ok
+ok
+Generated 899 
+not ok
+ok
+Generated 900 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 901 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 902 
+not ok
+ok
+Generated 903 
+not ok
+ok
+Generated 904 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 905 
+not ok
+not ok
+ok
+Generated 906 
+not ok
+ok
+Generated 907 
+not ok
+not ok
+ok
+Generated 908 
+not ok
+ok
+Generated 909 
+not ok
+ok
+Generated 910 
+not ok
+not ok
+not ok
+ok
+Generated 911 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 912 
+not ok
+not ok
+not ok
+ok
+Generated 913 
+not ok
+ok
+Generated 914 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 915 
+not ok
+ok
+Generated 916 
+not ok
+ok
+Generated 917 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 918 
+not ok
+not ok
+ok
+Generated 919 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 920 
+not ok
+ok
+Generated 921 
+not ok
+ok
+Generated 922 
+not ok
+not ok
+ok
+Generated 923 
+not ok
+not ok
+not ok
+ok
+Generated 924 
+not ok
+ok
+Generated 925 
+not ok
+ok
+Generated 926 
+not ok
+ok
+Generated 927 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 928 
+not ok
+not ok
+not ok
+ok
+Generated 929 
+not ok
+not ok
+ok
+Generated 930 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 931 
+not ok
+not ok
+ok
+Generated 932 
+not ok
+ok
+Generated 933 
+not ok
+ok
+Generated 934 
+not ok
+ok
+Generated 935 
+not ok
+not ok
+ok
+Generated 936 
+not ok
+ok
+Generated 937 
+not ok
+not ok
+ok
+Generated 938 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 939 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 940 
+not ok
+not ok
+ok
+Generated 941 
+not ok
+ok
+Generated 942 
+not ok
+ok
+Generated 943 
+not ok
+ok
+Generated 944 
+not ok
+not ok
+ok
+Generated 945 
+not ok
+not ok
+ok
+Generated 946 
+not ok
+ok
+Generated 947 
+not ok
+not ok
+ok
+Generated 948 
+not ok
+not ok
+ok
+Generated 949 
+not ok
+not ok
+ok
+Generated 950 
+not ok
+not ok
+ok
+Generated 951 
+not ok
+not ok
+ok
+Generated 952 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 953 
+not ok
+not ok
+ok
+Generated 954 
+not ok
+ok
+Generated 955 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 956 
+not ok
+not ok
+ok
+Generated 957 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 958 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 959 
+not ok
+ok
+Generated 960 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 961 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 962 
+not ok
+ok
+Generated 963 
+not ok
+ok
+Generated 964 
+not ok
+not ok
+ok
+Generated 965 
+not ok
+ok
+Generated 966 
+not ok
+not ok
+not ok
+ok
+Generated 967 
+not ok
+not ok
+not ok
+ok
+Generated 968 
+not ok
+ok
+Generated 969 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 970 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 971 
+not ok
+not ok
+ok
+Generated 972 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 973 
+not ok
+ok
+Generated 974 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 975 
+not ok
+ok
+Generated 976 
+not ok
+not ok
+not ok
+ok
+Generated 977 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 978 
+not ok
+not ok
+ok
+Generated 979 
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 980 
+not ok
+ok
+Generated 981 
+not ok
+ok
+Generated 982 
+not ok
+ok
+Generated 983 
+not ok
+not ok
+ok
+Generated 984 
+not ok
+ok
+Generated 985 
+not ok
+not ok
+not ok
+ok
+Generated 986 
+not ok
+ok
+Generated 987 
+not ok
+ok
+Generated 988 
+not ok
+not ok
+ok
+Generated 989 
+not ok
+not ok
+not ok
+ok
+Generated 990 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 991 
+not ok
+not ok
+not ok
+ok
+Generated 992 
+not ok
+ok
+Generated 993 
+not ok
+ok
+Generated 994 
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 995 
+not ok
+not ok
+ok
+Generated 996 
+not ok
+not ok
+ok
+Generated 997 
+not ok
+not ok
+not ok
+not ok
+not ok
+ok
+Generated 998 
+not ok
+not ok
+not ok
+ok
+Generated 999 
+5903785	5309835	5411108	4804567	10651362	6661993	7711229	4549456	4029237	21543524	6787537	20304414	5283298	3636315	5906406	5711554	11806310	2928090	6880167	12683741	10883721	6538539	3579838	7404711	7202026	21629610	11553839	3664615	4222917	5250426	10773226	4583880	22370149	4119000	7861006	22016100	3272216	7401005	11271218	5455095	3783151	4499814	10583127	6400456	2913838	6313852	4005718	5580977	5391687	3534984	6948579	6249610	20072166	3773503	3058842	7099613	7475014	9995247	8736649	7260056	6092795	11737306	6400611	14324806	22835275	3670679	5756288	3856449	5094444	6440193	8639797	3519336	4885586	6236192	5568715	5045455	12191655	5140730	7330789	3805215	5697211	12702880	4545941	7070059	3672561	7922033	4676010	6405015	5626014	4667653	20123791	5502391	11684452	3046551	4572712	4259748	12874990	21262833	3313356	3694461	5521663	11324467	12682446	5757395	10764092	12785601	7925557	9635208	4911368	8620731	5923857	6087332	13751603	2989165	8566867	12013789	4474330	6216938	6638761	4235065	4222943	21748113	7881992	12574318	5234421	2887275	5692233	2644487	4434052	12857640	5012850	8538803	6631682	5251065	6244504	20335985	8796678	2987782	6249236	11641281	11220117	3850807	3966772	5655894	5753555	6070573	4416268	4523643	7897345	3986025	5891557	4963980	11254047	6957392	2869085	3159570	20377193	3332899	6464955	8974158	4714217	8697344	4690851	11732289	6129736	11312171	4504040	6066804	4961563	2870306	8508360	11472195	4212820	8060499	6169289	5916307	5946135	12058547	22042339	21900796	4693534	4850721	13689514	4198909	5010987	10661304	5560733	5917155	6589312	7418789	8700543	5358817	5741990	4214988	4378769	4522269	5742229	4248270	4504472	10172752	8489812	10539339	6346902	7956224	6861350	6671225	3568206	5323958	11270811	2792641	12736848	5686496	6445837	4491930	5894535	6385730	3771172	6101410	22542286	3677931	7057291	3707242	7020574	2525470	5185516	10425088	6281577	4250750	11393626	8679106	3289597	6553561	3963797	6515105	3825406	3756216	5282623	2874850	5133253	6433313	3036192	2416481	8421359	9991897	6163131	5607575	7184971	4242518	4723235	4452417	3265903	3746267	4724567	11383381	23087723	21452350	5106390	10078516	7852257	12645153	4840360	3977517	3284110	10983683	20006443	12698934	5298603	3446791	4067755	3292296	6584785	11333941	4996522	2749388	4847308	11351619	13518859	4841601	4669891	4764830	4809440	10711024	5057577	12599700	6579395	8747968	7603446	7073943	12051118	3347379	5467271	7481425	5708285	11444532	4732407	4255526	6414554	21890416	6453913	22118710	3821587	6945968	12266679	7563612	4282116	6803057	8454120	8407981	9932719	4051707	23104773	6233449	5992140	12818191	10291453	4877710	13174650	12087623	13084566	6256538	5380737	6981689	6337589	5843010	4922566	2849787	9989639	4624193	3786302	10551276	7809324	4998449	20688736	3954544	8077394	8195706	12602863	8421756	5162076	9335966	6278009	12201596	5189595	4613664	5648798	4429857	6995147	7194950	6134605	12704783	8796222	6720090	3181325	4352145	8734247	6224045	4273560	6128592	11502481	12901662	5374220	6622725	7987755	6170115	5084040	3205637	7168153	5038503	13015783	4253289	3955925	8863370	7934139	5016934	3596098	4405827	6915263	8742895	5214102	4407050	11259599	4465899	4738040	7052581	11977017	22933928	6789956	4384284	4491747	4213556	4227337	8831352	7617677	19996266	5537729	3676646	13614232	10004524	3522833	4315833	5023173	11699645	5940862	9245664	5823768	5820664	8625721	4345175	7414681	4917398	7312354	8213666	11899720	6307856	9769203	6298962	7731317	12835061	5554362	5878955	4385747	8278016	21344334	4388453	5325431	4398687	6492473	15310434	4663219	9552892	5485353	13188489	6272310	6688771	5170506	14225292	8801342	5095622	12312069	6722759	3035745	2290330	5342717	11142858	12751093	5713055	5789917	6343487	11641171	5431067	4609005	6611289	9474341	8940994	6204303	6014682	4390083	4729290	12209104	11236871	2582744	5009333	9670432	11153158	2532518	10086709	14055090	5944455	5662942	4916114	6014464	3411488	4653706	6866959	4377711	7601546	6658991	5776607	5075041	3904638	6684752	5336088	6850474	5680407	10308004	10206359	20035367	6330454	7337119	2628150	4189313	4928713	3729258	4927325	5474721	13525996	7058907	3814293	7160412	8795150	9190611	8356406	2777513	12896232	4580217	7077247	9500092	8625508	5337667	5707798	6015057	18551014	4903396	9392582	5955441	4690797	2602129	4196210	5448144	5514717	7641302	3984321	10843681	6322558	10802919	6198298	4441194	10750493	5371423	10268497	5829181	14763808	10562761	4051032	4415401	8954389	7517956	13936965	5457644	10560381	5896777	11636609	2483575	8551285	4487274	5623358	3344471	4601483	5430153	6602202	4790999	7089631	7182013	5730953	8150660	12540152	10644225	3595045	11018953	6876860	4671324	15530268	8274921	5555228	5737815	12716928	10714409	7178467	11176199	8676042	8121292	7644617	5028604	11218069	4855612	5914585	13360045	4190684	12535672	7312766	8000805	21198845	6088580	9181066	7467958	5369065	5361136	21279393	8145896	5204810	3876920	6804106	9103250	10595779	4449547	3758035	4397391	4160194	5523438	11265728	20182182	4882210	3054865	5567532	4204677	9074311	11475089	6398027	7411280	4303726	5195306	7837460	7991809	3189301	5417959	12142662	8476501	4258927	3280440	5365850	6217097	11480557	11604077	4841930	4431969	7220157	5853273	7360523	2958100	8323975	10422261	11844199	4816240	23632291	13027421	9003065	5227889	6626080	14048908	11839962	21425850	4822721	4114602	5050435	3877939	13717725	8243236	4229327	20130807	10530859	12782066	2604441	6176312	4249649	4418673	5416608	8922287	3022571	10950705	5228458	4345528	8026814	4894666	3530805	4817810	6613736	4754058	4229942	10493077	4195383	7739628	4672862	4890159	6319844	6051271	3947451	12563253	11923920	11827157	11692332	8621573	8734116	3304417	3236869	5134191	12281884	7222435	3733607	7045786	2391977	5785474	4856816	11622792	6341953	5889641	10592970	10491018	5304044	3863052	3239365	7660350	5655998	12688714	13895842	4812152	10554699	3999391	4846548	4269145	4148243	7067618	5383528	2722982	23407723	3834003	10566836	5195857	12086102	20037293	3941411	22315369	3935154	5826197	6588174	3943506	2570478	8120086	6597172	3868162	5171547	11181783	6946109	12294844	4510825	3167516	6882880	6549864	5854414	3173106	5529362	5078094	6684712	2946281	3488004	7108085	4852711	9922693	10613272	8403927	6230367	6468041	12520431	3633752	7657126	6545156	3790170	3282809	7575500	4004227	9298953	4178433	8211730	8649591	4579283	6665958	2572595	19652399	11026294	4527729	7234515	6732071	6130632	12717893	5392070	12517512	10252114	5049597	4924878	10189708	3809854	3918859	9259296	4980742	5514278	22751091	6231085	3175981	4428703	9775727	4745964	4044203	21372270	8010594	5545096	7667739	4132456	4500811	10466344	22957690	6520243	4593819	19779708	19579463	10678983	7908606	12309880	14479438	3234756	4112022	6266270	12252005	14446792	8811152	10772715	4008504	11440645	3688809	8989052	3886729	6999486	2650563	6972579	6376459	4158659	3080589	4452069	10419039	8644409	7456958	19724535	11802684	4261230	3561240	9726586	3811716	14190202	4927552	8010991	4640802	21610360	4176329	5375542	10821204	12087884	6225486	6661778	22224453	3684464	5557695	8994289	9706373	11020621	4903444	5237925	4786414	6105354	3095186	5018536	4429228	21094764	4568320	5534023	6821044	6068179	5285353	6102339	12026513	3758291	4884758	6724742	3339300	11258563	6383544	6615869	12269751	21386323	7279717	10372411	6467425	3987726	11901525	6036548	4316361	4043542	5592176	5582247	5132850	9909749	4964179	21825216	2653834	5617324	7914328	10638822	4850723	4781569	5503732	8393173	11100676	6313234	12505462	8529158	3373202	8397536	11418772	3799508	14918404	21684432	5620243	4681152	12490509	4483612	5208627	6140633	7487850	5274856	4158496	5643013	20247245	2749758	4840552	22415538	12535847	9034631	7400945	11352268	3461255	11103043	12404356	7696644	8298562	6058741	3376437	3017631	5558047	3012541	7935176	6085675	5421638	9130028	3442255	6860493	8253335	8190250	6212060	12772968	8869005	5330650	6018172	4938993	14775611	10054330	4812421	6436867	20397689	3280863	5728341	20011555	11423521	11344609	4478678	10604408	4124217	6170658	2910735	9164917	3977014	3927128	6126093	5710967	4538810	4529039	12112855	6289943	3733286	4040121	3662135	4081506	6280979	4663274	8375112	7411839	13205281	3938972	21526724	3643856	5466270	2982832	19803835	7058957	21969789	6258688	10791445	8153545	13146775	10366938	5446319	6782488	6137247	5930231	
+lasttime is 1935344 for gen 2
+
+ the semgencount value is 1
+lasttime is 1935344 for gen 3
+
+ the semgencount value is 2
+lasttime is 1935344 for gen 4
+
+ the semgencount value is 3
+lasttime is 1935344 for gen 5
+
+ the semgencount value is 4
+lasttime is 1722980 for gen 7
+
+ the semgencount value is 1
+lasttime is 1722980 for gen 8
+
+ the semgencount value is 2
+lasttime is 1689725 for gen 10
+
+ the semgencount value is 1
+lasttime is 1686743 for gen 12
+
+ the semgencount value is 1
+lasttime is 1581868 for gen 14
+
+ the semgencount value is 1
+lasttime is 1581868 for gen 15
+
+ the semgencount value is 2
+lasttime is 1581868 for gen 16
+
+ the semgencount value is 3
+lasttime is 1581868 for gen 17
+
+ the semgencount value is 4
+lasttime is 1581868 for gen 18
+
+ the semgencount value is 5
+lasttime is 1518365 for gen 20
+
+ the semgencount value is 1
+lasttime is 1518365 for gen 21
+
+ the semgencount value is 2
+lasttime is 1518365 for gen 22
+
+ the semgencount value is 3
+lasttime is 1518365 for gen 23
+
+ the semgencount value is 4
+lasttime is 1518365 for gen 24
+
+ the semgencount value is 5
+lasttime is 1518365 for gen 25
+
+ the semgencount value is 6
+lasttime is 1503223 for gen 27
+
+ the semgencount value is 1
+lasttime is 1503223 for gen 28
+
+ the semgencount value is 2
+lasttime is 1479049 for gen 30
+
+ the semgencount value is 1
+lasttime is 1479049 for gen 31
+
+ the semgencount value is 2
+lasttime is 1479049 for gen 32
+
+ the semgencount value is 3
+lasttime is 1479049 for gen 33
+
+ the semgencount value is 4
+lasttime is 1479049 for gen 34
+
+ the semgencount value is 5
+lasttime is 1479049 for gen 35
+
+ the semgencount value is 6
+lasttime is 1479049 for gen 36
+
+ the semgencount value is 7
+lasttime is 1479049 for gen 37
+
+ the semgencount value is 8
+lasttime is 1479049 for gen 38
+
+ the semgencount value is 9
+lasttime is 1468918 for gen 41
+
+ the semgencount value is 1
+lasttime is 1456632 for gen 45
+
+ the semgencount value is 1
+lasttime is 1448635 for gen 47
+
+ the semgencount value is 1
+lasttime is 1448635 for gen 48
+
+ the semgencount value is 2
+lasttime is 1447834 for gen 50
+
+ the semgencount value is 1
+lasttime is 1447834 for gen 51
+
+ the semgencount value is 2
+lasttime is 1435920 for gen 53
+
+ the semgencount value is 1
+lasttime is 1435920 for gen 54
+
+ the semgencount value is 2
+lasttime is 1435920 for gen 55
+
+ the semgencount value is 3
+lasttime is 1435920 for gen 56
+
+ the semgencount value is 4
+lasttime is 1435920 for gen 57
+
+ the semgencount value is 5
+lasttime is 1435684 for gen 59
+
+ the semgencount value is 1
+lasttime is 1435684 for gen 60
+
+ the semgencount value is 2
+lasttime is 1414863 for gen 63
+
+ the semgencount value is 1
+lasttime is 1414863 for gen 64
+
+ the semgencount value is 2
+lasttime is 1414863 for gen 65
+
+ the semgencount value is 3
+lasttime is 1414863 for gen 66
+
+ the semgencount value is 4
+lasttime is 1414863 for gen 67
+
+ the semgencount value is 5
+lasttime is 1414863 for gen 68
+
+ the semgencount value is 6
+lasttime is 1414863 for gen 69
+
+ the semgencount value is 7
+lasttime is 1411652 for gen 72
+
+ the semgencount value is 1
+lasttime is 1411272 for gen 74
+
+ the semgencount value is 1
+lasttime is 1407028 for gen 76
+
+ the semgencount value is 1
+lasttime is 1402225 for gen 80
+
+ the semgencount value is 1
+lasttime is 1397486 for gen 82
+
+ the semgencount value is 1
+lasttime is 1397486 for gen 83
+
+ the semgencount value is 2
+lasttime is 1397486 for gen 84
+
+ the semgencount value is 3
+lasttime is 1397486 for gen 85
+
+ the semgencount value is 4
+lasttime is 1397486 for gen 86
+
+ the semgencount value is 5
+lasttime is 1396396 for gen 88
+
+ the semgencount value is 1
+lasttime is 1396396 for gen 89
+
+ the semgencount value is 2
+lasttime is 1396396 for gen 90
+
+ the semgencount value is 3
+lasttime is 1396084 for gen 92
+
+ the semgencount value is 1
+lasttime is 1395316 for gen 95
+
+ the semgencount value is 1
+lasttime is 1394414 for gen 98
+
+ the semgencount value is 1
+lasttime is 1394414 for gen 99
+
+ the semgencount value is 2
+lasttime is 1394343 for gen 101
+
+ the semgencount value is 1
+lasttime is 1394343 for gen 102
+
+ the semgencount value is 2
+lasttime is 1394343 for gen 103
+
+ the semgencount value is 3
+lasttime is 1394171 for gen 106
+
+ the semgencount value is 1
+lasttime is 1393103 for gen 108
+
+ the semgencount value is 1
+lasttime is 1393103 for gen 109
+
+ the semgencount value is 2
+lasttime is 1393103 for gen 110
+
+ the semgencount value is 3
+lasttime is 1392796 for gen 113
+
+ the semgencount value is 1
+lasttime is 1392796 for gen 114
+
+ the semgencount value is 2
+lasttime is 1392796 for gen 115
+
+ the semgencount value is 3
+lasttime is 1390552 for gen 118
+
+ the semgencount value is 1
+lasttime is 1390552 for gen 119
+
+ the semgencount value is 2
+lasttime is 1390552 for gen 120
+
+ the semgencount value is 3
+lasttime is 1390552 for gen 121
+
+ the semgencount value is 4
+lasttime is 1390552 for gen 122
+
+ the semgencount value is 5
+lasttime is 1384563 for gen 129
+
+ the semgencount value is 1
+lasttime is 1384563 for gen 130
+
+ the semgencount value is 2
+lasttime is 1384506 for gen 133
+
+ the semgencount value is 1
+lasttime is 1384506 for gen 134
+
+ the semgencount value is 2
+lasttime is 1384409 for gen 136
+
+ the semgencount value is 1
+lasttime is 1384409 for gen 137
+
+ the semgencount value is 2
+lasttime is 1381447 for gen 143
+
+ the semgencount value is 1
+lasttime is 1380069 for gen 147
+
+ the semgencount value is 1
+lasttime is 1379829 for gen 152
+
+ the semgencount value is 1
+lasttime is 1379829 for gen 153
+
+ the semgencount value is 2
+lasttime is 1379761 for gen 155
+
+ the semgencount value is 1
+lasttime is 1374365 for gen 159
+
+ the semgencount value is 1
+lasttime is 1374365 for gen 160
+
+ the semgencount value is 2
+lasttime is 1373153 for gen 162
+
+ the semgencount value is 1
+lasttime is 1372932 for gen 164
+
+ the semgencount value is 1
+lasttime is 1372907 for gen 166
+
+ the semgencount value is 1
+lasttime is 1372717 for gen 168
+
+ the semgencount value is 1
+lasttime is 1372717 for gen 169
+
+ the semgencount value is 2
+lasttime is 1372717 for gen 170
+
+ the semgencount value is 3
+lasttime is 1372717 for gen 171
+
+ the semgencount value is 4
+lasttime is 1372717 for gen 172
+
+ the semgencount value is 5
+lasttime is 1372717 for gen 173
+
+ the semgencount value is 6
+lasttime is 1372717 for gen 174
+
+ the semgencount value is 7
+lasttime is 1372717 for gen 175
+
+ the semgencount value is 8
+lasttime is 1372717 for gen 176
+
+ the semgencount value is 9
+lasttime is 1372717 for gen 177
+
+ the semgencount value is 10
+lasttime is 1372717 for gen 178
+
+ the semgencount value is 11
+lasttime is 1372717 for gen 179
+
+ the semgencount value is 12
+lasttime is 1372564 for gen 181
+
+ the semgencount value is 1
+lasttime is 1372564 for gen 182
+
+ the semgencount value is 2
+lasttime is 1372564 for gen 183
+
+ the semgencount value is 3
+lasttime is 1372564 for gen 184
+
+ the semgencount value is 4
+lasttime is 1372564 for gen 185
+
+ the semgencount value is 5
+lasttime is 1372564 for gen 186
+
+ the semgencount value is 6
+lasttime is 1372564 for gen 187
+
+ the semgencount value is 7
+lasttime is 1372564 for gen 188
+
+ the semgencount value is 8
+lasttime is 1372564 for gen 189
+
+ the semgencount value is 9
+lasttime is 1372564 for gen 190
+
+ the semgencount value is 10
+lasttime is 1372564 for gen 191
+
+ the semgencount value is 11
+lasttime is 1372564 for gen 192
+
+ the semgencount value is 12
+lasttime is 1372564 for gen 193
+
+ the semgencount value is 13
+lasttime is 1372564 for gen 194
+
+ the semgencount value is 14
+lasttime is 1372564 for gen 195
+
+ the semgencount value is 15
+lasttime is 1372564 for gen 196
+
+ the semgencount value is 16
+lasttime is 1372564 for gen 197
+
+ the semgencount value is 17
+lasttime is 1372564 for gen 198
+
+ the semgencount value is 18
+lasttime is 1372564 for gen 199
+
+ the semgencount value is 19
+lasttime is 1372564 for gen 200
+
+ the semgencount value is 20
+lasttime is 1372564 for gen 201
+
+ the semgencount value is 21
+lasttime is 1372564 for gen 202
+
+ the semgencount value is 22
+lasttime is 1372564 for gen 203
+
+ the semgencount value is 23
+lasttime is 1372564 for gen 204
+
+ the semgencount value is 24
+lasttime is 1372564 for gen 205
+
+ the semgencount value is 25
+lasttime is 1372564 for gen 206
+
+ the semgencount value is 26
+lasttime is 1372564 for gen 207
+
+ the semgencount value is 27
+lasttime is 1372564 for gen 208
+
+ the semgencount value is 28
+lasttime is 1372564 for gen 209
+
+ the semgencount value is 29
+lasttime is 1372564 for gen 210
+
+ the semgencount value is 30
+lasttime is 1370487 for gen 214
+
+ the semgencount value is 1
+lasttime is 1370487 for gen 215
+
+ the semgencount value is 2
+lasttime is 1370487 for gen 216
+
+ the semgencount value is 3
+lasttime is 1370487 for gen 217
+
+ the semgencount value is 4
+lasttime is 1370487 for gen 218
+
+ the semgencount value is 5
+lasttime is 1370487 for gen 219
+
+ the semgencount value is 6
+lasttime is 1370487 for gen 220
+
+ the semgencount value is 7
+lasttime is 1370487 for gen 221
+
+ the semgencount value is 8
+lasttime is 1370487 for gen 222
+
+ the semgencount value is 9
+lasttime is 1370487 for gen 223
+
+ the semgencount value is 10
+lasttime is 1370487 for gen 224
+
+ the semgencount value is 11
+lasttime is 1370487 for gen 225
+
+ the semgencount value is 12
+lasttime is 1370487 for gen 226
+
+ the semgencount value is 13
+lasttime is 1370487 for gen 227
+
+ the semgencount value is 14
+lasttime is 1370487 for gen 228
+
+ the semgencount value is 15
+lasttime is 1370487 for gen 229
+
+ the semgencount value is 16
+lasttime is 1370487 for gen 230
+
+ the semgencount value is 17
+lasttime is 1370417 for gen 233
+
+ the semgencount value is 1
+lasttime is 1370417 for gen 234
+
+ the semgencount value is 2
+lasttime is 1370417 for gen 235
+
+ the semgencount value is 3
+lasttime is 1370417 for gen 236
+
+ the semgencount value is 4
+lasttime is 1370417 for gen 237
+
+ the semgencount value is 5
+lasttime is 1370417 for gen 238
+
+ the semgencount value is 6
+lasttime is 1370417 for gen 239
+
+ the semgencount value is 7
+lasttime is 1370417 for gen 240
+
+ the semgencount value is 8
+lasttime is 1370417 for gen 241
+
+ the semgencount value is 9
+lasttime is 1370417 for gen 242
+
+ the semgencount value is 10
+lasttime is 1370417 for gen 243
+
+ the semgencount value is 11
+lasttime is 1370417 for gen 244
+
+ the semgencount value is 12
+lasttime is 1370417 for gen 245
+
+ the semgencount value is 13
+lasttime is 1370417 for gen 246
+
+ the semgencount value is 14
+lasttime is 1370417 for gen 247
+
+ the semgencount value is 15
+lasttime is 1370417 for gen 248
+
+ the semgencount value is 16
+lasttime is 1370417 for gen 249
+
+ the semgencount value is 17
+lasttime is 1370417 for gen 250
+
+ the semgencount value is 18
+lasttime is 1370417 for gen 251
+
+ the semgencount value is 19
+lasttime is 1370417 for gen 252
+
+ the semgencount value is 20
+lasttime is 1370417 for gen 253
+
+ the semgencount value is 21
+lasttime is 1370417 for gen 254
+
+ the semgencount value is 22
+lasttime is 1370417 for gen 255
+
+ the semgencount value is 23
+lasttime is 1370417 for gen 256
+
+ the semgencount value is 24
+lasttime is 1370417 for gen 257
+
+ the semgencount value is 25
+lasttime is 1370417 for gen 258
+
+ the semgencount value is 26
+lasttime is 1370417 for gen 259
+
+ the semgencount value is 27
+lasttime is 1370417 for gen 260
+
+ the semgencount value is 28
+lasttime is 1370417 for gen 261
+
+ the semgencount value is 29
+lasttime is 1370417 for gen 262
+
+ the semgencount value is 30
+lasttime is 1370417 for gen 263
+
+ the semgencount value is 31
+lasttime is 1370417 for gen 264
+
+ the semgencount value is 32
+lasttime is 1370417 for gen 265
+
+ the semgencount value is 33
+lasttime is 1370417 for gen 266
+
+ the semgencount value is 34
+lasttime is 1370417 for gen 267
+
+ the semgencount value is 35
+lasttime is 1370417 for gen 268
+
+ the semgencount value is 36
+lasttime is 1370417 for gen 269
+
+ the semgencount value is 37
+lasttime is 1370417 for gen 270
+
+ the semgencount value is 38
+lasttime is 1370417 for gen 271
+
+ the semgencount value is 39
+lasttime is 1370417 for gen 272
+
+ the semgencount value is 40
+lasttime is 1370417 for gen 273
+
+ the semgencount value is 41
+lasttime is 1370417 for gen 274
+
+ the semgencount value is 42
+lasttime is 1370417 for gen 275
+
+ the semgencount value is 43
+lasttime is 1370417 for gen 276
+
+ the semgencount value is 44
+lasttime is 1370417 for gen 277
+
+ the semgencount value is 45
+lasttime is 1370417 for gen 278
+
+ the semgencount value is 46
+lasttime is 1370417 for gen 279
+
+ the semgencount value is 47
+lasttime is 1370417 for gen 280
+
+ the semgencount value is 48
+lasttime is 1370417 for gen 281
+
+ the semgencount value is 49
+lasttime is 1370417 for gen 282
+
+ the semgencount value is 50
+lasttime is 1370417 for gen 283
+
+ the semgencount value is 51
+lasttime is 1370417 for gen 284
+
+ the semgencount value is 52
+lasttime is 1370417 for gen 285
+
+ the semgencount value is 53
+lasttime is 1370417 for gen 286
+
+ the semgencount value is 54
+lasttime is 1370417 for gen 287
+
+ the semgencount value is 55
+lasttime is 1370417 for gen 288
+
+ the semgencount value is 56
+lasttime is 1370417 for gen 289
+
+ the semgencount value is 57
+lasttime is 1370417 for gen 290
+
+ the semgencount value is 58
+lasttime is 1370417 for gen 291
+
+ the semgencount value is 59
+lasttime is 1370417 for gen 292
+
+ the semgencount value is 60
+lasttime is 1370417 for gen 293
+
+ the semgencount value is 61
+lasttime is 1370417 for gen 294
+
+ the semgencount value is 62
+lasttime is 1370417 for gen 295
+
+ the semgencount value is 63
+lasttime is 1370417 for gen 296
+
+ the semgencount value is 64
+lasttime is 1370417 for gen 297
+
+ the semgencount value is 65
+lasttime is 1370417 for gen 298
+
+ the semgencount value is 66
+lasttime is 1370417 for gen 299
+
+ the semgencount value is 67
+lasttime is 1370417 for gen 300
+
+ the semgencount value is 68
+lasttime is 1370417 for gen 301
+
+ the semgencount value is 69
+lasttime is 1370417 for gen 302
+
+ the semgencount value is 70
+lasttime is 1370417 for gen 303
+
+ the semgencount value is 71
+lasttime is 1370417 for gen 304
+
+ the semgencount value is 72
+lasttime is 1370417 for gen 305
+
+ the semgencount value is 73
+lasttime is 1370417 for gen 306
+
+ the semgencount value is 74
+lasttime is 1370417 for gen 307
+
+ the semgencount value is 75
+lasttime is 1370417 for gen 308
+
+ the semgencount value is 76
+lasttime is 1370417 for gen 309
+
+ the semgencount value is 77
+lasttime is 1370417 for gen 310
+
+ the semgencount value is 78
+lasttime is 1370417 for gen 311
+
+ the semgencount value is 79
+lasttime is 1370417 for gen 312
+
+ the semgencount value is 80
+lasttime is 1370417 for gen 313
+
+ the semgencount value is 81
+lasttime is 1370417 for gen 314
+
+ the semgencount value is 82
+lasttime is 1370417 for gen 315
+
+ the semgencount value is 83
+lasttime is 1370417 for gen 316
+
+ the semgencount value is 84
+lasttime is 1370417 for gen 317
+
+ the semgencount value is 85
+lasttime is 1370417 for gen 318
+
+ the semgencount value is 86
+lasttime is 1370417 for gen 319
+
+ the semgencount value is 87
+lasttime is 1370417 for gen 320
+
+ the semgencount value is 88
+lasttime is 1370417 for gen 321
+
+ the semgencount value is 89
+lasttime is 1370417 for gen 322
+
+ the semgencount value is 90
+lasttime is 1370417 for gen 323
+
+ the semgencount value is 91
+lasttime is 1370417 for gen 324
+
+ the semgencount value is 92
+lasttime is 1370417 for gen 325
+
+ the semgencount value is 93
+lasttime is 1370417 for gen 326
+
+ the semgencount value is 94
+lasttime is 1370417 for gen 327
+
+ the semgencount value is 95
+lasttime is 1370417 for gen 328
+
+ the semgencount value is 96
+lasttime is 1370417 for gen 329
+
+ the semgencount value is 97
+lasttime is 1370417 for gen 330
+
+ the semgencount value is 98
+lasttime is 1370417 for gen 331
+
+ the semgencount value is 99
+lasttime is 1370417 for gen 332
+
+ the semgencount value is 100
+lasttime is 1370417 for gen 333
+
+ the semgencount value is 101
+lasttime is 1370417 for gen 334
+
+ the semgencount value is 102
+lasttime is 1370417 for gen 335
+
+ the semgencount value is 103
+lasttime is 1370417 for gen 336
+
+ the semgencount value is 104
+lasttime is 1370417 for gen 337
+
+ the semgencount value is 105
+lasttime is 1370417 for gen 338
+
+ the semgencount value is 106
+lasttime is 1370417 for gen 339
+
+ the semgencount value is 107
+lasttime is 1370417 for gen 340
+
+ the semgencount value is 108
+lasttime is 1370417 for gen 341
+
+ the semgencount value is 109
+lasttime is 1370417 for gen 342
+
+ the semgencount value is 110
+lasttime is 1370417 for gen 343
+
+ the semgencount value is 111
+lasttime is 1370417 for gen 344
+
+ the semgencount value is 112
+lasttime is 1370417 for gen 345
+
+ the semgencount value is 113
+lasttime is 1370417 for gen 346
+
+ the semgencount value is 114
+lasttime is 1370417 for gen 347
+
+ the semgencount value is 115
+lasttime is 1370417 for gen 348
+
+ the semgencount value is 116
+lasttime is 1370417 for gen 349
+
+ the semgencount value is 117
+lasttime is 1370417 for gen 350
+
+ the semgencount value is 118
+lasttime is 1370417 for gen 351
+
+ the semgencount value is 119
+lasttime is 1370417 for gen 352
+
+ the semgencount value is 120
+lasttime is 1370417 for gen 353
+
+ the semgencount value is 121
+lasttime is 1370417 for gen 354
+
+ the semgencount value is 122
+lasttime is 1370417 for gen 355
+
+ the semgencount value is 123
+lasttime is 1370417 for gen 356
+
+ the semgencount value is 124
+lasttime is 1370417 for gen 357
+
+ the semgencount value is 125
+lasttime is 1370417 for gen 358
+
+ the semgencount value is 126
+lasttime is 1370417 for gen 359
+
+ the semgencount value is 127
+lasttime is 1370417 for gen 360
+
+ the semgencount value is 128
+lasttime is 1370417 for gen 361
+
+ the semgencount value is 129
+lasttime is 1370417 for gen 362
+
+ the semgencount value is 130
+lasttime is 1370417 for gen 363
+
+ the semgencount value is 131
+lasttime is 1370417 for gen 364
+
+ the semgencount value is 132
+lasttime is 1370417 for gen 365
+
+ the semgencount value is 133
+lasttime is 1370417 for gen 366
+
+ the semgencount value is 134
+lasttime is 1370417 for gen 367
+
+ the semgencount value is 135
+lasttime is 1370417 for gen 368
+
+ the semgencount value is 136
+lasttime is 1370417 for gen 369
+
+ the semgencount value is 137
+lasttime is 1370417 for gen 370
+
+ the semgencount value is 138
+lasttime is 1370417 for gen 371
+
+ the semgencount value is 139
+lasttime is 1370417 for gen 372
+
+ the semgencount value is 140
+lasttime is 1370417 for gen 373
+
+ the semgencount value is 141
+lasttime is 1370417 for gen 374
+
+ the semgencount value is 142
+lasttime is 1370417 for gen 375
+
+ the semgencount value is 143
+lasttime is 1370417 for gen 376
+
+ the semgencount value is 144
+lasttime is 1370417 for gen 377
+
+ the semgencount value is 145
+lasttime is 1370417 for gen 378
+
+ the semgencount value is 146
+lasttime is 1370417 for gen 379
+
+ the semgencount value is 147
+lasttime is 1370417 for gen 380
+
+ the semgencount value is 148
+lasttime is 1370417 for gen 381
+
+ the semgencount value is 149
+lasttime is 1370417 for gen 382
+
+ the semgencount value is 150
+gencount is 382
+1370417
+{ 79, 9, 0, 670668, 12 , 0.500000}
+{ 55, 3, 0, 641448, 19 , 0.250000}
+{ 26, 22, 0, 619888, 73 , 0.250000}
+{ 19, 22, 0, 602144, 73 , 0.250000}
+{ 33, 9, 0, 584524, 35 , 1.000000}
+{ 49, 10, 0, 544579, 35 , 1.000000}
+{ 39, 2, 0, 476658, 35 , 0.500000}
+{ 57, 1, 0, 447568, 19 , 0.500000}
+{ 50, 5, 0, 345418, 35 , 0.500000}
+{ 42, 3, 0, 334272, 35 , 0.250000}
+{ 22, 23, 0, 322416, 73 , 0.250000}
+{ 9, 1, 0, 312080, 73 , 1.000000}
+{ 62, 1, 0, 283808, 19 , 0.250000}
+{ 36, 3, 0, 271401, 35 , 1.000000}
+{ 35, 2, 0, 247226, 35 , 0.500000}
+{ 53, 1, 0, 242476, 19 , 0.500000}
+{ 46, 2, 0, 213136, 35 , 0.250000}
+{ 52, 3, 0, 209519, 19 , 1.000000}
+{ 34, 3, 0, 174084, 35 , 0.250000}
+{ 87, 6, 0, 128668, 0 , 0.250000}
+{ 70, 2, 0, 76996, 19 , 0.250000}
+{ 44, 3, 0, 71696, 35 , 0.250000}
+{ 84, 3, 0, 20584, 0 , 0.250000}
+{ 60, 1, 0, 20238, 19 , 0.500000}
+{ 85, 1, 0, 20232, 0 , 0.250000}
+{ 29, 2, 0, 17732, 73 , 0.250000}
+{ 51, 1, 670668, 902334, 19 , 4.000000}
+{ 5, 46, 670668, 901926, 73 , 0.500000}
+{ 4, 15, 670668, 866756, 73 , 0.250000}
+{ 16, 15, 670668, 865098, 73 , 0.500000}
+{ 28, 6, 670668, 864427, 73 , 1.000000}
+{ 31, 6, 670668, 812554, 73 , 1.000000}
+{ 10, 6, 670668, 762356, 73 , 0.250000}
+{ 41, 7, 902334, 1074323, 35 , 2.000000}
+{ 12, 23, 902334, 1072762, 73 , 0.500000}
+{ 13, 12, 902334, 1068083, 73 , 1.000000}
+{ 11, 24, 902334, 1052068, 73 , 0.500000}
+{ 37, 1, 902334, 925922, 35 , 1.000000}
+{ 0, 16, 1074323, 1167597, 73 , 2.000000}
+{ 32, 2, 1074323, 1159461, 35 , 2.000000}
+{ 88, 9, 1074323, 1157947, 0 , 0.250000}
+{ 75, 10, 1074323, 1134154, 19 , 1.000000}
+{ 24, 1, 1074323, 1114651, 73 , 2.000000}
+{ 76, 16, 1167597, 1240305, 19 , 2.000000}
+{ 18, 15, 1167597, 1235532, 73 , 1.000000}
+{ 23, 1, 1167597, 1195247, 73 , 2.000000}
+{ 40, 4, 1167597, 1178577, 35 , 0.250000}
+{ 80, 9, 1240305, 1307879, 12 , 4.000000}
+{ 68, 2, 1240305, 1299965, 19 , 2.000000}
+{ 89, 8, 1240305, 1273673, 0 , 0.250000}
+{ 58, 8, 1240305, 1271605, 19 , 0.500000}
+{ 15, 1, 1240305, 1267661, 73 , 2.000000}
+{ 90, 1, 1240305, 1262732, 0 , 1.000000}
+{ 65, 2, 1240305, 1259565, 19 , 0.500000}
+{ 71, 9, 1307879, 1351449, 19 , 2.000000}
+{ 82, 2, 1307879, 1331434, 12 , 2.000000}
+{ 56, 7, 1307879, 1326411, 19 , 0.500000}
+{ 92, 8, 1307879, 1322979, 0 , 1.000000}
+{ 27, 3, 1307879, 1322944, 73 , 1.000000}
+{ 2, 2, 1307879, 1321502, 73 , 1.000000}
+{ 73, 1, 1307879, 1321016, 19 , 1.000000}
+{ 81, 1, 1307879, 1320434, 12 , 4.000000}
+{ 64, 1, 1307879, 1318880, 19 , 1.000000}
+{ 67, 1, 1307879, 1316616, 19 , 1.000000}
+{ 74, 1, 1307879, 1314940, 19 , 1.000000}
+{ 91, 4, 1307879, 1314476, 0 , 1.000000}
+{ 59, 8, 1351449, 1364472, 19 , 4.000000}
+{ 86, 3, 1351449, 1357013, 0 , 2.000000}
+{ 30, 15, 1351449, 1355947, 73 , 0.500000}
+{ 54, 4, 1351449, 1355235, 19 , 1.000000}
+{ 61, 5, 1364472, 1368105, 19 , 4.000000}
+{ 72, 1, 1364472, 1367783, 19 , 4.000000}
+{ 78, 1, 1364472, 1367616, 19 , 4.000000}
+{ 8, 7, 1364472, 1367554, 73 , 0.500000}
+{ 7, 1, 1364472, 1367397, 73 , 2.000000}
+{ 6, 7, 1364472, 1366600, 73 , 0.500000}
+{ 20, 1, 1364472, 1366169, 73 , 2.000000}
+{ 38, 8, 1364472, 1366009, 35 , 1.000000}
+{ 43, 1, 1364472, 1365166, 35 , 2.000000}
+{ 69, 4, 1368105, 1369402, 19 , 2.000000}
+{ 14, 7, 1368105, 1369259, 73 , 2.000000}
+{ 17, 5, 1368105, 1368826, 73 , 1.000000}
+{ 1, 7, 1368105, 1368779, 73 , 2.000000}
+{ 66, 2, 1368105, 1368599, 19 , 2.000000}
+{ 3, 10, 1368105, 1368461, 73 , 0.500000}
+{ 48, 15, 1369402, 1370188, 35 , 2.000000}
+{ 45, 4, 1369402, 1369834, 35 , 4.000000}
+{ 47, 2, 1369402, 1369724, 35 , 2.000000}
+{ 21, 12, 1370188, 1370401, 73 , 1.000000}
+{ 25, 6, 1370188, 1370381, 73 , 4.000000}
+{ 77, 5, 1370188, 1370352, 19 , 1.000000}
+{ 63, 4, 1370188, 1370294, 19 , 2.000000}
+{ 83, 8, 1370401, 1370417, 0 , 4.000000}
+BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq
+{ 79, 9, 0, 670668, 12 , 0.500000}
+{ 55, 3, 0, 641448, 19 , 0.250000}
+{ 26, 22, 0, 619888, 73 , 0.250000}
+{ 19, 22, 0, 602144, 73 , 0.250000}
+{ 33, 9, 0, 584524, 35 , 1.000000}
+{ 49, 10, 0, 544579, 35 , 1.000000}
+{ 39, 2, 0, 476658, 35 , 0.500000}
+{ 57, 1, 0, 447568, 19 , 0.500000}
+{ 50, 5, 0, 345418, 35 , 0.500000}
+{ 42, 3, 0, 334272, 35 , 0.250000}
+{ 22, 23, 0, 322416, 73 , 0.250000}
+{ 9, 1, 0, 312080, 73 , 1.000000}
+{ 62, 1, 0, 283808, 19 , 0.250000}
+{ 36, 3, 0, 271401, 35 , 1.000000}
+{ 35, 2, 0, 247226, 35 , 0.500000}
+{ 53, 1, 0, 242476, 19 , 0.500000}
+{ 46, 2, 0, 213136, 35 , 0.250000}
+{ 52, 3, 0, 209519, 19 , 1.000000}
+{ 34, 3, 0, 174084, 35 , 0.250000}
+{ 87, 6, 0, 128668, 0 , 0.250000}
+{ 70, 2, 0, 76996, 19 , 0.250000}
+{ 44, 3, 0, 71696, 35 , 0.250000}
+{ 84, 3, 0, 20584, 0 , 0.250000}
+{ 60, 1, 0, 20238, 19 , 0.500000}
+{ 85, 1, 0, 20232, 0 , 0.250000}
+{ 29, 2, 0, 17732, 73 , 0.250000}
+{ 51, 1, 670668, 902334, 19 , 4.000000}
+{ 5, 46, 670668, 901926, 73 , 0.500000}
+{ 4, 15, 670668, 866756, 73 , 0.250000}
+{ 16, 15, 670668, 865098, 73 , 0.500000}
+{ 28, 6, 670668, 864427, 73 , 1.000000}
+{ 31, 6, 670668, 812554, 73 , 1.000000}
+{ 10, 6, 670668, 762356, 73 , 0.250000}
+{ 41, 7, 902334, 1074323, 35 , 2.000000}
+{ 12, 23, 902334, 1072762, 73 , 0.500000}
+{ 13, 12, 902334, 1068083, 73 , 1.000000}
+{ 11, 24, 902334, 1052068, 73 , 0.500000}
+{ 37, 1, 902334, 925922, 35 , 1.000000}
+{ 0, 16, 1074323, 1167597, 73 , 2.000000}
+{ 32, 2, 1074323, 1159461, 35 , 2.000000}
+{ 88, 9, 1074323, 1157947, 0 , 0.250000}
+{ 75, 10, 1074323, 1134154, 19 , 1.000000}
+{ 24, 1, 1074323, 1114651, 73 , 2.000000}
+{ 76, 16, 1167597, 1240305, 19 , 2.000000}
+{ 18, 15, 1167597, 1235532, 73 , 1.000000}
+{ 23, 1, 1167597, 1195247, 73 , 2.000000}
+{ 40, 4, 1167597, 1178577, 35 , 0.250000}
+{ 80, 9, 1240305, 1307879, 12 , 4.000000}
+{ 68, 2, 1240305, 1299965, 19 , 2.000000}
+{ 89, 8, 1240305, 1273673, 0 , 0.250000}
+{ 58, 8, 1240305, 1271605, 19 , 0.500000}
+{ 15, 1, 1240305, 1267661, 73 , 2.000000}
+{ 90, 1, 1240305, 1262732, 0 , 1.000000}
+{ 65, 2, 1240305, 1259565, 19 , 0.500000}
+{ 71, 9, 1307879, 1351449, 19 , 2.000000}
+{ 82, 2, 1307879, 1331434, 12 , 2.000000}
+{ 56, 7, 1307879, 1326411, 19 , 0.500000}
+{ 92, 8, 1307879, 1322979, 0 , 1.000000}
+{ 27, 3, 1307879, 1322944, 73 , 1.000000}
+{ 2, 2, 1307879, 1321502, 73 , 1.000000}
+{ 73, 1, 1307879, 1321016, 19 , 1.000000}
+{ 81, 1, 1307879, 1320434, 12 , 4.000000}
+{ 64, 1, 1307879, 1318880, 19 , 1.000000}
+{ 67, 1, 1307879, 1316616, 19 , 1.000000}
+{ 74, 1, 1307879, 1314940, 19 , 1.000000}
+{ 91, 4, 1307879, 1314476, 0 , 1.000000}
+{ 59, 8, 1351449, 1364472, 19 , 4.000000}
+{ 86, 3, 1351449, 1357013, 0 , 2.000000}
+{ 30, 15, 1351449, 1355947, 73 , 0.500000}
+{ 54, 4, 1351449, 1355235, 19 , 1.000000}
+{ 61, 5, 1364472, 1368105, 19 , 4.000000}
+{ 72, 1, 1364472, 1367783, 19 , 4.000000}
+{ 78, 1, 1364472, 1367616, 19 , 4.000000}
+{ 8, 7, 1364472, 1367554, 73 , 0.500000}
+{ 7, 1, 1364472, 1367397, 73 , 2.000000}
+{ 6, 7, 1364472, 1366600, 73 , 0.500000}
+{ 20, 1, 1364472, 1366169, 73 , 2.000000}
+{ 38, 8, 1364472, 1366009, 35 , 1.000000}
+{ 43, 1, 1364472, 1365166, 35 , 2.000000}
+{ 69, 4, 1368105, 1369402, 19 , 2.000000}
+{ 14, 7, 1368105, 1369259, 73 , 2.000000}
+{ 17, 5, 1368105, 1368826, 73 , 1.000000}
+{ 1, 7, 1368105, 1368779, 73 , 2.000000}
+{ 66, 2, 1368105, 1368599, 19 , 2.000000}
+{ 3, 10, 1368105, 1368461, 73 , 0.500000}
+{ 48, 15, 1369402, 1370188, 35 , 2.000000}
+{ 45, 4, 1369402, 1369834, 35 , 4.000000}
+{ 47, 2, 1369402, 1369724, 35 , 2.000000}
+{ 21, 12, 1370188, 1370401, 73 , 1.000000}
+{ 25, 6, 1370188, 1370381, 73 , 4.000000}
+{ 77, 5, 1370188, 1370352, 19 , 1.000000}
+{ 63, 4, 1370188, 1370294, 19 , 2.000000}
+{ 83, 8, 1370401, 1370417, 0 , 4.000000}

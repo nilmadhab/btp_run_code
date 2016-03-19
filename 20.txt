@@ -1,0 +1,5965 @@
+15000is the power_budget
+140 is TSV_MAX 
+20is TAM_WIDTH_MAX 
+not ok
+Generated... 0 
+not ok
+ok
+Generated 1 
+not ok
+ok
+Generated 2 
+not ok
+ok
+Generated 3 
+not ok
+ok
+Generated 4 
+not ok
+ok
+Generated 5 
+not ok
+ok
+Generated 6 
+not ok
+ok
+Generated 7 
+not ok
+ok
+Generated 8 
+not ok
+ok
+Generated 9 
+not ok
+ok
+Generated 10 
+not ok
+ok
+Generated 11 
+not ok
+ok
+Generated 12 
+not ok
+ok
+Generated 13 
+not ok
+ok
+Generated 14 
+not ok
+ok
+Generated 15 
+not ok
+ok
+Generated 16 
+not ok
+ok
+Generated 17 
+not ok
+ok
+Generated 18 
+not ok
+ok
+Generated 19 
+not ok
+ok
+Generated 20 
+not ok
+ok
+Generated 21 
+not ok
+ok
+Generated 22 
+not ok
+ok
+Generated 23 
+not ok
+ok
+Generated 24 
+not ok
+ok
+Generated 25 
+not ok
+ok
+Generated 26 
+not ok
+ok
+Generated 27 
+not ok
+ok
+Generated 28 
+not ok
+ok
+Generated 29 
+not ok
+ok
+Generated 30 
+not ok
+ok
+Generated 31 
+not ok
+ok
+Generated 32 
+not ok
+ok
+Generated 33 
+not ok
+ok
+Generated 34 
+not ok
+ok
+Generated 35 
+not ok
+ok
+Generated 36 
+not ok
+ok
+Generated 37 
+not ok
+ok
+Generated 38 
+not ok
+ok
+Generated 39 
+not ok
+ok
+Generated 40 
+not ok
+ok
+Generated 41 
+not ok
+ok
+Generated 42 
+not ok
+ok
+Generated 43 
+not ok
+ok
+Generated 44 
+not ok
+ok
+Generated 45 
+not ok
+ok
+Generated 46 
+not ok
+ok
+Generated 47 
+not ok
+ok
+Generated 48 
+not ok
+ok
+Generated 49 
+not ok
+ok
+Generated 50 
+not ok
+ok
+Generated 51 
+not ok
+ok
+Generated 52 
+not ok
+ok
+Generated 53 
+not ok
+ok
+Generated 54 
+not ok
+ok
+Generated 55 
+not ok
+ok
+Generated 56 
+not ok
+ok
+Generated 57 
+not ok
+ok
+Generated 58 
+not ok
+ok
+Generated 59 
+not ok
+ok
+Generated 60 
+not ok
+ok
+Generated 61 
+not ok
+ok
+Generated 62 
+not ok
+ok
+Generated 63 
+not ok
+ok
+Generated 64 
+not ok
+ok
+Generated 65 
+not ok
+ok
+Generated 66 
+not ok
+ok
+Generated 67 
+not ok
+ok
+Generated 68 
+not ok
+ok
+Generated 69 
+not ok
+ok
+Generated 70 
+not ok
+ok
+Generated 71 
+not ok
+ok
+Generated 72 
+not ok
+ok
+Generated 73 
+not ok
+ok
+Generated 74 
+not ok
+ok
+Generated 75 
+not ok
+ok
+Generated 76 
+not ok
+ok
+Generated 77 
+not ok
+ok
+Generated 78 
+not ok
+ok
+Generated 79 
+not ok
+ok
+Generated 80 
+not ok
+ok
+Generated 81 
+not ok
+ok
+Generated 82 
+not ok
+ok
+Generated 83 
+not ok
+ok
+Generated 84 
+not ok
+ok
+Generated 85 
+not ok
+ok
+Generated 86 
+not ok
+ok
+Generated 87 
+not ok
+ok
+Generated 88 
+not ok
+ok
+Generated 89 
+not ok
+ok
+Generated 90 
+not ok
+ok
+Generated 91 
+not ok
+ok
+Generated 92 
+not ok
+ok
+Generated 93 
+not ok
+ok
+Generated 94 
+not ok
+ok
+Generated 95 
+not ok
+ok
+Generated 96 
+not ok
+ok
+Generated 97 
+not ok
+ok
+Generated 98 
+not ok
+ok
+Generated 99 
+not ok
+ok
+Generated 100 
+not ok
+ok
+Generated 101 
+not ok
+ok
+Generated 102 
+not ok
+ok
+Generated 103 
+not ok
+ok
+Generated 104 
+not ok
+ok
+Generated 105 
+not ok
+ok
+Generated 106 
+not ok
+ok
+Generated 107 
+not ok
+ok
+Generated 108 
+not ok
+ok
+Generated 109 
+not ok
+ok
+Generated 110 
+not ok
+ok
+Generated 111 
+not ok
+ok
+Generated 112 
+not ok
+ok
+Generated 113 
+not ok
+ok
+Generated 114 
+not ok
+ok
+Generated 115 
+not ok
+ok
+Generated 116 
+not ok
+ok
+Generated 117 
+not ok
+ok
+Generated 118 
+not ok
+ok
+Generated 119 
+not ok
+ok
+Generated 120 
+not ok
+ok
+Generated 121 
+not ok
+ok
+Generated 122 
+not ok
+ok
+Generated 123 
+not ok
+ok
+Generated 124 
+not ok
+ok
+Generated 125 
+not ok
+ok
+Generated 126 
+not ok
+ok
+Generated 127 
+not ok
+ok
+Generated 128 
+not ok
+ok
+Generated 129 
+not ok
+ok
+Generated 130 
+not ok
+ok
+Generated 131 
+not ok
+ok
+Generated 132 
+not ok
+ok
+Generated 133 
+not ok
+ok
+Generated 134 
+not ok
+ok
+Generated 135 
+not ok
+ok
+Generated 136 
+not ok
+ok
+Generated 137 
+not ok
+ok
+Generated 138 
+not ok
+ok
+Generated 139 
+not ok
+ok
+Generated 140 
+not ok
+not ok
+ok
+Generated 141 
+not ok
+ok
+Generated 142 
+not ok
+ok
+Generated 143 
+not ok
+ok
+Generated 144 
+not ok
+ok
+Generated 145 
+not ok
+ok
+Generated 146 
+not ok
+ok
+Generated 147 
+not ok
+ok
+Generated 148 
+not ok
+ok
+Generated 149 
+not ok
+ok
+Generated 150 
+not ok
+ok
+Generated 151 
+not ok
+ok
+Generated 152 
+not ok
+ok
+Generated 153 
+not ok
+ok
+Generated 154 
+not ok
+ok
+Generated 155 
+not ok
+ok
+Generated 156 
+not ok
+ok
+Generated 157 
+not ok
+ok
+Generated 158 
+not ok
+ok
+Generated 159 
+not ok
+ok
+Generated 160 
+not ok
+ok
+Generated 161 
+not ok
+ok
+Generated 162 
+not ok
+ok
+Generated 163 
+not ok
+ok
+Generated 164 
+not ok
+ok
+Generated 165 
+not ok
+ok
+Generated 166 
+not ok
+ok
+Generated 167 
+not ok
+ok
+Generated 168 
+not ok
+ok
+Generated 169 
+not ok
+ok
+Generated 170 
+not ok
+ok
+Generated 171 
+not ok
+ok
+Generated 172 
+not ok
+ok
+Generated 173 
+not ok
+ok
+Generated 174 
+not ok
+ok
+Generated 175 
+not ok
+ok
+Generated 176 
+not ok
+ok
+Generated 177 
+not ok
+ok
+Generated 178 
+not ok
+ok
+Generated 179 
+not ok
+ok
+Generated 180 
+not ok
+ok
+Generated 181 
+not ok
+ok
+Generated 182 
+not ok
+not ok
+not ok
+ok
+Generated 183 
+not ok
+ok
+Generated 184 
+not ok
+ok
+Generated 185 
+not ok
+ok
+Generated 186 
+not ok
+ok
+Generated 187 
+not ok
+ok
+Generated 188 
+not ok
+ok
+Generated 189 
+not ok
+ok
+Generated 190 
+not ok
+ok
+Generated 191 
+not ok
+ok
+Generated 192 
+not ok
+ok
+Generated 193 
+not ok
+ok
+Generated 194 
+not ok
+ok
+Generated 195 
+not ok
+ok
+Generated 196 
+not ok
+not ok
+ok
+Generated 197 
+not ok
+ok
+Generated 198 
+not ok
+ok
+Generated 199 
+not ok
+ok
+Generated 200 
+not ok
+ok
+Generated 201 
+not ok
+ok
+Generated 202 
+not ok
+ok
+Generated 203 
+not ok
+ok
+Generated 204 
+not ok
+ok
+Generated 205 
+not ok
+ok
+Generated 206 
+not ok
+ok
+Generated 207 
+not ok
+ok
+Generated 208 
+not ok
+ok
+Generated 209 
+not ok
+ok
+Generated 210 
+not ok
+ok
+Generated 211 
+not ok
+ok
+Generated 212 
+not ok
+ok
+Generated 213 
+not ok
+ok
+Generated 214 
+not ok
+ok
+Generated 215 
+not ok
+ok
+Generated 216 
+not ok
+ok
+Generated 217 
+not ok
+ok
+Generated 218 
+not ok
+ok
+Generated 219 
+not ok
+ok
+Generated 220 
+not ok
+ok
+Generated 221 
+not ok
+ok
+Generated 222 
+not ok
+ok
+Generated 223 
+not ok
+ok
+Generated 224 
+not ok
+ok
+Generated 225 
+not ok
+ok
+Generated 226 
+not ok
+ok
+Generated 227 
+not ok
+ok
+Generated 228 
+not ok
+ok
+Generated 229 
+not ok
+ok
+Generated 230 
+not ok
+ok
+Generated 231 
+not ok
+ok
+Generated 232 
+not ok
+ok
+Generated 233 
+not ok
+ok
+Generated 234 
+not ok
+ok
+Generated 235 
+not ok
+ok
+Generated 236 
+not ok
+ok
+Generated 237 
+not ok
+ok
+Generated 238 
+not ok
+ok
+Generated 239 
+not ok
+ok
+Generated 240 
+not ok
+ok
+Generated 241 
+not ok
+ok
+Generated 242 
+not ok
+ok
+Generated 243 
+not ok
+ok
+Generated 244 
+not ok
+ok
+Generated 245 
+not ok
+ok
+Generated 246 
+not ok
+ok
+Generated 247 
+not ok
+ok
+Generated 248 
+not ok
+ok
+Generated 249 
+not ok
+ok
+Generated 250 
+not ok
+ok
+Generated 251 
+not ok
+ok
+Generated 252 
+not ok
+ok
+Generated 253 
+not ok
+ok
+Generated 254 
+not ok
+ok
+Generated 255 
+not ok
+ok
+Generated 256 
+not ok
+ok
+Generated 257 
+not ok
+ok
+Generated 258 
+not ok
+ok
+Generated 259 
+not ok
+ok
+Generated 260 
+not ok
+ok
+Generated 261 
+not ok
+ok
+Generated 262 
+not ok
+ok
+Generated 263 
+not ok
+ok
+Generated 264 
+not ok
+ok
+Generated 265 
+not ok
+ok
+Generated 266 
+not ok
+ok
+Generated 267 
+not ok
+ok
+Generated 268 
+not ok
+ok
+Generated 269 
+not ok
+ok
+Generated 270 
+not ok
+ok
+Generated 271 
+not ok
+ok
+Generated 272 
+not ok
+ok
+Generated 273 
+not ok
+ok
+Generated 274 
+not ok
+ok
+Generated 275 
+not ok
+ok
+Generated 276 
+not ok
+ok
+Generated 277 
+not ok
+ok
+Generated 278 
+not ok
+ok
+Generated 279 
+not ok
+ok
+Generated 280 
+not ok
+ok
+Generated 281 
+not ok
+ok
+Generated 282 
+not ok
+ok
+Generated 283 
+not ok
+ok
+Generated 284 
+not ok
+ok
+Generated 285 
+not ok
+ok
+Generated 286 
+not ok
+ok
+Generated 287 
+not ok
+ok
+Generated 288 
+not ok
+ok
+Generated 289 
+not ok
+ok
+Generated 290 
+not ok
+ok
+Generated 291 
+not ok
+ok
+Generated 292 
+not ok
+ok
+Generated 293 
+not ok
+ok
+Generated 294 
+not ok
+ok
+Generated 295 
+not ok
+ok
+Generated 296 
+not ok
+ok
+Generated 297 
+not ok
+ok
+Generated 298 
+not ok
+ok
+Generated 299 
+not ok
+ok
+Generated 300 
+not ok
+ok
+Generated 301 
+not ok
+ok
+Generated 302 
+not ok
+ok
+Generated 303 
+not ok
+ok
+Generated 304 
+not ok
+ok
+Generated 305 
+not ok
+ok
+Generated 306 
+not ok
+ok
+Generated 307 
+not ok
+ok
+Generated 308 
+not ok
+ok
+Generated 309 
+not ok
+ok
+Generated 310 
+not ok
+ok
+Generated 311 
+not ok
+ok
+Generated 312 
+not ok
+not ok
+ok
+Generated 313 
+not ok
+ok
+Generated 314 
+not ok
+ok
+Generated 315 
+not ok
+ok
+Generated 316 
+not ok
+ok
+Generated 317 
+not ok
+ok
+Generated 318 
+not ok
+ok
+Generated 319 
+not ok
+ok
+Generated 320 
+not ok
+ok
+Generated 321 
+not ok
+ok
+Generated 322 
+not ok
+ok
+Generated 323 
+not ok
+ok
+Generated 324 
+not ok
+ok
+Generated 325 
+not ok
+ok
+Generated 326 
+not ok
+ok
+Generated 327 
+not ok
+ok
+Generated 328 
+not ok
+ok
+Generated 329 
+not ok
+ok
+Generated 330 
+not ok
+ok
+Generated 331 
+not ok
+ok
+Generated 332 
+not ok
+ok
+Generated 333 
+not ok
+ok
+Generated 334 
+not ok
+ok
+Generated 335 
+not ok
+ok
+Generated 336 
+not ok
+ok
+Generated 337 
+not ok
+ok
+Generated 338 
+not ok
+ok
+Generated 339 
+not ok
+ok
+Generated 340 
+not ok
+ok
+Generated 341 
+not ok
+ok
+Generated 342 
+not ok
+ok
+Generated 343 
+not ok
+ok
+Generated 344 
+not ok
+not ok
+ok
+Generated 345 
+not ok
+ok
+Generated 346 
+not ok
+ok
+Generated 347 
+not ok
+ok
+Generated 348 
+not ok
+ok
+Generated 349 
+not ok
+ok
+Generated 350 
+not ok
+ok
+Generated 351 
+not ok
+ok
+Generated 352 
+not ok
+ok
+Generated 353 
+not ok
+ok
+Generated 354 
+not ok
+ok
+Generated 355 
+not ok
+ok
+Generated 356 
+not ok
+ok
+Generated 357 
+not ok
+ok
+Generated 358 
+not ok
+ok
+Generated 359 
+not ok
+ok
+Generated 360 
+not ok
+ok
+Generated 361 
+not ok
+ok
+Generated 362 
+not ok
+ok
+Generated 363 
+not ok
+ok
+Generated 364 
+not ok
+ok
+Generated 365 
+not ok
+ok
+Generated 366 
+not ok
+ok
+Generated 367 
+not ok
+ok
+Generated 368 
+not ok
+ok
+Generated 369 
+not ok
+ok
+Generated 370 
+not ok
+ok
+Generated 371 
+not ok
+ok
+Generated 372 
+not ok
+ok
+Generated 373 
+not ok
+ok
+Generated 374 
+not ok
+ok
+Generated 375 
+not ok
+ok
+Generated 376 
+not ok
+ok
+Generated 377 
+not ok
+ok
+Generated 378 
+not ok
+ok
+Generated 379 
+not ok
+ok
+Generated 380 
+not ok
+ok
+Generated 381 
+not ok
+ok
+Generated 382 
+not ok
+ok
+Generated 383 
+not ok
+ok
+Generated 384 
+not ok
+ok
+Generated 385 
+not ok
+ok
+Generated 386 
+not ok
+ok
+Generated 387 
+not ok
+ok
+Generated 388 
+not ok
+ok
+Generated 389 
+not ok
+ok
+Generated 390 
+not ok
+ok
+Generated 391 
+not ok
+ok
+Generated 392 
+not ok
+ok
+Generated 393 
+not ok
+ok
+Generated 394 
+not ok
+ok
+Generated 395 
+not ok
+ok
+Generated 396 
+not ok
+ok
+Generated 397 
+not ok
+ok
+Generated 398 
+not ok
+ok
+Generated 399 
+not ok
+ok
+Generated 400 
+not ok
+ok
+Generated 401 
+not ok
+ok
+Generated 402 
+not ok
+ok
+Generated 403 
+not ok
+ok
+Generated 404 
+not ok
+ok
+Generated 405 
+not ok
+ok
+Generated 406 
+not ok
+ok
+Generated 407 
+not ok
+ok
+Generated 408 
+not ok
+ok
+Generated 409 
+not ok
+ok
+Generated 410 
+not ok
+ok
+Generated 411 
+not ok
+ok
+Generated 412 
+not ok
+ok
+Generated 413 
+not ok
+ok
+Generated 414 
+not ok
+ok
+Generated 415 
+not ok
+ok
+Generated 416 
+not ok
+ok
+Generated 417 
+not ok
+ok
+Generated 418 
+not ok
+ok
+Generated 419 
+not ok
+ok
+Generated 420 
+not ok
+ok
+Generated 421 
+not ok
+ok
+Generated 422 
+not ok
+ok
+Generated 423 
+not ok
+ok
+Generated 424 
+not ok
+ok
+Generated 425 
+not ok
+ok
+Generated 426 
+not ok
+ok
+Generated 427 
+not ok
+ok
+Generated 428 
+not ok
+ok
+Generated 429 
+not ok
+ok
+Generated 430 
+not ok
+ok
+Generated 431 
+not ok
+ok
+Generated 432 
+not ok
+ok
+Generated 433 
+not ok
+ok
+Generated 434 
+not ok
+ok
+Generated 435 
+not ok
+ok
+Generated 436 
+not ok
+ok
+Generated 437 
+not ok
+ok
+Generated 438 
+not ok
+ok
+Generated 439 
+not ok
+ok
+Generated 440 
+not ok
+ok
+Generated 441 
+not ok
+ok
+Generated 442 
+not ok
+ok
+Generated 443 
+not ok
+ok
+Generated 444 
+not ok
+ok
+Generated 445 
+not ok
+ok
+Generated 446 
+not ok
+ok
+Generated 447 
+not ok
+ok
+Generated 448 
+not ok
+not ok
+ok
+Generated 449 
+not ok
+ok
+Generated 450 
+not ok
+ok
+Generated 451 
+not ok
+ok
+Generated 452 
+not ok
+ok
+Generated 453 
+not ok
+ok
+Generated 454 
+not ok
+ok
+Generated 455 
+not ok
+ok
+Generated 456 
+not ok
+ok
+Generated 457 
+not ok
+ok
+Generated 458 
+not ok
+ok
+Generated 459 
+not ok
+ok
+Generated 460 
+not ok
+ok
+Generated 461 
+not ok
+ok
+Generated 462 
+not ok
+ok
+Generated 463 
+not ok
+ok
+Generated 464 
+not ok
+ok
+Generated 465 
+not ok
+ok
+Generated 466 
+not ok
+ok
+Generated 467 
+not ok
+ok
+Generated 468 
+not ok
+ok
+Generated 469 
+not ok
+ok
+Generated 470 
+not ok
+ok
+Generated 471 
+not ok
+ok
+Generated 472 
+not ok
+ok
+Generated 473 
+not ok
+ok
+Generated 474 
+not ok
+ok
+Generated 475 
+not ok
+ok
+Generated 476 
+not ok
+ok
+Generated 477 
+not ok
+ok
+Generated 478 
+not ok
+ok
+Generated 479 
+not ok
+ok
+Generated 480 
+not ok
+ok
+Generated 481 
+not ok
+ok
+Generated 482 
+not ok
+ok
+Generated 483 
+not ok
+ok
+Generated 484 
+not ok
+ok
+Generated 485 
+not ok
+ok
+Generated 486 
+not ok
+ok
+Generated 487 
+not ok
+ok
+Generated 488 
+not ok
+ok
+Generated 489 
+not ok
+ok
+Generated 490 
+not ok
+ok
+Generated 491 
+not ok
+ok
+Generated 492 
+not ok
+ok
+Generated 493 
+not ok
+ok
+Generated 494 
+not ok
+ok
+Generated 495 
+not ok
+ok
+Generated 496 
+not ok
+ok
+Generated 497 
+not ok
+ok
+Generated 498 
+not ok
+ok
+Generated 499 
+not ok
+ok
+Generated 500 
+not ok
+ok
+Generated 501 
+not ok
+ok
+Generated 502 
+not ok
+ok
+Generated 503 
+not ok
+ok
+Generated 504 
+not ok
+ok
+Generated 505 
+not ok
+ok
+Generated 506 
+not ok
+ok
+Generated 507 
+not ok
+ok
+Generated 508 
+not ok
+ok
+Generated 509 
+not ok
+ok
+Generated 510 
+not ok
+ok
+Generated 511 
+not ok
+ok
+Generated 512 
+not ok
+ok
+Generated 513 
+not ok
+ok
+Generated 514 
+not ok
+ok
+Generated 515 
+not ok
+ok
+Generated 516 
+not ok
+ok
+Generated 517 
+not ok
+ok
+Generated 518 
+not ok
+ok
+Generated 519 
+not ok
+ok
+Generated 520 
+not ok
+ok
+Generated 521 
+not ok
+ok
+Generated 522 
+not ok
+ok
+Generated 523 
+not ok
+ok
+Generated 524 
+not ok
+ok
+Generated 525 
+not ok
+ok
+Generated 526 
+not ok
+not ok
+ok
+Generated 527 
+not ok
+ok
+Generated 528 
+not ok
+ok
+Generated 529 
+not ok
+ok
+Generated 530 
+not ok
+ok
+Generated 531 
+not ok
+ok
+Generated 532 
+not ok
+ok
+Generated 533 
+not ok
+ok
+Generated 534 
+not ok
+ok
+Generated 535 
+not ok
+ok
+Generated 536 
+not ok
+ok
+Generated 537 
+not ok
+ok
+Generated 538 
+not ok
+ok
+Generated 539 
+not ok
+ok
+Generated 540 
+not ok
+ok
+Generated 541 
+not ok
+ok
+Generated 542 
+not ok
+ok
+Generated 543 
+not ok
+ok
+Generated 544 
+not ok
+ok
+Generated 545 
+not ok
+ok
+Generated 546 
+not ok
+ok
+Generated 547 
+not ok
+ok
+Generated 548 
+not ok
+ok
+Generated 549 
+not ok
+ok
+Generated 550 
+not ok
+ok
+Generated 551 
+not ok
+ok
+Generated 552 
+not ok
+ok
+Generated 553 
+not ok
+ok
+Generated 554 
+not ok
+ok
+Generated 555 
+not ok
+ok
+Generated 556 
+not ok
+ok
+Generated 557 
+not ok
+ok
+Generated 558 
+not ok
+ok
+Generated 559 
+not ok
+ok
+Generated 560 
+not ok
+ok
+Generated 561 
+not ok
+ok
+Generated 562 
+not ok
+ok
+Generated 563 
+not ok
+ok
+Generated 564 
+not ok
+ok
+Generated 565 
+not ok
+ok
+Generated 566 
+not ok
+ok
+Generated 567 
+not ok
+ok
+Generated 568 
+not ok
+ok
+Generated 569 
+not ok
+ok
+Generated 570 
+not ok
+ok
+Generated 571 
+not ok
+ok
+Generated 572 
+not ok
+ok
+Generated 573 
+not ok
+ok
+Generated 574 
+not ok
+ok
+Generated 575 
+not ok
+ok
+Generated 576 
+not ok
+ok
+Generated 577 
+not ok
+ok
+Generated 578 
+not ok
+ok
+Generated 579 
+not ok
+ok
+Generated 580 
+not ok
+ok
+Generated 581 
+not ok
+ok
+Generated 582 
+not ok
+ok
+Generated 583 
+not ok
+ok
+Generated 584 
+not ok
+ok
+Generated 585 
+not ok
+ok
+Generated 586 
+not ok
+ok
+Generated 587 
+not ok
+ok
+Generated 588 
+not ok
+ok
+Generated 589 
+not ok
+ok
+Generated 590 
+not ok
+ok
+Generated 591 
+not ok
+ok
+Generated 592 
+not ok
+ok
+Generated 593 
+not ok
+ok
+Generated 594 
+not ok
+ok
+Generated 595 
+not ok
+ok
+Generated 596 
+not ok
+ok
+Generated 597 
+not ok
+ok
+Generated 598 
+not ok
+ok
+Generated 599 
+not ok
+ok
+Generated 600 
+not ok
+ok
+Generated 601 
+not ok
+ok
+Generated 602 
+not ok
+ok
+Generated 603 
+not ok
+ok
+Generated 604 
+not ok
+ok
+Generated 605 
+not ok
+ok
+Generated 606 
+not ok
+ok
+Generated 607 
+not ok
+ok
+Generated 608 
+not ok
+ok
+Generated 609 
+not ok
+ok
+Generated 610 
+not ok
+ok
+Generated 611 
+not ok
+ok
+Generated 612 
+not ok
+ok
+Generated 613 
+not ok
+ok
+Generated 614 
+not ok
+ok
+Generated 615 
+not ok
+ok
+Generated 616 
+not ok
+ok
+Generated 617 
+not ok
+ok
+Generated 618 
+not ok
+ok
+Generated 619 
+not ok
+ok
+Generated 620 
+not ok
+ok
+Generated 621 
+not ok
+ok
+Generated 622 
+not ok
+ok
+Generated 623 
+not ok
+ok
+Generated 624 
+not ok
+ok
+Generated 625 
+not ok
+ok
+Generated 626 
+not ok
+ok
+Generated 627 
+not ok
+ok
+Generated 628 
+not ok
+ok
+Generated 629 
+not ok
+ok
+Generated 630 
+not ok
+ok
+Generated 631 
+not ok
+ok
+Generated 632 
+not ok
+ok
+Generated 633 
+not ok
+ok
+Generated 634 
+not ok
+ok
+Generated 635 
+not ok
+ok
+Generated 636 
+not ok
+ok
+Generated 637 
+not ok
+ok
+Generated 638 
+not ok
+ok
+Generated 639 
+not ok
+ok
+Generated 640 
+not ok
+ok
+Generated 641 
+not ok
+ok
+Generated 642 
+not ok
+ok
+Generated 643 
+not ok
+ok
+Generated 644 
+not ok
+ok
+Generated 645 
+not ok
+ok
+Generated 646 
+not ok
+ok
+Generated 647 
+not ok
+ok
+Generated 648 
+not ok
+ok
+Generated 649 
+not ok
+ok
+Generated 650 
+not ok
+ok
+Generated 651 
+not ok
+ok
+Generated 652 
+not ok
+ok
+Generated 653 
+not ok
+ok
+Generated 654 
+not ok
+ok
+Generated 655 
+not ok
+ok
+Generated 656 
+not ok
+ok
+Generated 657 
+not ok
+ok
+Generated 658 
+not ok
+ok
+Generated 659 
+not ok
+ok
+Generated 660 
+not ok
+ok
+Generated 661 
+not ok
+ok
+Generated 662 
+not ok
+ok
+Generated 663 
+not ok
+ok
+Generated 664 
+not ok
+ok
+Generated 665 
+not ok
+ok
+Generated 666 
+not ok
+ok
+Generated 667 
+not ok
+ok
+Generated 668 
+not ok
+ok
+Generated 669 
+not ok
+ok
+Generated 670 
+not ok
+ok
+Generated 671 
+not ok
+ok
+Generated 672 
+not ok
+ok
+Generated 673 
+not ok
+ok
+Generated 674 
+not ok
+ok
+Generated 675 
+not ok
+ok
+Generated 676 
+not ok
+ok
+Generated 677 
+not ok
+ok
+Generated 678 
+not ok
+ok
+Generated 679 
+not ok
+ok
+Generated 680 
+not ok
+ok
+Generated 681 
+not ok
+ok
+Generated 682 
+not ok
+ok
+Generated 683 
+not ok
+ok
+Generated 684 
+not ok
+ok
+Generated 685 
+not ok
+ok
+Generated 686 
+not ok
+ok
+Generated 687 
+not ok
+ok
+Generated 688 
+not ok
+ok
+Generated 689 
+not ok
+ok
+Generated 690 
+not ok
+ok
+Generated 691 
+not ok
+ok
+Generated 692 
+not ok
+ok
+Generated 693 
+not ok
+ok
+Generated 694 
+not ok
+ok
+Generated 695 
+not ok
+ok
+Generated 696 
+not ok
+ok
+Generated 697 
+not ok
+ok
+Generated 698 
+not ok
+ok
+Generated 699 
+not ok
+ok
+Generated 700 
+not ok
+ok
+Generated 701 
+not ok
+ok
+Generated 702 
+not ok
+ok
+Generated 703 
+not ok
+ok
+Generated 704 
+not ok
+ok
+Generated 705 
+not ok
+ok
+Generated 706 
+not ok
+ok
+Generated 707 
+not ok
+ok
+Generated 708 
+not ok
+ok
+Generated 709 
+not ok
+ok
+Generated 710 
+not ok
+ok
+Generated 711 
+not ok
+ok
+Generated 712 
+not ok
+ok
+Generated 713 
+not ok
+ok
+Generated 714 
+not ok
+ok
+Generated 715 
+not ok
+ok
+Generated 716 
+not ok
+ok
+Generated 717 
+not ok
+ok
+Generated 718 
+not ok
+ok
+Generated 719 
+not ok
+ok
+Generated 720 
+not ok
+ok
+Generated 721 
+not ok
+ok
+Generated 722 
+not ok
+ok
+Generated 723 
+not ok
+ok
+Generated 724 
+not ok
+ok
+Generated 725 
+not ok
+ok
+Generated 726 
+not ok
+ok
+Generated 727 
+not ok
+ok
+Generated 728 
+not ok
+ok
+Generated 729 
+not ok
+ok
+Generated 730 
+not ok
+ok
+Generated 731 
+not ok
+ok
+Generated 732 
+not ok
+ok
+Generated 733 
+not ok
+ok
+Generated 734 
+not ok
+ok
+Generated 735 
+not ok
+ok
+Generated 736 
+not ok
+ok
+Generated 737 
+not ok
+ok
+Generated 738 
+not ok
+ok
+Generated 739 
+not ok
+ok
+Generated 740 
+not ok
+ok
+Generated 741 
+not ok
+ok
+Generated 742 
+not ok
+ok
+Generated 743 
+not ok
+ok
+Generated 744 
+not ok
+ok
+Generated 745 
+not ok
+ok
+Generated 746 
+not ok
+ok
+Generated 747 
+not ok
+ok
+Generated 748 
+not ok
+ok
+Generated 749 
+not ok
+ok
+Generated 750 
+not ok
+ok
+Generated 751 
+not ok
+ok
+Generated 752 
+not ok
+ok
+Generated 753 
+not ok
+ok
+Generated 754 
+not ok
+ok
+Generated 755 
+not ok
+ok
+Generated 756 
+not ok
+ok
+Generated 757 
+not ok
+ok
+Generated 758 
+not ok
+ok
+Generated 759 
+not ok
+ok
+Generated 760 
+not ok
+ok
+Generated 761 
+not ok
+ok
+Generated 762 
+not ok
+ok
+Generated 763 
+not ok
+ok
+Generated 764 
+not ok
+ok
+Generated 765 
+not ok
+ok
+Generated 766 
+not ok
+ok
+Generated 767 
+not ok
+ok
+Generated 768 
+not ok
+ok
+Generated 769 
+not ok
+ok
+Generated 770 
+not ok
+ok
+Generated 771 
+not ok
+ok
+Generated 772 
+not ok
+ok
+Generated 773 
+not ok
+ok
+Generated 774 
+not ok
+ok
+Generated 775 
+not ok
+ok
+Generated 776 
+not ok
+not ok
+ok
+Generated 777 
+not ok
+ok
+Generated 778 
+not ok
+ok
+Generated 779 
+not ok
+ok
+Generated 780 
+not ok
+ok
+Generated 781 
+not ok
+ok
+Generated 782 
+not ok
+ok
+Generated 783 
+not ok
+ok
+Generated 784 
+not ok
+ok
+Generated 785 
+not ok
+ok
+Generated 786 
+not ok
+ok
+Generated 787 
+not ok
+ok
+Generated 788 
+not ok
+ok
+Generated 789 
+not ok
+ok
+Generated 790 
+not ok
+ok
+Generated 791 
+not ok
+ok
+Generated 792 
+not ok
+ok
+Generated 793 
+not ok
+ok
+Generated 794 
+not ok
+ok
+Generated 795 
+not ok
+ok
+Generated 796 
+not ok
+ok
+Generated 797 
+not ok
+ok
+Generated 798 
+not ok
+ok
+Generated 799 
+not ok
+ok
+Generated 800 
+not ok
+ok
+Generated 801 
+not ok
+ok
+Generated 802 
+not ok
+ok
+Generated 803 
+not ok
+ok
+Generated 804 
+not ok
+ok
+Generated 805 
+not ok
+ok
+Generated 806 
+not ok
+ok
+Generated 807 
+not ok
+ok
+Generated 808 
+not ok
+ok
+Generated 809 
+not ok
+ok
+Generated 810 
+not ok
+ok
+Generated 811 
+not ok
+ok
+Generated 812 
+not ok
+ok
+Generated 813 
+not ok
+ok
+Generated 814 
+not ok
+ok
+Generated 815 
+not ok
+ok
+Generated 816 
+not ok
+ok
+Generated 817 
+not ok
+ok
+Generated 818 
+not ok
+ok
+Generated 819 
+not ok
+ok
+Generated 820 
+not ok
+ok
+Generated 821 
+not ok
+ok
+Generated 822 
+not ok
+ok
+Generated 823 
+not ok
+ok
+Generated 824 
+not ok
+ok
+Generated 825 
+not ok
+ok
+Generated 826 
+not ok
+ok
+Generated 827 
+not ok
+ok
+Generated 828 
+not ok
+ok
+Generated 829 
+not ok
+ok
+Generated 830 
+not ok
+ok
+Generated 831 
+not ok
+ok
+Generated 832 
+not ok
+ok
+Generated 833 
+not ok
+ok
+Generated 834 
+not ok
+ok
+Generated 835 
+not ok
+ok
+Generated 836 
+not ok
+ok
+Generated 837 
+not ok
+ok
+Generated 838 
+not ok
+ok
+Generated 839 
+not ok
+ok
+Generated 840 
+not ok
+ok
+Generated 841 
+not ok
+ok
+Generated 842 
+not ok
+ok
+Generated 843 
+not ok
+ok
+Generated 844 
+not ok
+ok
+Generated 845 
+not ok
+ok
+Generated 846 
+not ok
+ok
+Generated 847 
+not ok
+ok
+Generated 848 
+not ok
+ok
+Generated 849 
+not ok
+ok
+Generated 850 
+not ok
+ok
+Generated 851 
+not ok
+ok
+Generated 852 
+not ok
+ok
+Generated 853 
+not ok
+ok
+Generated 854 
+not ok
+ok
+Generated 855 
+not ok
+ok
+Generated 856 
+not ok
+ok
+Generated 857 
+not ok
+ok
+Generated 858 
+not ok
+ok
+Generated 859 
+not ok
+ok
+Generated 860 
+not ok
+ok
+Generated 861 
+not ok
+ok
+Generated 862 
+not ok
+ok
+Generated 863 
+not ok
+ok
+Generated 864 
+not ok
+ok
+Generated 865 
+not ok
+ok
+Generated 866 
+not ok
+ok
+Generated 867 
+not ok
+ok
+Generated 868 
+not ok
+ok
+Generated 869 
+not ok
+ok
+Generated 870 
+not ok
+ok
+Generated 871 
+not ok
+ok
+Generated 872 
+not ok
+ok
+Generated 873 
+not ok
+ok
+Generated 874 
+not ok
+ok
+Generated 875 
+not ok
+ok
+Generated 876 
+not ok
+ok
+Generated 877 
+not ok
+ok
+Generated 878 
+not ok
+ok
+Generated 879 
+not ok
+ok
+Generated 880 
+not ok
+ok
+Generated 881 
+not ok
+ok
+Generated 882 
+not ok
+ok
+Generated 883 
+not ok
+ok
+Generated 884 
+not ok
+ok
+Generated 885 
+not ok
+ok
+Generated 886 
+not ok
+ok
+Generated 887 
+not ok
+ok
+Generated 888 
+not ok
+ok
+Generated 889 
+not ok
+ok
+Generated 890 
+not ok
+ok
+Generated 891 
+not ok
+ok
+Generated 892 
+not ok
+ok
+Generated 893 
+not ok
+ok
+Generated 894 
+not ok
+ok
+Generated 895 
+not ok
+ok
+Generated 896 
+not ok
+ok
+Generated 897 
+not ok
+ok
+Generated 898 
+not ok
+ok
+Generated 899 
+not ok
+ok
+Generated 900 
+not ok
+ok
+Generated 901 
+not ok
+ok
+Generated 902 
+not ok
+ok
+Generated 903 
+not ok
+ok
+Generated 904 
+not ok
+ok
+Generated 905 
+not ok
+ok
+Generated 906 
+not ok
+ok
+Generated 907 
+not ok
+ok
+Generated 908 
+not ok
+ok
+Generated 909 
+not ok
+ok
+Generated 910 
+not ok
+ok
+Generated 911 
+not ok
+ok
+Generated 912 
+not ok
+ok
+Generated 913 
+not ok
+ok
+Generated 914 
+not ok
+ok
+Generated 915 
+not ok
+ok
+Generated 916 
+not ok
+ok
+Generated 917 
+not ok
+ok
+Generated 918 
+not ok
+ok
+Generated 919 
+not ok
+ok
+Generated 920 
+not ok
+ok
+Generated 921 
+not ok
+ok
+Generated 922 
+not ok
+ok
+Generated 923 
+not ok
+ok
+Generated 924 
+not ok
+ok
+Generated 925 
+not ok
+ok
+Generated 926 
+not ok
+ok
+Generated 927 
+not ok
+ok
+Generated 928 
+not ok
+ok
+Generated 929 
+not ok
+ok
+Generated 930 
+not ok
+ok
+Generated 931 
+not ok
+ok
+Generated 932 
+not ok
+ok
+Generated 933 
+not ok
+ok
+Generated 934 
+not ok
+ok
+Generated 935 
+not ok
+ok
+Generated 936 
+not ok
+ok
+Generated 937 
+not ok
+ok
+Generated 938 
+not ok
+ok
+Generated 939 
+not ok
+ok
+Generated 940 
+not ok
+ok
+Generated 941 
+not ok
+ok
+Generated 942 
+not ok
+ok
+Generated 943 
+not ok
+ok
+Generated 944 
+not ok
+ok
+Generated 945 
+not ok
+ok
+Generated 946 
+not ok
+ok
+Generated 947 
+not ok
+ok
+Generated 948 
+not ok
+ok
+Generated 949 
+not ok
+ok
+Generated 950 
+not ok
+ok
+Generated 951 
+not ok
+ok
+Generated 952 
+not ok
+ok
+Generated 953 
+not ok
+ok
+Generated 954 
+not ok
+ok
+Generated 955 
+not ok
+ok
+Generated 956 
+not ok
+ok
+Generated 957 
+not ok
+not ok
+ok
+Generated 958 
+not ok
+ok
+Generated 959 
+not ok
+ok
+Generated 960 
+not ok
+ok
+Generated 961 
+not ok
+ok
+Generated 962 
+not ok
+ok
+Generated 963 
+not ok
+ok
+Generated 964 
+not ok
+ok
+Generated 965 
+not ok
+ok
+Generated 966 
+not ok
+ok
+Generated 967 
+not ok
+ok
+Generated 968 
+not ok
+ok
+Generated 969 
+not ok
+ok
+Generated 970 
+not ok
+ok
+Generated 971 
+not ok
+ok
+Generated 972 
+not ok
+ok
+Generated 973 
+not ok
+ok
+Generated 974 
+not ok
+ok
+Generated 975 
+not ok
+ok
+Generated 976 
+not ok
+ok
+Generated 977 
+not ok
+ok
+Generated 978 
+not ok
+ok
+Generated 979 
+not ok
+ok
+Generated 980 
+not ok
+ok
+Generated 981 
+not ok
+ok
+Generated 982 
+not ok
+ok
+Generated 983 
+not ok
+ok
+Generated 984 
+not ok
+ok
+Generated 985 
+not ok
+ok
+Generated 986 
+not ok
+ok
+Generated 987 
+not ok
+ok
+Generated 988 
+not ok
+ok
+Generated 989 
+not ok
+ok
+Generated 990 
+not ok
+ok
+Generated 991 
+not ok
+ok
+Generated 992 
+not ok
+ok
+Generated 993 
+not ok
+ok
+Generated 994 
+not ok
+ok
+Generated 995 
+not ok
+ok
+Generated 996 
+not ok
+ok
+Generated 997 
+not ok
+ok
+Generated 998 
+not ok
+ok
+Generated 999 
+6139301	5116366	13055676	13532940	6627969	5716727	5797755	13313016	11514311	13925746	21474198	7238934	5273307	7477486	6455613	5805658	13609823	5743608	13630985	10773107	5086698	5164960	10365379	13013783	7703247	6954982	21207154	8200860	13892715	7433146	5658370	7439919	4214364	7109080	6855743	5081334	5951797	5888318	8947627	7082442	5889564	10315206	5788800	11341434	11492200	4957126	4198769	8697443	11849111	6671552	7708593	5504757	8014270	9130166	12523049	8360922	7836326	13331572	7607915	4789807	5376697	6312269	6034606	6208120	11254047	9030091	4346444	4905466	25482899	12990823	10560993	6531604	13563007	6351829	5520495	13625592	4904116	7551414	6489134	5232125	7961603	11022990	11797957	13452989	5729783	7806044	24076899	8932158	23421449	6890789	7638921	10542956	5504844	11431044	9562649	5387706	13796349	7037400	4456287	22646773	13403287	9724402	9998949	6001993	7717836	7902028	12788965	5303688	9519216	4324412	11509062	5952650	5510929	6478013	9175551	7145444	4612338	6854093	8512393	7743094	10370800	13937299	8223902	11465125	6820637	12148841	9132609	10340383	20930254	20813996	4786289	7559544	7406020	12030214	13599751	8733211	4933713	4644269	7774691	9533223	22821652	6466764	10657192	6204685	9277697	7690805	7902498	6132533	4804729	11985595	8086769	6983485	4106030	6794097	12272055	9212237	9265050	11692543	13505674	13182542	8223829	10233997	4963065	4285540	9594776	7903341	7823188	20793607	13733561	8328226	7412066	12333037	10562820	15193886	11827599	7507739	9223726	6743738	6660929	6396672	14344813	10089822	7586569	12007747	5572706	4171539	6501936	8867359	7436148	13408670	13664073	12681330	7985210	12147345	4678515	5205435	15517142	23473717	8571272	6184321	4659060	5528535	6085166	23615397	6659188	8196622	6048631	8432262	8000166	11994396	11449870	12534434	9851246	5124230	11703504	22070628	5344687	7740699	14144154	13004709	7765322	13346990	12115279	9631354	13302546	23360978	13068626	12508361	11390688	5047743	8314504	5579579	4704414	5503973	7596647	13745193	13652058	7359184	8754533	8379590	8409212	9948191	21967221	6130141	12134411	21823856	14988581	6241079	9288210	7341573	12276140	11081592	6172847	5637043	5293570	6090131	12306799	12559436	6897682	5303940	9189530	4162274	5402557	20710070	10130409	10328137	9242387	6453197	5624577	9934315	6311155	17144639	9462012	12244200	5034003	23590469	5214512	6989318	6340581	20840446	5920650	5268282	6453286	22140678	14124158	13923083	12498125	5284689	13091505	7585712	13962581	5064321	12539000	7432756	6844255	14103510	7820837	8038603	7094312	5372021	6242217	4531931	11159764	4986789	8203466	6789471	7958474	5719047	23413702	6758147	5078282	9755386	6083019	5421174	4865808	9557435	5946700	9415872	9775641	22439296	12855492	4700280	4602606	8039123	12087641	6154154	21537853	4947202	22909582	23277247	7057327	6304506	7798135	13211976	16135681	11551804	6495109	12168853	12926726	13566289	24777464	13875558	13207280	6361316	8879598	13590691	12271706	13186636	12085018	11790981	4779328	7940783	7342107	7739832	13083272	9592655	7404502	10226323	21936947	8652864	24659324	4023210	13199184	10486853	9619993	4274074	6827790	10898809	4462189	12729348	7219383	5273192	12124104	8007528	6928269	6174826	12988713	6420705	7704883	12797394	6489230	10159608	8631601	12315960	22238063	10742041	13570412	13131373	13674099	12402440	6067367	13040936	12782071	4403623	8985309	9886451	8640803	22397235	9995521	6930770	5163320	6593047	6814829	14061741	4565164	5528274	4985288	6493815	6981505	7495328	7056899	7752478	9317919	9553229	5298798	13121901	7373445	11251357	12319146	4928237	4304283	9755900	9178981	8295006	6521102	7648658	6806443	11958667	7618932	5792750	7416392	7773453	7921072	12641489	14864834	22902296	12764590	8085369	23539321	5495888	10262993	4681079	7142056	13192292	21766440	13940620	20773309	12257660	7331797	6615854	14819832	5409133	12174124	12363901	11598417	14133578	6638388	13261977	7669601	14964479	5820172	22305977	11524885	8743845	8886511	23322174	9424792	5241208	12843902	9176153	3784015	7310321	7850245	8871463	5596104	6973712	23283949	5415885	11947926	5587824	7572150	5169237	21524039	22987820	7488549	4563651	4149071	6784187	6107072	10137085	7323849	15239118	10107108	13800644	10941344	6007020	22446712	7645774	6296948	8126296	12082890	16855296	21988952	7028639	5352689	12116797	6493550	5038359	7465307	5022560	13002631	5730750	12894427	8953094	7129289	22177169	9325537	22922292	11720548	6053920	8669917	14151561	5599856	8240025	5077407	9779631	6347491	11060558	20725798	9088363	7191835	6376178	7833689	7526530	7652003	7100209	20679892	14769232	4746154	10291066	10850680	8333348	4383427	7367705	11294957	6110600	3739088	8937671	11850396	4703264	8166930	7987657	9646621	7424852	6500881	7573426	14616568	14281884	10729036	5900154	12333713	12475198	9317504	4136149	4776550	7539368	21938883	9073800	20907092	15475382	9397751	4987921	8148423	8591133	7498754	6805161	5048856	9867663	5765047	21171030	10205479	5261667	7991849	10511377	5055844	5977888	9916340	7775424	4393850	6804187	7292193	6174409	5764559	5472805	4335393	5720552	11438222	5515885	7609750	8715930	13336144	6431721	5783718	9626604	5182837	5470356	13716478	22817054	11561186	5849885	5499844	13037904	9119761	22781268	8479177	6480282	12369572	10104380	14495973	8603505	7003189	9389124	9597792	11456454	6070117	8185398	5840153	5759994	8958038	11691944	6652356	6377213	22011377	5443634	6691681	8225880	6925026	23402020	10981205	7207769	7182743	4622895	6549848	4496383	12250278	5344581	5225809	5554265	4809656	4723190	6412384	8278719	12870660	5488512	6754102	12129858	6193154	8331114	7094229	8402391	15269946	4249097	4457976	11888678	16357563	7448064	6105875	4846992	4812464	4622030	9657916	5342708	9349578	8648508	4737082	8281407	20950988	5483593	22769280	9563327	6056947	11262185	6518597	4984364	4910528	6356315	5103744	6990385	6015360	11086660	8342827	3632186	24465586	8571354	13123646	9404835	7728394	13617213	5092310	13672593	6724946	8576657	8283455	5380813	5099269	5066031	11102470	6002618	8426216	5116972	9540792	4564290	5210415	12167643	7495075	22414875	11568310	6812797	5773863	20949715	6192010	5859405	8792533	5369566	8416062	15194299	7104370	12295379	6032085	11481846	10077989	8906102	8580306	23558563	7820396	11464286	8950756	5226115	6387190	12188095	4869658	12965070	7988780	6909627	9468795	6307124	12157993	6964636	4116115	5227347	5577973	4342600	9552706	21020915	8136685	4498262	8238340	5927046	10066311	20912534	13360839	5259513	11453003	8584894	6701852	9243970	8042103	4990804	4752707	7793523	6699168	5302479	11434779	6710800	10438788	6750500	9033888	4941252	22230137	8198951	11507092	13074332	5541866	4938182	6257503	11674443	6245751	22649551	7150526	12172805	4768568	7247142	4957957	4613452	6101277	6996045	14786794	7311864	6245365	6749844	8641885	11151836	5091069	6144447	14381800	5660419	22931959	6441898	7480116	4799334	23244552	3585850	8091698	7049011	7952022	8092490	5642089	7947465	11450960	21824148	5717955	8921767	7400644	7519284	6519052	12809833	6507590	14787604	9518878	7474895	7486052	6620343	8140302	15204867	11669003	5875670	21426535	6651283	22850834	6927494	8515267	5322936	8535267	5746052	23439415	4201377	7345340	11196085	5848617	10388995	10692428	7320665	8553330	9119294	8158856	12247679	6312249	7731998	5389853	9350723	5351743	6382269	10036776	4969730	5445902	11027809	11028827	4873707	12631399	11761237	5350753	5229825	7216090	7893291	12396827	22231652	4042315	11589165	7264676	8293736	7614662	12513514	6462093	15724189	7008750	7133531	14747301	8391107	20987516	8093311	6392740	6022167	12072905	12893319	8047415	6704058	5038561	10888147	11347890	9158608	14861071	6217345	7696226	8003418	9858408	8949064	7078589	9733890	6551491	21289762	6233757	22028117	5291112	13249237	6661805	8899602	12292682	14421363	13286809	5898000	5331309	7403535	10055671	7026299	10973712	5016482	6395619	6817420	11606048	7874618	14312186	6756381	11954237	4953214	14183077	5873495	7500936	6125587	7116559	5835187	11653136	13595072	9479069	6423161	10198386	4865135	10004259	5421808	22355858	22143071	7490199	10352895	6177867	13228799	4703185	12898889	7441177	5439607	7719484	12407506	4799054	6558544	10200603	11838952	13652341	6107337	7287886	20630898	8005223	12832459	13666384	5745231	6451276	8221541	10716795	6015650	16268557	9275145	5576302	4406915	6749301	5003958	4673281	13544130	11469401	6444604	7335393	7928915	11792261	6585873	13613802	4923352	13713081	11170354	11954579	6105916	5043352	23126503	6013521	9113999	
+lasttime is 3585850 for gen 2
+
+ the semgencount value is 1
+lasttime is 3410171 for gen 5
+
+ the semgencount value is 1
+lasttime is 3410171 for gen 6
+
+ the semgencount value is 2
+lasttime is 3410171 for gen 7
+
+ the semgencount value is 3
+lasttime is 3410171 for gen 8
+
+ the semgencount value is 4
+lasttime is 3410171 for gen 9
+
+ the semgencount value is 5
+lasttime is 3179138 for gen 14
+
+ the semgencount value is 1
+lasttime is 3179138 for gen 15
+
+ the semgencount value is 2
+lasttime is 3179138 for gen 16
+
+ the semgencount value is 3
+lasttime is 3179138 for gen 17
+
+ the semgencount value is 4
+lasttime is 3073159 for gen 20
+
+ the semgencount value is 1
+lasttime is 3073159 for gen 21
+
+ the semgencount value is 2
+lasttime is 3016152 for gen 24
+
+ the semgencount value is 1
+lasttime is 3016152 for gen 25
+
+ the semgencount value is 2
+lasttime is 3016152 for gen 26
+
+ the semgencount value is 3
+lasttime is 3008214 for gen 28
+
+ the semgencount value is 1
+lasttime is 3008214 for gen 29
+
+ the semgencount value is 2
+lasttime is 3008214 for gen 30
+
+ the semgencount value is 3
+lasttime is 3008214 for gen 31
+
+ the semgencount value is 4
+lasttime is 2949300 for gen 33
+
+ the semgencount value is 1
+lasttime is 2949300 for gen 34
+
+ the semgencount value is 2
+lasttime is 2916444 for gen 36
+
+ the semgencount value is 1
+lasttime is 2912438 for gen 38
+
+ the semgencount value is 1
+lasttime is 2905256 for gen 41
+
+ the semgencount value is 1
+lasttime is 2893336 for gen 43
+
+ the semgencount value is 1
+lasttime is 2857384 for gen 47
+
+ the semgencount value is 1
+lasttime is 2857384 for gen 48
+
+ the semgencount value is 2
+lasttime is 2857384 for gen 49
+
+ the semgencount value is 3
+lasttime is 2822352 for gen 51
+
+ the semgencount value is 1
+lasttime is 2822352 for gen 52
+
+ the semgencount value is 2
+lasttime is 2822352 for gen 53
+
+ the semgencount value is 3
+lasttime is 2803160 for gen 55
+
+ the semgencount value is 1
+lasttime is 2803160 for gen 56
+
+ the semgencount value is 2
+lasttime is 2733444 for gen 62
+
+ the semgencount value is 1
+lasttime is 2733444 for gen 63
+
+ the semgencount value is 2
+lasttime is 2733444 for gen 64
+
+ the semgencount value is 3
+lasttime is 2731351 for gen 66
+
+ the semgencount value is 1
+lasttime is 2731351 for gen 67
+
+ the semgencount value is 2
+lasttime is 2731351 for gen 68
+
+ the semgencount value is 3
+lasttime is 2707240 for gen 73
+
+ the semgencount value is 1
+lasttime is 2707240 for gen 74
+
+ the semgencount value is 2
+lasttime is 2702170 for gen 78
+
+ the semgencount value is 1
+lasttime is 2696956 for gen 80
+
+ the semgencount value is 1
+lasttime is 2678066 for gen 85
+
+ the semgencount value is 1
+lasttime is 2678066 for gen 86
+
+ the semgencount value is 2
+lasttime is 2678066 for gen 87
+
+ the semgencount value is 3
+lasttime is 2675611 for gen 89
+
+ the semgencount value is 1
+lasttime is 2675561 for gen 91
+
+ the semgencount value is 1
+lasttime is 2674540 for gen 94
+
+ the semgencount value is 1
+lasttime is 2674132 for gen 96
+
+ the semgencount value is 1
+lasttime is 2669380 for gen 99
+
+ the semgencount value is 1
+lasttime is 2668664 for gen 102
+
+ the semgencount value is 1
+lasttime is 2667773 for gen 104
+
+ the semgencount value is 1
+lasttime is 2666088 for gen 108
+
+ the semgencount value is 1
+lasttime is 2662431 for gen 112
+
+ the semgencount value is 1
+lasttime is 2662431 for gen 113
+
+ the semgencount value is 2
+lasttime is 2662431 for gen 114
+
+ the semgencount value is 3
+lasttime is 2661262 for gen 116
+
+ the semgencount value is 1
+lasttime is 2661262 for gen 117
+
+ the semgencount value is 2
+lasttime is 2661262 for gen 118
+
+ the semgencount value is 3
+lasttime is 2657939 for gen 129
+
+ the semgencount value is 1
+lasttime is 2657570 for gen 132
+
+ the semgencount value is 1
+lasttime is 2657570 for gen 133
+
+ the semgencount value is 2
+lasttime is 2656366 for gen 138
+
+ the semgencount value is 1
+lasttime is 2656366 for gen 139
+
+ the semgencount value is 2
+lasttime is 2656366 for gen 140
+
+ the semgencount value is 3
+lasttime is 2656366 for gen 141
+
+ the semgencount value is 4
+lasttime is 2656105 for gen 143
+
+ the semgencount value is 1
+lasttime is 2656105 for gen 144
+
+ the semgencount value is 2
+lasttime is 2656105 for gen 145
+
+ the semgencount value is 3
+lasttime is 2656105 for gen 146
+
+ the semgencount value is 4
+lasttime is 2656105 for gen 147
+
+ the semgencount value is 5
+lasttime is 2656105 for gen 148
+
+ the semgencount value is 6
+lasttime is 2656105 for gen 149
+
+ the semgencount value is 7
+lasttime is 2656105 for gen 150
+
+ the semgencount value is 8
+lasttime is 2656105 for gen 151
+
+ the semgencount value is 9
+lasttime is 2656105 for gen 152
+
+ the semgencount value is 10
+lasttime is 2656105 for gen 153
+
+ the semgencount value is 11
+lasttime is 2656105 for gen 154
+
+ the semgencount value is 12
+lasttime is 2656105 for gen 155
+
+ the semgencount value is 13
+lasttime is 2656105 for gen 156
+
+ the semgencount value is 14
+lasttime is 2656105 for gen 157
+
+ the semgencount value is 15
+lasttime is 2656105 for gen 158
+
+ the semgencount value is 16
+lasttime is 2656105 for gen 159
+
+ the semgencount value is 17
+lasttime is 2656105 for gen 160
+
+ the semgencount value is 18
+lasttime is 2646170 for gen 162
+
+ the semgencount value is 1
+lasttime is 2646170 for gen 163
+
+ the semgencount value is 2
+lasttime is 2646170 for gen 164
+
+ the semgencount value is 3
+lasttime is 2646170 for gen 165
+
+ the semgencount value is 4
+lasttime is 2646170 for gen 166
+
+ the semgencount value is 5
+lasttime is 2646170 for gen 167
+
+ the semgencount value is 6
+lasttime is 2646170 for gen 168
+
+ the semgencount value is 7
+lasttime is 2646170 for gen 169
+
+ the semgencount value is 8
+lasttime is 2646170 for gen 170
+
+ the semgencount value is 9
+lasttime is 2646170 for gen 171
+
+ the semgencount value is 10
+lasttime is 2646170 for gen 172
+
+ the semgencount value is 11
+lasttime is 2646170 for gen 173
+
+ the semgencount value is 12
+lasttime is 2646045 for gen 176
+
+ the semgencount value is 1
+lasttime is 2646045 for gen 177
+
+ the semgencount value is 2
+lasttime is 2646045 for gen 178
+
+ the semgencount value is 3
+lasttime is 2646045 for gen 179
+
+ the semgencount value is 4
+lasttime is 2646045 for gen 180
+
+ the semgencount value is 5
+lasttime is 2646045 for gen 181
+
+ the semgencount value is 6
+lasttime is 2646045 for gen 182
+
+ the semgencount value is 7
+lasttime is 2646045 for gen 183
+
+ the semgencount value is 8
+lasttime is 2646045 for gen 184
+
+ the semgencount value is 9
+lasttime is 2646045 for gen 185
+
+ the semgencount value is 10
+lasttime is 2646045 for gen 186
+
+ the semgencount value is 11
+lasttime is 2646045 for gen 187
+
+ the semgencount value is 12
+lasttime is 2646045 for gen 188
+
+ the semgencount value is 13
+lasttime is 2646045 for gen 189
+
+ the semgencount value is 14
+lasttime is 2646045 for gen 190
+
+ the semgencount value is 15
+lasttime is 2646045 for gen 191
+
+ the semgencount value is 16
+lasttime is 2646045 for gen 192
+
+ the semgencount value is 17
+lasttime is 2646045 for gen 193
+
+ the semgencount value is 18
+lasttime is 2646045 for gen 194
+
+ the semgencount value is 19
+lasttime is 2646045 for gen 195
+
+ the semgencount value is 20
+lasttime is 2646045 for gen 196
+
+ the semgencount value is 21
+lasttime is 2646045 for gen 197
+
+ the semgencount value is 22
+lasttime is 2646045 for gen 198
+
+ the semgencount value is 23
+lasttime is 2646045 for gen 199
+
+ the semgencount value is 24
+lasttime is 2646045 for gen 200
+
+ the semgencount value is 25
+lasttime is 2646045 for gen 201
+
+ the semgencount value is 26
+lasttime is 2646045 for gen 202
+
+ the semgencount value is 27
+lasttime is 2646045 for gen 203
+
+ the semgencount value is 28
+lasttime is 2646045 for gen 204
+
+ the semgencount value is 29
+lasttime is 2646045 for gen 205
+
+ the semgencount value is 30
+lasttime is 2646045 for gen 206
+
+ the semgencount value is 31
+lasttime is 2646045 for gen 207
+
+ the semgencount value is 32
+lasttime is 2646045 for gen 208
+
+ the semgencount value is 33
+lasttime is 2646045 for gen 209
+
+ the semgencount value is 34
+lasttime is 2646045 for gen 210
+
+ the semgencount value is 35
+lasttime is 2646045 for gen 211
+
+ the semgencount value is 36
+lasttime is 2646045 for gen 212
+
+ the semgencount value is 37
+lasttime is 2646045 for gen 213
+
+ the semgencount value is 38
+lasttime is 2646045 for gen 214
+
+ the semgencount value is 39
+lasttime is 2646045 for gen 215
+
+ the semgencount value is 40
+lasttime is 2646045 for gen 216
+
+ the semgencount value is 41
+lasttime is 2646045 for gen 217
+
+ the semgencount value is 42
+lasttime is 2646045 for gen 218
+
+ the semgencount value is 43
+lasttime is 2646045 for gen 219
+
+ the semgencount value is 44
+lasttime is 2646045 for gen 220
+
+ the semgencount value is 45
+lasttime is 2646045 for gen 221
+
+ the semgencount value is 46
+lasttime is 2646045 for gen 222
+
+ the semgencount value is 47
+lasttime is 2646045 for gen 223
+
+ the semgencount value is 48
+lasttime is 2646045 for gen 224
+
+ the semgencount value is 49
+lasttime is 2646045 for gen 225
+
+ the semgencount value is 50
+lasttime is 2646045 for gen 226
+
+ the semgencount value is 51
+lasttime is 2646045 for gen 227
+
+ the semgencount value is 52
+lasttime is 2646045 for gen 228
+
+ the semgencount value is 53
+lasttime is 2646045 for gen 229
+
+ the semgencount value is 54
+lasttime is 2646045 for gen 230
+
+ the semgencount value is 55
+lasttime is 2646045 for gen 231
+
+ the semgencount value is 56
+lasttime is 2646045 for gen 232
+
+ the semgencount value is 57
+lasttime is 2646045 for gen 233
+
+ the semgencount value is 58
+lasttime is 2646045 for gen 234
+
+ the semgencount value is 59
+lasttime is 2646045 for gen 235
+
+ the semgencount value is 60
+lasttime is 2646045 for gen 236
+
+ the semgencount value is 61
+lasttime is 2646045 for gen 237
+
+ the semgencount value is 62
+lasttime is 2646045 for gen 238
+
+ the semgencount value is 63
+lasttime is 2646045 for gen 239
+
+ the semgencount value is 64
+lasttime is 2646045 for gen 240
+
+ the semgencount value is 65
+lasttime is 2646045 for gen 241
+
+ the semgencount value is 66
+lasttime is 2646045 for gen 242
+
+ the semgencount value is 67
+lasttime is 2646045 for gen 243
+
+ the semgencount value is 68
+lasttime is 2646045 for gen 244
+
+ the semgencount value is 69
+lasttime is 2646045 for gen 245
+
+ the semgencount value is 70
+lasttime is 2646045 for gen 246
+
+ the semgencount value is 71
+lasttime is 2646045 for gen 247
+
+ the semgencount value is 72
+lasttime is 2646045 for gen 248
+
+ the semgencount value is 73
+lasttime is 2646045 for gen 249
+
+ the semgencount value is 74
+lasttime is 2646045 for gen 250
+
+ the semgencount value is 75
+lasttime is 2646045 for gen 251
+
+ the semgencount value is 76
+lasttime is 2646045 for gen 252
+
+ the semgencount value is 77
+lasttime is 2646045 for gen 253
+
+ the semgencount value is 78
+lasttime is 2646045 for gen 254
+
+ the semgencount value is 79
+lasttime is 2646045 for gen 255
+
+ the semgencount value is 80
+lasttime is 2646045 for gen 256
+
+ the semgencount value is 81
+lasttime is 2646045 for gen 257
+
+ the semgencount value is 82
+lasttime is 2646045 for gen 258
+
+ the semgencount value is 83
+lasttime is 2646045 for gen 259
+
+ the semgencount value is 84
+lasttime is 2646045 for gen 260
+
+ the semgencount value is 85
+lasttime is 2646045 for gen 261
+
+ the semgencount value is 86
+lasttime is 2646045 for gen 262
+
+ the semgencount value is 87
+lasttime is 2646045 for gen 263
+
+ the semgencount value is 88
+lasttime is 2646045 for gen 264
+
+ the semgencount value is 89
+lasttime is 2646045 for gen 265
+
+ the semgencount value is 90
+lasttime is 2646045 for gen 266
+
+ the semgencount value is 91
+lasttime is 2646045 for gen 267
+
+ the semgencount value is 92
+lasttime is 2646045 for gen 268
+
+ the semgencount value is 93
+lasttime is 2646045 for gen 269
+
+ the semgencount value is 94
+lasttime is 2646045 for gen 270
+
+ the semgencount value is 95
+lasttime is 2646045 for gen 271
+
+ the semgencount value is 96
+lasttime is 2646045 for gen 272
+
+ the semgencount value is 97
+lasttime is 2646045 for gen 273
+
+ the semgencount value is 98
+lasttime is 2646045 for gen 274
+
+ the semgencount value is 99
+lasttime is 2646045 for gen 275
+
+ the semgencount value is 100
+lasttime is 2646045 for gen 276
+
+ the semgencount value is 101
+lasttime is 2646045 for gen 277
+
+ the semgencount value is 102
+lasttime is 2646045 for gen 278
+
+ the semgencount value is 103
+lasttime is 2646045 for gen 279
+
+ the semgencount value is 104
+lasttime is 2646045 for gen 280
+
+ the semgencount value is 105
+lasttime is 2646045 for gen 281
+
+ the semgencount value is 106
+lasttime is 2646045 for gen 282
+
+ the semgencount value is 107
+lasttime is 2646045 for gen 283
+
+ the semgencount value is 108
+lasttime is 2646045 for gen 284
+
+ the semgencount value is 109
+lasttime is 2646045 for gen 285
+
+ the semgencount value is 110
+lasttime is 2646045 for gen 286
+
+ the semgencount value is 111
+lasttime is 2646045 for gen 287
+
+ the semgencount value is 112
+lasttime is 2646045 for gen 288
+
+ the semgencount value is 113
+lasttime is 2645879 for gen 290
+
+ the semgencount value is 1
+lasttime is 2645879 for gen 291
+
+ the semgencount value is 2
+lasttime is 2645879 for gen 292
+
+ the semgencount value is 3
+lasttime is 2645879 for gen 293
+
+ the semgencount value is 4
+lasttime is 2645879 for gen 294
+
+ the semgencount value is 5
+lasttime is 2645879 for gen 295
+
+ the semgencount value is 6
+lasttime is 2645879 for gen 296
+
+ the semgencount value is 7
+lasttime is 2645879 for gen 297
+
+ the semgencount value is 8
+lasttime is 2645879 for gen 298
+
+ the semgencount value is 9
+lasttime is 2645879 for gen 299
+
+ the semgencount value is 10
+lasttime is 2645879 for gen 300
+
+ the semgencount value is 11
+lasttime is 2645879 for gen 301
+
+ the semgencount value is 12
+lasttime is 2645879 for gen 302
+
+ the semgencount value is 13
+lasttime is 2645879 for gen 303
+
+ the semgencount value is 14
+lasttime is 2645879 for gen 304
+
+ the semgencount value is 15
+lasttime is 2645879 for gen 305
+
+ the semgencount value is 16
+lasttime is 2645879 for gen 306
+
+ the semgencount value is 17
+lasttime is 2645879 for gen 307
+
+ the semgencount value is 18
+lasttime is 2645879 for gen 308
+
+ the semgencount value is 19
+lasttime is 2645879 for gen 309
+
+ the semgencount value is 20
+lasttime is 2645879 for gen 310
+
+ the semgencount value is 21
+lasttime is 2645879 for gen 311
+
+ the semgencount value is 22
+lasttime is 2645879 for gen 312
+
+ the semgencount value is 23
+lasttime is 2645879 for gen 313
+
+ the semgencount value is 24
+lasttime is 2645879 for gen 314
+
+ the semgencount value is 25
+lasttime is 2645879 for gen 315
+
+ the semgencount value is 26
+lasttime is 2645879 for gen 316
+
+ the semgencount value is 27
+lasttime is 2645879 for gen 317
+
+ the semgencount value is 28
+lasttime is 2645879 for gen 318
+
+ the semgencount value is 29
+lasttime is 2645879 for gen 319
+
+ the semgencount value is 30
+lasttime is 2645879 for gen 320
+
+ the semgencount value is 31
+lasttime is 2645879 for gen 321
+
+ the semgencount value is 32
+lasttime is 2645879 for gen 322
+
+ the semgencount value is 33
+lasttime is 2645879 for gen 323
+
+ the semgencount value is 34
+lasttime is 2645879 for gen 324
+
+ the semgencount value is 35
+lasttime is 2645879 for gen 325
+
+ the semgencount value is 36
+lasttime is 2645879 for gen 326
+
+ the semgencount value is 37
+lasttime is 2645879 for gen 327
+
+ the semgencount value is 38
+lasttime is 2645879 for gen 328
+
+ the semgencount value is 39
+lasttime is 2645879 for gen 329
+
+ the semgencount value is 40
+lasttime is 2645879 for gen 330
+
+ the semgencount value is 41
+lasttime is 2645879 for gen 331
+
+ the semgencount value is 42
+lasttime is 2645879 for gen 332
+
+ the semgencount value is 43
+lasttime is 2645879 for gen 333
+
+ the semgencount value is 44
+lasttime is 2645879 for gen 334
+
+ the semgencount value is 45
+lasttime is 2645879 for gen 335
+
+ the semgencount value is 46
+lasttime is 2645879 for gen 336
+
+ the semgencount value is 47
+lasttime is 2645879 for gen 337
+
+ the semgencount value is 48
+lasttime is 2645879 for gen 338
+
+ the semgencount value is 49
+lasttime is 2645879 for gen 339
+
+ the semgencount value is 50
+lasttime is 2645879 for gen 340
+
+ the semgencount value is 51
+lasttime is 2645879 for gen 341
+
+ the semgencount value is 52
+lasttime is 2645879 for gen 342
+
+ the semgencount value is 53
+lasttime is 2645879 for gen 343
+
+ the semgencount value is 54
+lasttime is 2645879 for gen 344
+
+ the semgencount value is 55
+lasttime is 2645879 for gen 345
+
+ the semgencount value is 56
+lasttime is 2645879 for gen 346
+
+ the semgencount value is 57
+lasttime is 2645879 for gen 347
+
+ the semgencount value is 58
+lasttime is 2645879 for gen 348
+
+ the semgencount value is 59
+lasttime is 2645879 for gen 349
+
+ the semgencount value is 60
+lasttime is 2645879 for gen 350
+
+ the semgencount value is 61
+lasttime is 2645879 for gen 351
+
+ the semgencount value is 62
+lasttime is 2645879 for gen 352
+
+ the semgencount value is 63
+lasttime is 2645879 for gen 353
+
+ the semgencount value is 64
+lasttime is 2645879 for gen 354
+
+ the semgencount value is 65
+lasttime is 2645879 for gen 355
+
+ the semgencount value is 66
+lasttime is 2645879 for gen 356
+
+ the semgencount value is 67
+lasttime is 2645879 for gen 357
+
+ the semgencount value is 68
+lasttime is 2645879 for gen 358
+
+ the semgencount value is 69
+lasttime is 2645879 for gen 359
+
+ the semgencount value is 70
+lasttime is 2645879 for gen 360
+
+ the semgencount value is 71
+lasttime is 2645879 for gen 361
+
+ the semgencount value is 72
+lasttime is 2645879 for gen 362
+
+ the semgencount value is 73
+lasttime is 2645879 for gen 363
+
+ the semgencount value is 74
+lasttime is 2645879 for gen 364
+
+ the semgencount value is 75
+lasttime is 2645879 for gen 365
+
+ the semgencount value is 76
+lasttime is 2645879 for gen 366
+
+ the semgencount value is 77
+lasttime is 2645879 for gen 367
+
+ the semgencount value is 78
+lasttime is 2645879 for gen 368
+
+ the semgencount value is 79
+lasttime is 2645879 for gen 369
+
+ the semgencount value is 80
+lasttime is 2645879 for gen 370
+
+ the semgencount value is 81
+lasttime is 2645879 for gen 371
+
+ the semgencount value is 82
+lasttime is 2645879 for gen 372
+
+ the semgencount value is 83
+lasttime is 2645879 for gen 373
+
+ the semgencount value is 84
+lasttime is 2645879 for gen 374
+
+ the semgencount value is 85
+lasttime is 2645879 for gen 375
+
+ the semgencount value is 86
+lasttime is 2645879 for gen 376
+
+ the semgencount value is 87
+lasttime is 2645879 for gen 377
+
+ the semgencount value is 88
+lasttime is 2645879 for gen 378
+
+ the semgencount value is 89
+lasttime is 2645879 for gen 379
+
+ the semgencount value is 90
+lasttime is 2645879 for gen 380
+
+ the semgencount value is 91
+lasttime is 2645879 for gen 381
+
+ the semgencount value is 92
+lasttime is 2645879 for gen 382
+
+ the semgencount value is 93
+lasttime is 2645879 for gen 383
+
+ the semgencount value is 94
+lasttime is 2645879 for gen 384
+
+ the semgencount value is 95
+lasttime is 2645879 for gen 385
+
+ the semgencount value is 96
+lasttime is 2645879 for gen 386
+
+ the semgencount value is 97
+lasttime is 2645879 for gen 387
+
+ the semgencount value is 98
+lasttime is 2645879 for gen 388
+
+ the semgencount value is 99
+lasttime is 2645879 for gen 389
+
+ the semgencount value is 100
+lasttime is 2645879 for gen 390
+
+ the semgencount value is 101
+lasttime is 2645879 for gen 391
+
+ the semgencount value is 102
+lasttime is 2645879 for gen 392
+
+ the semgencount value is 103
+lasttime is 2645879 for gen 393
+
+ the semgencount value is 104
+lasttime is 2645879 for gen 394
+
+ the semgencount value is 105
+lasttime is 2645879 for gen 395
+
+ the semgencount value is 106
+lasttime is 2645879 for gen 396
+
+ the semgencount value is 107
+lasttime is 2645879 for gen 397
+
+ the semgencount value is 108
+lasttime is 2645879 for gen 398
+
+ the semgencount value is 109
+lasttime is 2645879 for gen 399
+
+ the semgencount value is 110
+lasttime is 2645879 for gen 400
+
+ the semgencount value is 111
+lasttime is 2645879 for gen 401
+
+ the semgencount value is 112
+lasttime is 2645879 for gen 402
+
+ the semgencount value is 113
+lasttime is 2645879 for gen 403
+
+ the semgencount value is 114
+lasttime is 2645879 for gen 404
+
+ the semgencount value is 115
+lasttime is 2645879 for gen 405
+
+ the semgencount value is 116
+lasttime is 2645879 for gen 406
+
+ the semgencount value is 117
+lasttime is 2645879 for gen 407
+
+ the semgencount value is 118
+lasttime is 2645879 for gen 408
+
+ the semgencount value is 119
+lasttime is 2645879 for gen 409
+
+ the semgencount value is 120
+lasttime is 2645879 for gen 410
+
+ the semgencount value is 121
+lasttime is 2645879 for gen 411
+
+ the semgencount value is 122
+lasttime is 2645879 for gen 412
+
+ the semgencount value is 123
+lasttime is 2645879 for gen 413
+
+ the semgencount value is 124
+lasttime is 2645879 for gen 414
+
+ the semgencount value is 125
+lasttime is 2645879 for gen 415
+
+ the semgencount value is 126
+lasttime is 2645879 for gen 416
+
+ the semgencount value is 127
+lasttime is 2645879 for gen 417
+
+ the semgencount value is 128
+lasttime is 2645879 for gen 418
+
+ the semgencount value is 129
+lasttime is 2645879 for gen 419
+
+ the semgencount value is 130
+lasttime is 2645879 for gen 420
+
+ the semgencount value is 131
+lasttime is 2645879 for gen 421
+
+ the semgencount value is 132
+lasttime is 2645879 for gen 422
+
+ the semgencount value is 133
+lasttime is 2645879 for gen 423
+
+ the semgencount value is 134
+lasttime is 2645879 for gen 424
+
+ the semgencount value is 135
+lasttime is 2645879 for gen 425
+
+ the semgencount value is 136
+lasttime is 2645879 for gen 426
+
+ the semgencount value is 137
+lasttime is 2645879 for gen 427
+
+ the semgencount value is 138
+lasttime is 2645879 for gen 428
+
+ the semgencount value is 139
+lasttime is 2645879 for gen 429
+
+ the semgencount value is 140
+lasttime is 2645879 for gen 430
+
+ the semgencount value is 141
+lasttime is 2645879 for gen 431
+
+ the semgencount value is 142
+lasttime is 2645879 for gen 432
+
+ the semgencount value is 143
+lasttime is 2645879 for gen 433
+
+ the semgencount value is 144
+lasttime is 2645879 for gen 434
+
+ the semgencount value is 145
+lasttime is 2645879 for gen 435
+
+ the semgencount value is 146
+lasttime is 2645879 for gen 436
+
+ the semgencount value is 147
+lasttime is 2645879 for gen 437
+
+ the semgencount value is 148
+lasttime is 2645879 for gen 438
+
+ the semgencount value is 149
+lasttime is 2645879 for gen 439
+
+ the semgencount value is 150
+lasttime is 2645879 for gen 440
+
+ the semgencount value is 151
+lasttime is 2645879 for gen 441
+
+ the semgencount value is 152
+lasttime is 2645879 for gen 442
+
+ the semgencount value is 153
+lasttime is 2645879 for gen 443
+
+ the semgencount value is 154
+lasttime is 2645879 for gen 444
+
+ the semgencount value is 155
+lasttime is 2645879 for gen 445
+
+ the semgencount value is 156
+lasttime is 2645879 for gen 446
+
+ the semgencount value is 157
+lasttime is 2645879 for gen 447
+
+ the semgencount value is 158
+lasttime is 2645879 for gen 448
+
+ the semgencount value is 159
+lasttime is 2645879 for gen 449
+
+ the semgencount value is 160
+lasttime is 2645879 for gen 450
+
+ the semgencount value is 161
+lasttime is 2645879 for gen 451
+
+ the semgencount value is 162
+lasttime is 2645879 for gen 452
+
+ the semgencount value is 163
+lasttime is 2645879 for gen 453
+
+ the semgencount value is 164
+lasttime is 2645879 for gen 454
+
+ the semgencount value is 165
+lasttime is 2645879 for gen 455
+
+ the semgencount value is 166
+lasttime is 2645879 for gen 456
+
+ the semgencount value is 167
+lasttime is 2645879 for gen 457
+
+ the semgencount value is 168
+lasttime is 2645879 for gen 458
+
+ the semgencount value is 169
+lasttime is 2645879 for gen 459
+
+ the semgencount value is 170
+lasttime is 2645879 for gen 460
+
+ the semgencount value is 171
+lasttime is 2645879 for gen 461
+
+ the semgencount value is 172
+lasttime is 2645879 for gen 462
+
+ the semgencount value is 173
+lasttime is 2645879 for gen 463
+
+ the semgencount value is 174
+lasttime is 2645879 for gen 464
+
+ the semgencount value is 175
+lasttime is 2645879 for gen 465
+
+ the semgencount value is 176
+lasttime is 2645879 for gen 466
+
+ the semgencount value is 177
+lasttime is 2645879 for gen 467
+
+ the semgencount value is 178
+lasttime is 2645879 for gen 468
+
+ the semgencount value is 179
+lasttime is 2645879 for gen 469
+
+ the semgencount value is 180
+lasttime is 2645879 for gen 470
+
+ the semgencount value is 181
+lasttime is 2645879 for gen 471
+
+ the semgencount value is 182
+lasttime is 2645879 for gen 472
+
+ the semgencount value is 183
+lasttime is 2645879 for gen 473
+
+ the semgencount value is 184
+lasttime is 2645879 for gen 474
+
+ the semgencount value is 185
+lasttime is 2645879 for gen 475
+
+ the semgencount value is 186
+lasttime is 2645879 for gen 476
+
+ the semgencount value is 187
+lasttime is 2645879 for gen 477
+
+ the semgencount value is 188
+lasttime is 2645879 for gen 478
+
+ the semgencount value is 189
+lasttime is 2645879 for gen 479
+
+ the semgencount value is 190
+lasttime is 2645879 for gen 480
+
+ the semgencount value is 191
+lasttime is 2645879 for gen 481
+
+ the semgencount value is 192
+lasttime is 2645879 for gen 482
+
+ the semgencount value is 193
+lasttime is 2645879 for gen 483
+
+ the semgencount value is 194
+lasttime is 2645879 for gen 484
+
+ the semgencount value is 195
+lasttime is 2645879 for gen 485
+
+ the semgencount value is 196
+lasttime is 2645879 for gen 486
+
+ the semgencount value is 197
+lasttime is 2645879 for gen 487
+
+ the semgencount value is 198
+lasttime is 2645879 for gen 488
+
+ the semgencount value is 199
+lasttime is 2645879 for gen 489
+
+ the semgencount value is 200
+lasttime is 2645879 for gen 490
+
+ the semgencount value is 201
+lasttime is 2645879 for gen 491
+
+ the semgencount value is 202
+lasttime is 2645879 for gen 492
+
+ the semgencount value is 203
+lasttime is 2645879 for gen 493
+
+ the semgencount value is 204
+lasttime is 2645879 for gen 494
+
+ the semgencount value is 205
+lasttime is 2645879 for gen 495
+
+ the semgencount value is 206
+lasttime is 2645879 for gen 496
+
+ the semgencount value is 207
+lasttime is 2645879 for gen 497
+
+ the semgencount value is 208
+lasttime is 2645879 for gen 498
+
+ the semgencount value is 209
+lasttime is 2645879 for gen 499
+
+ the semgencount value is 210
+lasttime is 2645879 for gen 500
+
+ the semgencount value is 211
+lasttime is 2645879 for gen 501
+
+ the semgencount value is 212
+lasttime is 2645879 for gen 502
+
+ the semgencount value is 213
+lasttime is 2645879 for gen 503
+
+ the semgencount value is 214
+lasttime is 2645879 for gen 504
+
+ the semgencount value is 215
+lasttime is 2645879 for gen 505
+
+ the semgencount value is 216
+lasttime is 2645879 for gen 506
+
+ the semgencount value is 217
+lasttime is 2645879 for gen 507
+
+ the semgencount value is 218
+lasttime is 2645879 for gen 508
+
+ the semgencount value is 219
+lasttime is 2645879 for gen 509
+
+ the semgencount value is 220
+lasttime is 2645879 for gen 510
+
+ the semgencount value is 221
+lasttime is 2645879 for gen 511
+
+ the semgencount value is 222
+lasttime is 2645879 for gen 512
+
+ the semgencount value is 223
+lasttime is 2645879 for gen 513
+
+ the semgencount value is 224
+lasttime is 2645879 for gen 514
+
+ the semgencount value is 225
+lasttime is 2645879 for gen 515
+
+ the semgencount value is 226
+lasttime is 2645879 for gen 516
+
+ the semgencount value is 227
+lasttime is 2645879 for gen 517
+
+ the semgencount value is 228
+lasttime is 2645879 for gen 518
+
+ the semgencount value is 229
+lasttime is 2645879 for gen 519
+
+ the semgencount value is 230
+lasttime is 2645879 for gen 520
+
+ the semgencount value is 231
+lasttime is 2645879 for gen 521
+
+ the semgencount value is 232
+lasttime is 2645879 for gen 522
+
+ the semgencount value is 233
+lasttime is 2645879 for gen 523
+
+ the semgencount value is 234
+lasttime is 2645879 for gen 524
+
+ the semgencount value is 235
+lasttime is 2645879 for gen 525
+
+ the semgencount value is 236
+lasttime is 2645879 for gen 526
+
+ the semgencount value is 237
+lasttime is 2645879 for gen 527
+
+ the semgencount value is 238
+lasttime is 2645879 for gen 528
+
+ the semgencount value is 239
+lasttime is 2645879 for gen 529
+
+ the semgencount value is 240
+lasttime is 2645879 for gen 530
+
+ the semgencount value is 241
+lasttime is 2645879 for gen 531
+
+ the semgencount value is 242
+lasttime is 2645879 for gen 532
+
+ the semgencount value is 243
+lasttime is 2645879 for gen 533
+
+ the semgencount value is 244
+lasttime is 2645879 for gen 534
+
+ the semgencount value is 245
+lasttime is 2645879 for gen 535
+
+ the semgencount value is 246
+lasttime is 2645879 for gen 536
+
+ the semgencount value is 247
+lasttime is 2645879 for gen 537
+
+ the semgencount value is 248
+lasttime is 2645879 for gen 538
+
+ the semgencount value is 249
+lasttime is 2645879 for gen 539
+
+ the semgencount value is 250
+lasttime is 2645879 for gen 540
+
+ the semgencount value is 251
+lasttime is 2645879 for gen 541
+
+ the semgencount value is 252
+lasttime is 2645879 for gen 542
+
+ the semgencount value is 253
+lasttime is 2645879 for gen 543
+
+ the semgencount value is 254
+lasttime is 2645879 for gen 544
+
+ the semgencount value is 255
+lasttime is 2645879 for gen 545
+
+ the semgencount value is 256
+lasttime is 2645879 for gen 546
+
+ the semgencount value is 257
+lasttime is 2645879 for gen 547
+
+ the semgencount value is 258
+lasttime is 2645879 for gen 548
+
+ the semgencount value is 259
+lasttime is 2645879 for gen 549
+
+ the semgencount value is 260
+lasttime is 2645879 for gen 550
+
+ the semgencount value is 261
+lasttime is 2645879 for gen 551
+
+ the semgencount value is 262
+lasttime is 2645879 for gen 552
+
+ the semgencount value is 263
+lasttime is 2645879 for gen 553
+
+ the semgencount value is 264
+lasttime is 2645879 for gen 554
+
+ the semgencount value is 265
+lasttime is 2645879 for gen 555
+
+ the semgencount value is 266
+lasttime is 2645879 for gen 556
+
+ the semgencount value is 267
+lasttime is 2645879 for gen 557
+
+ the semgencount value is 268
+lasttime is 2645879 for gen 558
+
+ the semgencount value is 269
+lasttime is 2645879 for gen 559
+
+ the semgencount value is 270
+lasttime is 2645879 for gen 560
+
+ the semgencount value is 271
+lasttime is 2645879 for gen 561
+
+ the semgencount value is 272
+lasttime is 2645879 for gen 562
+
+ the semgencount value is 273
+lasttime is 2645879 for gen 563
+
+ the semgencount value is 274
+lasttime is 2645879 for gen 564
+
+ the semgencount value is 275
+lasttime is 2645879 for gen 565
+
+ the semgencount value is 276
+lasttime is 2645879 for gen 566
+
+ the semgencount value is 277
+lasttime is 2645879 for gen 567
+
+ the semgencount value is 278
+lasttime is 2645879 for gen 568
+
+ the semgencount value is 279
+lasttime is 2645879 for gen 569
+
+ the semgencount value is 280
+lasttime is 2645879 for gen 570
+
+ the semgencount value is 281
+lasttime is 2645879 for gen 571
+
+ the semgencount value is 282
+lasttime is 2645879 for gen 572
+
+ the semgencount value is 283
+lasttime is 2645879 for gen 573
+
+ the semgencount value is 284
+lasttime is 2645879 for gen 574
+
+ the semgencount value is 285
+lasttime is 2645879 for gen 575
+
+ the semgencount value is 286
+lasttime is 2645879 for gen 576
+
+ the semgencount value is 287
+lasttime is 2645879 for gen 577
+
+ the semgencount value is 288
+lasttime is 2645879 for gen 578
+
+ the semgencount value is 289
+lasttime is 2645879 for gen 579
+
+ the semgencount value is 290
+lasttime is 2645879 for gen 580
+
+ the semgencount value is 291
+lasttime is 2645879 for gen 581
+
+ the semgencount value is 292
+lasttime is 2645879 for gen 582
+
+ the semgencount value is 293
+lasttime is 2645879 for gen 583
+
+ the semgencount value is 294
+lasttime is 2645879 for gen 584
+
+ the semgencount value is 295
+lasttime is 2645879 for gen 585
+
+ the semgencount value is 296
+lasttime is 2645879 for gen 586
+
+ the semgencount value is 297
+lasttime is 2645879 for gen 587
+
+ the semgencount value is 298
+lasttime is 2645879 for gen 588
+
+ the semgencount value is 299
+lasttime is 2645879 for gen 589
+
+ the semgencount value is 300
+lasttime is 2645879 for gen 590
+
+ the semgencount value is 301
+lasttime is 2645879 for gen 591
+
+ the semgencount value is 302
+lasttime is 2645879 for gen 592
+
+ the semgencount value is 303
+lasttime is 2645879 for gen 593
+
+ the semgencount value is 304
+lasttime is 2645879 for gen 594
+
+ the semgencount value is 305
+lasttime is 2645879 for gen 595
+
+ the semgencount value is 306
+lasttime is 2645879 for gen 596
+
+ the semgencount value is 307
+lasttime is 2645879 for gen 597
+
+ the semgencount value is 308
+lasttime is 2645879 for gen 598
+
+ the semgencount value is 309
+lasttime is 2645879 for gen 599
+
+ the semgencount value is 310
+lasttime is 2645879 for gen 600
+
+ the semgencount value is 311
+lasttime is 2645879 for gen 601
+
+ the semgencount value is 312
+lasttime is 2645879 for gen 602
+
+ the semgencount value is 313
+lasttime is 2645879 for gen 603
+
+ the semgencount value is 314
+lasttime is 2645879 for gen 604
+
+ the semgencount value is 315
+lasttime is 2645879 for gen 605
+
+ the semgencount value is 316
+lasttime is 2645879 for gen 606
+
+ the semgencount value is 317
+lasttime is 2645879 for gen 607
+
+ the semgencount value is 318
+lasttime is 2645879 for gen 608
+
+ the semgencount value is 319
+lasttime is 2645879 for gen 609
+
+ the semgencount value is 320
+lasttime is 2645879 for gen 610
+
+ the semgencount value is 321
+lasttime is 2645879 for gen 611
+
+ the semgencount value is 322
+lasttime is 2645879 for gen 612
+
+ the semgencount value is 323
+lasttime is 2645879 for gen 613
+
+ the semgencount value is 324
+lasttime is 2645879 for gen 614
+
+ the semgencount value is 325
+lasttime is 2645879 for gen 615
+
+ the semgencount value is 326
+lasttime is 2645879 for gen 616
+
+ the semgencount value is 327
+lasttime is 2645879 for gen 617
+
+ the semgencount value is 328
+lasttime is 2645879 for gen 618
+
+ the semgencount value is 329
+lasttime is 2645879 for gen 619
+
+ the semgencount value is 330
+lasttime is 2645879 for gen 620
+
+ the semgencount value is 331
+lasttime is 2645879 for gen 621
+
+ the semgencount value is 332
+lasttime is 2645879 for gen 622
+
+ the semgencount value is 333
+lasttime is 2645879 for gen 623
+
+ the semgencount value is 334
+lasttime is 2645879 for gen 624
+
+ the semgencount value is 335
+lasttime is 2645879 for gen 625
+
+ the semgencount value is 336
+lasttime is 2645879 for gen 626
+
+ the semgencount value is 337
+lasttime is 2645879 for gen 627
+
+ the semgencount value is 338
+lasttime is 2645879 for gen 628
+
+ the semgencount value is 339
+lasttime is 2645879 for gen 629
+
+ the semgencount value is 340
+lasttime is 2645879 for gen 630
+
+ the semgencount value is 341
+lasttime is 2645879 for gen 631
+
+ the semgencount value is 342
+lasttime is 2645879 for gen 632
+
+ the semgencount value is 343
+lasttime is 2645879 for gen 633
+
+ the semgencount value is 344
+lasttime is 2645879 for gen 634
+
+ the semgencount value is 345
+lasttime is 2645879 for gen 635
+
+ the semgencount value is 346
+lasttime is 2645879 for gen 636
+
+ the semgencount value is 347
+lasttime is 2645879 for gen 637
+
+ the semgencount value is 348
+lasttime is 2645879 for gen 638
+
+ the semgencount value is 349
+lasttime is 2645879 for gen 639
+
+ the semgencount value is 350
+lasttime is 2645879 for gen 640
+
+ the semgencount value is 351
+lasttime is 2645879 for gen 641
+
+ the semgencount value is 352
+lasttime is 2645879 for gen 642
+
+ the semgencount value is 353
+lasttime is 2645879 for gen 643
+
+ the semgencount value is 354
+lasttime is 2645879 for gen 644
+
+ the semgencount value is 355
+lasttime is 2645879 for gen 645
+
+ the semgencount value is 356
+lasttime is 2645879 for gen 646
+
+ the semgencount value is 357
+lasttime is 2645879 for gen 647
+
+ the semgencount value is 358
+lasttime is 2645879 for gen 648
+
+ the semgencount value is 359
+lasttime is 2645879 for gen 649
+
+ the semgencount value is 360
+lasttime is 2645879 for gen 650
+
+ the semgencount value is 361
+lasttime is 2645879 for gen 651
+
+ the semgencount value is 362
+lasttime is 2645879 for gen 652
+
+ the semgencount value is 363
+lasttime is 2645879 for gen 653
+
+ the semgencount value is 364
+lasttime is 2645879 for gen 654
+
+ the semgencount value is 365
+lasttime is 2645879 for gen 655
+
+ the semgencount value is 366
+lasttime is 2645879 for gen 656
+
+ the semgencount value is 367
+lasttime is 2645879 for gen 657
+
+ the semgencount value is 368
+lasttime is 2645879 for gen 658
+
+ the semgencount value is 369
+lasttime is 2645879 for gen 659
+
+ the semgencount value is 370
+lasttime is 2645879 for gen 660
+
+ the semgencount value is 371
+lasttime is 2645879 for gen 661
+
+ the semgencount value is 372
+lasttime is 2645879 for gen 662
+
+ the semgencount value is 373
+lasttime is 2645879 for gen 663
+
+ the semgencount value is 374
+lasttime is 2645879 for gen 664
+
+ the semgencount value is 375
+lasttime is 2645879 for gen 665
+
+ the semgencount value is 376
+lasttime is 2645879 for gen 666
+
+ the semgencount value is 377
+lasttime is 2645879 for gen 667
+
+ the semgencount value is 378
+lasttime is 2645879 for gen 668
+
+ the semgencount value is 379
+lasttime is 2645879 for gen 669
+
+ the semgencount value is 380
+lasttime is 2645879 for gen 670
+
+ the semgencount value is 381
+lasttime is 2645879 for gen 671
+
+ the semgencount value is 382
+lasttime is 2645879 for gen 672
+
+ the semgencount value is 383
+lasttime is 2645879 for gen 673
+
+ the semgencount value is 384
+lasttime is 2645879 for gen 674
+
+ the semgencount value is 385
+lasttime is 2645879 for gen 675
+
+ the semgencount value is 386
+lasttime is 2645879 for gen 676
+
+ the semgencount value is 387
+lasttime is 2645879 for gen 677
+
+ the semgencount value is 388
+lasttime is 2645879 for gen 678
+
+ the semgencount value is 389
+lasttime is 2645879 for gen 679
+
+ the semgencount value is 390
+lasttime is 2645879 for gen 680
+
+ the semgencount value is 391
+lasttime is 2645879 for gen 681
+
+ the semgencount value is 392
+lasttime is 2645879 for gen 682
+
+ the semgencount value is 393
+lasttime is 2645879 for gen 683
+
+ the semgencount value is 394
+lasttime is 2645879 for gen 684
+
+ the semgencount value is 395
+lasttime is 2645879 for gen 685
+
+ the semgencount value is 396
+lasttime is 2645879 for gen 686
+
+ the semgencount value is 397
+lasttime is 2645879 for gen 687
+
+ the semgencount value is 398
+lasttime is 2645879 for gen 688
+
+ the semgencount value is 399
+lasttime is 2645879 for gen 689
+
+ the semgencount value is 400
+lasttime is 2645879 for gen 690
+
+ the semgencount value is 401
+lasttime is 2645879 for gen 691
+
+ the semgencount value is 402
+lasttime is 2645879 for gen 692
+
+ the semgencount value is 403
+lasttime is 2645879 for gen 693
+
+ the semgencount value is 404
+lasttime is 2645879 for gen 694
+
+ the semgencount value is 405
+lasttime is 2645879 for gen 695
+
+ the semgencount value is 406
+lasttime is 2645879 for gen 696
+
+ the semgencount value is 407
+lasttime is 2645879 for gen 697
+
+ the semgencount value is 408
+lasttime is 2645879 for gen 698
+
+ the semgencount value is 409
+lasttime is 2645879 for gen 699
+
+ the semgencount value is 410
+lasttime is 2645879 for gen 700
+
+ the semgencount value is 411
+lasttime is 2645879 for gen 701
+
+ the semgencount value is 412
+lasttime is 2645879 for gen 702
+
+ the semgencount value is 413
+lasttime is 2645879 for gen 703
+
+ the semgencount value is 414
+lasttime is 2645879 for gen 704
+
+ the semgencount value is 415
+lasttime is 2645879 for gen 705
+
+ the semgencount value is 416
+lasttime is 2645879 for gen 706
+
+ the semgencount value is 417
+lasttime is 2645879 for gen 707
+
+ the semgencount value is 418
+lasttime is 2645879 for gen 708
+
+ the semgencount value is 419
+lasttime is 2645879 for gen 709
+
+ the semgencount value is 420
+lasttime is 2645879 for gen 710
+
+ the semgencount value is 421
+lasttime is 2645879 for gen 711
+
+ the semgencount value is 422
+lasttime is 2645879 for gen 712
+
+ the semgencount value is 423
+lasttime is 2645879 for gen 713
+
+ the semgencount value is 424
+lasttime is 2645879 for gen 714
+
+ the semgencount value is 425
+lasttime is 2645879 for gen 715
+
+ the semgencount value is 426
+lasttime is 2645879 for gen 716
+
+ the semgencount value is 427
+lasttime is 2645879 for gen 717
+
+ the semgencount value is 428
+lasttime is 2645879 for gen 718
+
+ the semgencount value is 429
+lasttime is 2645879 for gen 719
+
+ the semgencount value is 430
+lasttime is 2645879 for gen 720
+
+ the semgencount value is 431
+lasttime is 2645879 for gen 721
+
+ the semgencount value is 432
+lasttime is 2645879 for gen 722
+
+ the semgencount value is 433
+lasttime is 2645879 for gen 723
+
+ the semgencount value is 434
+lasttime is 2645879 for gen 724
+
+ the semgencount value is 435
+lasttime is 2645879 for gen 725
+
+ the semgencount value is 436
+lasttime is 2645879 for gen 726
+
+ the semgencount value is 437
+lasttime is 2645879 for gen 727
+
+ the semgencount value is 438
+lasttime is 2645879 for gen 728
+
+ the semgencount value is 439
+lasttime is 2645879 for gen 729
+
+ the semgencount value is 440
+lasttime is 2645879 for gen 730
+
+ the semgencount value is 441
+lasttime is 2645879 for gen 731
+
+ the semgencount value is 442
+lasttime is 2645879 for gen 732
+
+ the semgencount value is 443
+lasttime is 2645879 for gen 733
+
+ the semgencount value is 444
+lasttime is 2645879 for gen 734
+
+ the semgencount value is 445
+lasttime is 2645879 for gen 735
+
+ the semgencount value is 446
+lasttime is 2645879 for gen 736
+
+ the semgencount value is 447
+lasttime is 2645879 for gen 737
+
+ the semgencount value is 448
+lasttime is 2645879 for gen 738
+
+ the semgencount value is 449
+lasttime is 2645879 for gen 739
+
+ the semgencount value is 450
+lasttime is 2645879 for gen 740
+
+ the semgencount value is 451
+lasttime is 2645879 for gen 741
+
+ the semgencount value is 452
+lasttime is 2645879 for gen 742
+
+ the semgencount value is 453
+lasttime is 2645879 for gen 743
+
+ the semgencount value is 454
+lasttime is 2645879 for gen 744
+
+ the semgencount value is 455
+lasttime is 2645879 for gen 745
+
+ the semgencount value is 456
+lasttime is 2645879 for gen 746
+
+ the semgencount value is 457
+lasttime is 2645879 for gen 747
+
+ the semgencount value is 458
+lasttime is 2645879 for gen 748
+
+ the semgencount value is 459
+lasttime is 2645879 for gen 749
+
+ the semgencount value is 460
+lasttime is 2645879 for gen 750
+
+ the semgencount value is 461
+lasttime is 2645879 for gen 751
+
+ the semgencount value is 462
+lasttime is 2645879 for gen 752
+
+ the semgencount value is 463
+lasttime is 2645879 for gen 753
+
+ the semgencount value is 464
+lasttime is 2645879 for gen 754
+
+ the semgencount value is 465
+lasttime is 2645879 for gen 755
+
+ the semgencount value is 466
+lasttime is 2645879 for gen 756
+
+ the semgencount value is 467
+lasttime is 2645879 for gen 757
+
+ the semgencount value is 468
+lasttime is 2645879 for gen 758
+
+ the semgencount value is 469
+lasttime is 2645879 for gen 759
+
+ the semgencount value is 470
+lasttime is 2645879 for gen 760
+
+ the semgencount value is 471
+lasttime is 2645879 for gen 761
+
+ the semgencount value is 472
+lasttime is 2645879 for gen 762
+
+ the semgencount value is 473
+lasttime is 2645879 for gen 763
+
+ the semgencount value is 474
+lasttime is 2645879 for gen 764
+
+ the semgencount value is 475
+lasttime is 2645879 for gen 765
+
+ the semgencount value is 476
+lasttime is 2645879 for gen 766
+
+ the semgencount value is 477
+lasttime is 2645879 for gen 767
+
+ the semgencount value is 478
+lasttime is 2645879 for gen 768
+
+ the semgencount value is 479
+lasttime is 2645879 for gen 769
+
+ the semgencount value is 480
+lasttime is 2645879 for gen 770
+
+ the semgencount value is 481
+lasttime is 2645879 for gen 771
+
+ the semgencount value is 482
+lasttime is 2645879 for gen 772
+
+ the semgencount value is 483
+lasttime is 2645879 for gen 773
+
+ the semgencount value is 484
+lasttime is 2645879 for gen 774
+
+ the semgencount value is 485
+lasttime is 2645879 for gen 775
+
+ the semgencount value is 486
+lasttime is 2645879 for gen 776
+
+ the semgencount value is 487
+lasttime is 2645879 for gen 777
+
+ the semgencount value is 488
+lasttime is 2645879 for gen 778
+
+ the semgencount value is 489
+lasttime is 2645879 for gen 779
+
+ the semgencount value is 490
+lasttime is 2645879 for gen 780
+
+ the semgencount value is 491
+lasttime is 2645879 for gen 781
+
+ the semgencount value is 492
+lasttime is 2645879 for gen 782
+
+ the semgencount value is 493
+lasttime is 2645879 for gen 783
+
+ the semgencount value is 494
+lasttime is 2645879 for gen 784
+
+ the semgencount value is 495
+lasttime is 2645879 for gen 785
+
+ the semgencount value is 496
+lasttime is 2645879 for gen 786
+
+ the semgencount value is 497
+lasttime is 2645879 for gen 787
+
+ the semgencount value is 498
+lasttime is 2645879 for gen 788
+
+ the semgencount value is 499
+lasttime is 2645879 for gen 789
+
+ the semgencount value is 500
+lasttime is 2645879 for gen 790
+
+ the semgencount value is 501
+lasttime is 2645879 for gen 791
+
+ the semgencount value is 502
+lasttime is 2645879 for gen 792
+
+ the semgencount value is 503
+lasttime is 2645879 for gen 793
+
+ the semgencount value is 504
+lasttime is 2645879 for gen 794
+
+ the semgencount value is 505
+lasttime is 2645879 for gen 795
+
+ the semgencount value is 506
+lasttime is 2645879 for gen 796
+
+ the semgencount value is 507
+lasttime is 2645879 for gen 797
+
+ the semgencount value is 508
+lasttime is 2645879 for gen 798
+
+ the semgencount value is 509
+lasttime is 2645879 for gen 799
+
+ the semgencount value is 510
+lasttime is 2645879 for gen 800
+
+ the semgencount value is 511
+lasttime is 2645879 for gen 801
+
+ the semgencount value is 512
+lasttime is 2645879 for gen 802
+
+ the semgencount value is 513
+lasttime is 2645879 for gen 803
+
+ the semgencount value is 514
+lasttime is 2645879 for gen 804
+
+ the semgencount value is 515
+lasttime is 2645879 for gen 805
+
+ the semgencount value is 516
+lasttime is 2645879 for gen 806
+
+ the semgencount value is 517
+lasttime is 2645879 for gen 807
+
+ the semgencount value is 518
+lasttime is 2645879 for gen 808
+
+ the semgencount value is 519
+lasttime is 2645879 for gen 809
+
+ the semgencount value is 520
+lasttime is 2645879 for gen 810
+
+ the semgencount value is 521
+lasttime is 2645879 for gen 811
+
+ the semgencount value is 522
+lasttime is 2645879 for gen 812
+
+ the semgencount value is 523
+lasttime is 2645879 for gen 813
+
+ the semgencount value is 524
+lasttime is 2645879 for gen 814
+
+ the semgencount value is 525
+lasttime is 2645879 for gen 815
+
+ the semgencount value is 526
+lasttime is 2645879 for gen 816
+
+ the semgencount value is 527
+lasttime is 2645879 for gen 817
+
+ the semgencount value is 528
+lasttime is 2645879 for gen 818
+
+ the semgencount value is 529
+lasttime is 2645879 for gen 819
+
+ the semgencount value is 530
+lasttime is 2645879 for gen 820
+
+ the semgencount value is 531
+lasttime is 2645879 for gen 821
+
+ the semgencount value is 532
+lasttime is 2645879 for gen 822
+
+ the semgencount value is 533
+lasttime is 2645879 for gen 823
+
+ the semgencount value is 534
+lasttime is 2645879 for gen 824
+
+ the semgencount value is 535
+lasttime is 2645879 for gen 825
+
+ the semgencount value is 536
+lasttime is 2645879 for gen 826
+
+ the semgencount value is 537
+lasttime is 2645879 for gen 827
+
+ the semgencount value is 538
+lasttime is 2645879 for gen 828
+
+ the semgencount value is 539
+lasttime is 2645879 for gen 829
+
+ the semgencount value is 540
+lasttime is 2645879 for gen 830
+
+ the semgencount value is 541
+lasttime is 2645879 for gen 831
+
+ the semgencount value is 542
+lasttime is 2645879 for gen 832
+
+ the semgencount value is 543
+lasttime is 2645879 for gen 833
+
+ the semgencount value is 544
+lasttime is 2645879 for gen 834
+
+ the semgencount value is 545
+lasttime is 2645879 for gen 835
+
+ the semgencount value is 546
+lasttime is 2645879 for gen 836
+
+ the semgencount value is 547
+lasttime is 2645879 for gen 837
+
+ the semgencount value is 548
+lasttime is 2645879 for gen 838
+
+ the semgencount value is 549
+lasttime is 2645879 for gen 839
+
+ the semgencount value is 550
+lasttime is 2645879 for gen 840
+
+ the semgencount value is 551
+lasttime is 2645879 for gen 841
+
+ the semgencount value is 552
+lasttime is 2645879 for gen 842
+
+ the semgencount value is 553
+lasttime is 2645879 for gen 843
+
+ the semgencount value is 554
+lasttime is 2645879 for gen 844
+
+ the semgencount value is 555
+lasttime is 2645879 for gen 845
+
+ the semgencount value is 556
+lasttime is 2645879 for gen 846
+
+ the semgencount value is 557
+lasttime is 2645879 for gen 847
+
+ the semgencount value is 558
+lasttime is 2645879 for gen 848
+
+ the semgencount value is 559
+lasttime is 2645879 for gen 849
+
+ the semgencount value is 560
+lasttime is 2645879 for gen 850
+
+ the semgencount value is 561
+lasttime is 2645879 for gen 851
+
+ the semgencount value is 562
+lasttime is 2645879 for gen 852
+
+ the semgencount value is 563
+lasttime is 2645879 for gen 853
+
+ the semgencount value is 564
+lasttime is 2645879 for gen 854
+
+ the semgencount value is 565
+lasttime is 2645879 for gen 855
+
+ the semgencount value is 566
+lasttime is 2645879 for gen 856
+
+ the semgencount value is 567
+lasttime is 2645879 for gen 857
+
+ the semgencount value is 568
+lasttime is 2645879 for gen 858
+
+ the semgencount value is 569
+lasttime is 2645879 for gen 859
+
+ the semgencount value is 570
+lasttime is 2645879 for gen 860
+
+ the semgencount value is 571
+lasttime is 2645879 for gen 861
+
+ the semgencount value is 572
+lasttime is 2645879 for gen 862
+
+ the semgencount value is 573
+lasttime is 2645879 for gen 863
+
+ the semgencount value is 574
+lasttime is 2645879 for gen 864
+
+ the semgencount value is 575
+lasttime is 2645879 for gen 865
+
+ the semgencount value is 576
+lasttime is 2645879 for gen 866
+
+ the semgencount value is 577
+lasttime is 2645879 for gen 867
+
+ the semgencount value is 578
+lasttime is 2645879 for gen 868
+
+ the semgencount value is 579
+lasttime is 2645879 for gen 869
+
+ the semgencount value is 580
+lasttime is 2645879 for gen 870
+
+ the semgencount value is 581
+lasttime is 2645879 for gen 871
+
+ the semgencount value is 582
+lasttime is 2645879 for gen 872
+
+ the semgencount value is 583
+lasttime is 2645879 for gen 873
+
+ the semgencount value is 584
+lasttime is 2645879 for gen 874
+
+ the semgencount value is 585
+lasttime is 2645879 for gen 875
+
+ the semgencount value is 586
+lasttime is 2645879 for gen 876
+
+ the semgencount value is 587
+lasttime is 2645879 for gen 877
+
+ the semgencount value is 588
+lasttime is 2645879 for gen 878
+
+ the semgencount value is 589
+lasttime is 2645879 for gen 879
+
+ the semgencount value is 590
+lasttime is 2645879 for gen 880
+
+ the semgencount value is 591
+lasttime is 2645879 for gen 881
+
+ the semgencount value is 592
+lasttime is 2645879 for gen 882
+
+ the semgencount value is 593
+lasttime is 2645879 for gen 883
+
+ the semgencount value is 594
+lasttime is 2645879 for gen 884
+
+ the semgencount value is 595
+lasttime is 2645879 for gen 885
+
+ the semgencount value is 596
+lasttime is 2645879 for gen 886
+
+ the semgencount value is 597
+lasttime is 2645879 for gen 887
+
+ the semgencount value is 598
+lasttime is 2645879 for gen 888
+
+ the semgencount value is 599
+lasttime is 2645879 for gen 889
+
+ the semgencount value is 600
+lasttime is 2645879 for gen 890
+
+ the semgencount value is 601
+lasttime is 2645879 for gen 891
+
+ the semgencount value is 602
+lasttime is 2645879 for gen 892
+
+ the semgencount value is 603
+lasttime is 2645879 for gen 893
+
+ the semgencount value is 604
+lasttime is 2645879 for gen 894
+
+ the semgencount value is 605
+lasttime is 2645879 for gen 895
+
+ the semgencount value is 606
+lasttime is 2645879 for gen 896
+
+ the semgencount value is 607
+lasttime is 2645879 for gen 897
+
+ the semgencount value is 608
+lasttime is 2645879 for gen 898
+
+ the semgencount value is 609
+lasttime is 2645879 for gen 899
+
+ the semgencount value is 610
+lasttime is 2645879 for gen 900
+
+ the semgencount value is 611
+lasttime is 2645879 for gen 901
+
+ the semgencount value is 612
+lasttime is 2645879 for gen 902
+
+ the semgencount value is 613
+lasttime is 2645879 for gen 903
+
+ the semgencount value is 614
+lasttime is 2645879 for gen 904
+
+ the semgencount value is 615
+lasttime is 2645879 for gen 905
+
+ the semgencount value is 616
+lasttime is 2645879 for gen 906
+
+ the semgencount value is 617
+lasttime is 2645879 for gen 907
+
+ the semgencount value is 618
+lasttime is 2645879 for gen 908
+
+ the semgencount value is 619
+lasttime is 2645879 for gen 909
+
+ the semgencount value is 620
+lasttime is 2645879 for gen 910
+
+ the semgencount value is 621
+lasttime is 2645879 for gen 911
+
+ the semgencount value is 622
+lasttime is 2645879 for gen 912
+
+ the semgencount value is 623
+lasttime is 2645879 for gen 913
+
+ the semgencount value is 624
+lasttime is 2645879 for gen 914
+
+ the semgencount value is 625
+lasttime is 2645879 for gen 915
+
+ the semgencount value is 626
+lasttime is 2645879 for gen 916
+
+ the semgencount value is 627
+lasttime is 2645879 for gen 917
+
+ the semgencount value is 628
+lasttime is 2645879 for gen 918
+
+ the semgencount value is 629
+lasttime is 2645879 for gen 919
+
+ the semgencount value is 630
+lasttime is 2645879 for gen 920
+
+ the semgencount value is 631
+lasttime is 2645879 for gen 921
+
+ the semgencount value is 632
+lasttime is 2645879 for gen 922
+
+ the semgencount value is 633
+lasttime is 2645879 for gen 923
+
+ the semgencount value is 634
+lasttime is 2645879 for gen 924
+
+ the semgencount value is 635
+lasttime is 2645879 for gen 925
+
+ the semgencount value is 636
+lasttime is 2645879 for gen 926
+
+ the semgencount value is 637
+lasttime is 2645879 for gen 927
+
+ the semgencount value is 638
+lasttime is 2645879 for gen 928
+
+ the semgencount value is 639
+lasttime is 2645879 for gen 929
+
+ the semgencount value is 640
+lasttime is 2645879 for gen 930
+
+ the semgencount value is 641
+lasttime is 2645879 for gen 931
+
+ the semgencount value is 642
+lasttime is 2645879 for gen 932
+
+ the semgencount value is 643
+lasttime is 2645879 for gen 933
+
+ the semgencount value is 644
+lasttime is 2645879 for gen 934
+
+ the semgencount value is 645
+lasttime is 2645879 for gen 935
+
+ the semgencount value is 646
+lasttime is 2645879 for gen 936
+
+ the semgencount value is 647
+lasttime is 2645879 for gen 937
+
+ the semgencount value is 648
+lasttime is 2645879 for gen 938
+
+ the semgencount value is 649
+lasttime is 2645879 for gen 939
+
+ the semgencount value is 650
+lasttime is 2645879 for gen 940
+
+ the semgencount value is 651
+lasttime is 2645879 for gen 941
+
+ the semgencount value is 652
+lasttime is 2645879 for gen 942
+
+ the semgencount value is 653
+lasttime is 2645879 for gen 943
+
+ the semgencount value is 654
+lasttime is 2645879 for gen 944
+
+ the semgencount value is 655
+lasttime is 2645879 for gen 945
+
+ the semgencount value is 656
+lasttime is 2645879 for gen 946
+
+ the semgencount value is 657
+lasttime is 2645879 for gen 947
+
+ the semgencount value is 658
+lasttime is 2645879 for gen 948
+
+ the semgencount value is 659
+lasttime is 2645879 for gen 949
+
+ the semgencount value is 660
+lasttime is 2645879 for gen 950
+
+ the semgencount value is 661
+lasttime is 2645879 for gen 951
+
+ the semgencount value is 662
+lasttime is 2645879 for gen 952
+
+ the semgencount value is 663
+lasttime is 2645879 for gen 953
+
+ the semgencount value is 664
+lasttime is 2645879 for gen 954
+
+ the semgencount value is 665
+lasttime is 2645879 for gen 955
+
+ the semgencount value is 666
+lasttime is 2645879 for gen 956
+
+ the semgencount value is 667
+lasttime is 2645879 for gen 957
+
+ the semgencount value is 668
+lasttime is 2645879 for gen 958
+
+ the semgencount value is 669
+lasttime is 2645879 for gen 959
+
+ the semgencount value is 670
+lasttime is 2645879 for gen 960
+
+ the semgencount value is 671
+lasttime is 2645879 for gen 961
+
+ the semgencount value is 672
+lasttime is 2645879 for gen 962
+
+ the semgencount value is 673
+lasttime is 2645879 for gen 963
+
+ the semgencount value is 674
+lasttime is 2645879 for gen 964
+
+ the semgencount value is 675
+lasttime is 2645879 for gen 965
+
+ the semgencount value is 676
+lasttime is 2645879 for gen 966
+
+ the semgencount value is 677
+lasttime is 2645879 for gen 967
+
+ the semgencount value is 678
+lasttime is 2645879 for gen 968
+
+ the semgencount value is 679
+lasttime is 2645879 for gen 969
+
+ the semgencount value is 680
+lasttime is 2645879 for gen 970
+
+ the semgencount value is 681
+lasttime is 2645879 for gen 971
+
+ the semgencount value is 682
+lasttime is 2645879 for gen 972
+
+ the semgencount value is 683
+lasttime is 2645879 for gen 973
+
+ the semgencount value is 684
+lasttime is 2645879 for gen 974
+
+ the semgencount value is 685
+lasttime is 2645879 for gen 975
+
+ the semgencount value is 686
+lasttime is 2645879 for gen 976
+
+ the semgencount value is 687
+lasttime is 2645879 for gen 977
+
+ the semgencount value is 688
+lasttime is 2645879 for gen 978
+
+ the semgencount value is 689
+lasttime is 2645879 for gen 979
+
+ the semgencount value is 690
+lasttime is 2645879 for gen 980
+
+ the semgencount value is 691
+lasttime is 2645879 for gen 981
+
+ the semgencount value is 692
+lasttime is 2645879 for gen 982
+
+ the semgencount value is 693
+lasttime is 2645879 for gen 983
+
+ the semgencount value is 694
+lasttime is 2645879 for gen 984
+
+ the semgencount value is 695
+lasttime is 2645879 for gen 985
+
+ the semgencount value is 696
+lasttime is 2645879 for gen 986
+
+ the semgencount value is 697
+lasttime is 2645879 for gen 987
+
+ the semgencount value is 698
+lasttime is 2645879 for gen 988
+
+ the semgencount value is 699
+lasttime is 2645879 for gen 989
+
+ the semgencount value is 700
+lasttime is 2645879 for gen 990
+
+ the semgencount value is 701
+lasttime is 2645879 for gen 991
+
+ the semgencount value is 702
+lasttime is 2645879 for gen 992
+
+ the semgencount value is 703
+lasttime is 2645879 for gen 993
+
+ the semgencount value is 704
+lasttime is 2645879 for gen 994
+
+ the semgencount value is 705
+lasttime is 2645879 for gen 995
+
+ the semgencount value is 706
+lasttime is 2645879 for gen 996
+
+ the semgencount value is 707
+lasttime is 2645879 for gen 997
+
+ the semgencount value is 708
+lasttime is 2645879 for gen 998
+
+ the semgencount value is 709
+lasttime is 2645879 for gen 999
+
+ the semgencount value is 710
+lasttime is 2645879 for gen 1000
+
+ the semgencount value is 711
+gencount is 1000
+2645879
+{ 76, 10, 0, 928196, 20 , 0.250000}
+{ 5, 12, 0, 911476, 62 , 0.500000}
+{ 19, 15, 0, 864020, 62 , 0.250000}
+{ 0, 7, 0, 863458, 62 , 0.500000}
+{ 50, 4, 0, 838876, 48 , 0.250000}
+{ 52, 3, 0, 838076, 20 , 0.250000}
+{ 32, 1, 0, 760124, 48 , 0.250000}
+{ 79, 8, 0, 714176, 10 , 0.500000}
+{ 51, 3, 0, 694822, 20 , 0.500000}
+{ 35, 1, 0, 482090, 48 , 0.500000}
+{ 9, 3, 0, 419212, 62 , 0.250000}
+{ 87, 2, 0, 383968, 0 , 0.250000}
+{ 68, 3, 0, 322496, 20 , 0.250000}
+{ 57, 3, 0, 305400, 20 , 0.250000}
+{ 34, 2, 0, 248692, 48 , 0.250000}
+{ 53, 1, 0, 242476, 20 , 0.500000}
+{ 81, 1, 0, 200884, 10 , 0.250000}
+{ 24, 2, 0, 172064, 62 , 0.250000}
+{ 92, 3, 0, 160548, 0 , 0.250000}
+{ 46, 3, 0, 159852, 48 , 0.250000}
+{ 61, 1, 0, 122672, 20 , 0.500000}
+{ 23, 1, 0, 110600, 62 , 0.500000}
+{ 82, 1, 0, 100442, 10 , 0.500000}
+{ 90, 1, 0, 89708, 0 , 0.250000}
+{ 89, 3, 0, 87836, 0 , 0.250000}
+{ 84, 1, 0, 61168, 0 , 0.250000}
+{ 70, 3, 0, 46492, 20 , 0.250000}
+{ 37, 3, 0, 39312, 48 , 0.250000}
+{ 8, 1, 0, 33928, 62 , 0.250000}
+{ 72, 1, 0, 26490, 20 , 0.500000}
+{ 7, 1, 0, 23400, 62 , 0.250000}
+{ 6, 2, 0, 12056, 62 , 0.250000}
+{ 49, 8, 928196, 1591389, 48 , 1.000000}
+{ 28, 7, 928196, 1585552, 62 , 0.250000}
+{ 33, 15, 928196, 1558554, 48 , 0.500000}
+{ 12, 15, 928196, 1539712, 62 , 0.250000}
+{ 4, 5, 928196, 1467436, 62 , 0.250000}
+{ 91, 3, 928196, 963404, 0 , 0.250000}
+{ 78, 2, 928196, 953452, 20 , 0.250000}
+{ 69, 2, 928196, 944696, 20 , 0.250000}
+{ 60, 3, 928196, 943792, 20 , 0.250000}
+{ 29, 3, 928196, 940532, 62 , 0.250000}
+{ 45, 2, 928196, 940308, 48 , 0.250000}
+{ 74, 3, 928196, 939616, 20 , 0.250000}
+{ 38, 3, 928196, 936400, 48 , 0.250000}
+{ 17, 3, 928196, 932948, 62 , 0.250000}
+{ 47, 1, 928196, 932320, 48 , 0.250000}
+{ 83, 1, 928196, 929908, 0 , 0.250000}
+{ 41, 4, 1591389, 2153748, 48 , 1.000000}
+{ 13, 7, 1591389, 2148697, 62 , 0.500000}
+{ 80, 4, 1591389, 2146350, 10 , 1.000000}
+{ 16, 11, 1591389, 2109581, 62 , 0.250000}
+{ 18, 4, 1591389, 2099847, 62 , 0.500000}
+{ 31, 7, 1591389, 2084905, 62 , 0.250000}
+{ 22, 9, 1591389, 1996513, 62 , 0.500000}
+{ 26, 16, 2153748, 2340815, 62 , 1.000000}
+{ 39, 7, 2153748, 2312634, 48 , 0.500000}
+{ 88, 5, 2153748, 2303204, 0 , 0.250000}
+{ 11, 6, 2340815, 2489766, 62 , 2.000000}
+{ 59, 6, 2340815, 2479499, 20 , 0.500000}
+{ 75, 2, 2340815, 2469439, 20 , 2.000000}
+{ 58, 1, 2340815, 2437327, 20 , 1.000000}
+{ 55, 9, 2489766, 2596944, 20 , 0.500000}
+{ 36, 4, 2489766, 2594625, 48 , 2.000000}
+{ 71, 6, 2489766, 2582033, 20 , 1.000000}
+{ 62, 4, 2489766, 2561954, 20 , 0.250000}
+{ 15, 4, 2489766, 2546854, 62 , 0.250000}
+{ 10, 4, 2596944, 2631141, 62 , 1.000000}
+{ 42, 4, 2596944, 2629442, 48 , 2.000000}
+{ 44, 8, 2596944, 2627672, 48 , 0.250000}
+{ 56, 6, 2596944, 2618326, 20 , 0.500000}
+{ 65, 1, 2596944, 2616167, 20 , 1.000000}
+{ 14, 6, 2596944, 2607336, 62 , 0.250000}
+{ 54, 3, 2596944, 2607188, 20 , 0.500000}
+{ 64, 2, 2631141, 2639206, 20 , 1.000000}
+{ 2, 8, 2631141, 2638925, 62 , 0.500000}
+{ 67, 3, 2631141, 2637069, 20 , 0.500000}
+{ 27, 10, 2631141, 2635898, 62 , 1.000000}
+{ 48, 3, 2631141, 2635859, 48 , 1.000000}
+{ 30, 9, 2639206, 2642886, 62 , 1.000000}
+{ 73, 2, 2639206, 2642500, 20 , 2.000000}
+{ 25, 7, 2639206, 2641914, 62 , 0.250000}
+{ 85, 1, 2639206, 2641735, 0 , 2.000000}
+{ 40, 2, 2639206, 2641722, 48 , 2.000000}
+{ 86, 4, 2642886, 2644581, 0 , 4.000000}
+{ 20, 5, 2642886, 2644328, 62 , 0.500000}
+{ 66, 1, 2642886, 2644232, 20 , 1.000000}
+{ 77, 3, 2642886, 2643404, 20 , 0.500000}
+{ 1, 10, 2644581, 2645545, 62 , 1.000000}
+{ 21, 1, 2644581, 2645501, 62 , 2.000000}
+{ 43, 2, 2644581, 2645014, 48 , 2.000000}
+{ 63, 1, 2644581, 2644775, 20 , 4.000000}
+{ 3, 11, 2645545, 2645879, 62 , 0.500000}
+BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq
+{ 76, 10, 0, 928196, 20 , 0.250000}
+{ 5, 12, 0, 911476, 62 , 0.500000}
+{ 19, 15, 0, 864020, 62 , 0.250000}
+{ 0, 7, 0, 863458, 62 , 0.500000}
+{ 50, 4, 0, 838876, 48 , 0.250000}
+{ 52, 3, 0, 838076, 20 , 0.250000}
+{ 32, 1, 0, 760124, 48 , 0.250000}
+{ 79, 8, 0, 714176, 10 , 0.500000}
+{ 51, 3, 0, 694822, 20 , 0.500000}
+{ 35, 1, 0, 482090, 48 , 0.500000}
+{ 9, 3, 0, 419212, 62 , 0.250000}
+{ 87, 2, 0, 383968, 0 , 0.250000}
+{ 68, 3, 0, 322496, 20 , 0.250000}
+{ 57, 3, 0, 305400, 20 , 0.250000}
+{ 34, 2, 0, 248692, 48 , 0.250000}
+{ 53, 1, 0, 242476, 20 , 0.500000}
+{ 81, 1, 0, 200884, 10 , 0.250000}
+{ 24, 2, 0, 172064, 62 , 0.250000}
+{ 92, 3, 0, 160548, 0 , 0.250000}
+{ 46, 3, 0, 159852, 48 , 0.250000}
+{ 61, 1, 0, 122672, 20 , 0.500000}
+{ 23, 1, 0, 110600, 62 , 0.500000}
+{ 82, 1, 0, 100442, 10 , 0.500000}
+{ 90, 1, 0, 89708, 0 , 0.250000}
+{ 89, 3, 0, 87836, 0 , 0.250000}
+{ 84, 1, 0, 61168, 0 , 0.250000}
+{ 70, 3, 0, 46492, 20 , 0.250000}
+{ 37, 3, 0, 39312, 48 , 0.250000}
+{ 8, 1, 0, 33928, 62 , 0.250000}
+{ 72, 1, 0, 26490, 20 , 0.500000}
+{ 7, 1, 0, 23400, 62 , 0.250000}
+{ 6, 2, 0, 12056, 62 , 0.250000}
+{ 49, 8, 928196, 1591389, 48 , 1.000000}
+{ 28, 7, 928196, 1585552, 62 , 0.250000}
+{ 33, 15, 928196, 1558554, 48 , 0.500000}
+{ 12, 15, 928196, 1539712, 62 , 0.250000}
+{ 4, 5, 928196, 1467436, 62 , 0.250000}
+{ 91, 3, 928196, 963404, 0 , 0.250000}
+{ 78, 2, 928196, 953452, 20 , 0.250000}
+{ 69, 2, 928196, 944696, 20 , 0.250000}
+{ 60, 3, 928196, 943792, 20 , 0.250000}
+{ 29, 3, 928196, 940532, 62 , 0.250000}
+{ 45, 2, 928196, 940308, 48 , 0.250000}
+{ 74, 3, 928196, 939616, 20 , 0.250000}
+{ 38, 3, 928196, 936400, 48 , 0.250000}
+{ 17, 3, 928196, 932948, 62 , 0.250000}
+{ 47, 1, 928196, 932320, 48 , 0.250000}
+{ 83, 1, 928196, 929908, 0 , 0.250000}
+{ 41, 4, 1591389, 2153748, 48 , 1.000000}
+{ 13, 7, 1591389, 2148697, 62 , 0.500000}
+{ 80, 4, 1591389, 2146350, 10 , 1.000000}
+{ 16, 11, 1591389, 2109581, 62 , 0.250000}
+{ 18, 4, 1591389, 2099847, 62 , 0.500000}
+{ 31, 7, 1591389, 2084905, 62 , 0.250000}
+{ 22, 9, 1591389, 1996513, 62 , 0.500000}
+{ 26, 16, 2153748, 2340815, 62 , 1.000000}
+{ 39, 7, 2153748, 2312634, 48 , 0.500000}
+{ 88, 5, 2153748, 2303204, 0 , 0.250000}
+{ 11, 6, 2340815, 2489766, 62 , 2.000000}
+{ 59, 6, 2340815, 2479499, 20 , 0.500000}
+{ 75, 2, 2340815, 2469439, 20 , 2.000000}
+{ 58, 1, 2340815, 2437327, 20 , 1.000000}
+{ 55, 9, 2489766, 2596944, 20 , 0.500000}
+{ 36, 4, 2489766, 2594625, 48 , 2.000000}
+{ 71, 6, 2489766, 2582033, 20 , 1.000000}
+{ 62, 4, 2489766, 2561954, 20 , 0.250000}
+{ 15, 4, 2489766, 2546854, 62 , 0.250000}
+{ 10, 4, 2596944, 2631141, 62 , 1.000000}
+{ 42, 4, 2596944, 2629442, 48 , 2.000000}
+{ 44, 8, 2596944, 2627672, 48 , 0.250000}
+{ 56, 6, 2596944, 2618326, 20 , 0.500000}
+{ 65, 1, 2596944, 2616167, 20 , 1.000000}
+{ 14, 6, 2596944, 2607336, 62 , 0.250000}
+{ 54, 3, 2596944, 2607188, 20 , 0.500000}
+{ 64, 2, 2631141, 2639206, 20 , 1.000000}
+{ 2, 8, 2631141, 2638925, 62 , 0.500000}
+{ 67, 3, 2631141, 2637069, 20 , 0.500000}
+{ 27, 10, 2631141, 2635898, 62 , 1.000000}
+{ 48, 3, 2631141, 2635859, 48 , 1.000000}
+{ 30, 9, 2639206, 2642886, 62 , 1.000000}
+{ 73, 2, 2639206, 2642500, 20 , 2.000000}
+{ 25, 7, 2639206, 2641914, 62 , 0.250000}
+{ 85, 1, 2639206, 2641735, 0 , 2.000000}
+{ 40, 2, 2639206, 2641722, 48 , 2.000000}
+{ 86, 4, 2642886, 2644581, 0 , 4.000000}
+{ 20, 5, 2642886, 2644328, 62 , 0.500000}
+{ 66, 1, 2642886, 2644232, 20 , 1.000000}
+{ 77, 3, 2642886, 2643404, 20 , 0.500000}
+{ 1, 10, 2644581, 2645545, 62 , 1.000000}
+{ 21, 1, 2644581, 2645501, 62 , 2.000000}
+{ 43, 2, 2644581, 2645014, 48 , 2.000000}
+{ 63, 1, 2644581, 2644775, 20 , 4.000000}
+{ 3, 11, 2645545, 2645879, 62 , 0.500000}

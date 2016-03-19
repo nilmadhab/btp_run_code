@@ -1,0 +1,3 @@
+15000is the power_budget
+140 is TSV_MAX 
+40is TAM_WIDTH_MAX 
