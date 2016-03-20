@@ -273,8 +273,11 @@ long int bin_packing(int *particle_info, int index, int genaration)
 		tam_index[i] = bin_to_decimal(binary);
 		dvfs_index[i] = particle_info[i+BIT_LENGTH*SIZE];
 		//freq_factor[i] = pow(2,(FREQ_START_INDEX-freq_index[i]));
+		cout <<  "dvfs_index " << dvfs_index[i] << endl;
 		freq[i] = frequency_dvfs[dvfs_index[i]];
 		volt[i] = voltage_dvfs[dvfs_index[i]];
+		cout << "freq[i]" << freq[i] << endl;
+		cout << "volt[i]" << volt[i] << endl;
 	}		
 	// printf("test2\n");
 
@@ -782,11 +785,16 @@ void swapparticleinfo(int *a, int *b, double prob)
 				a[i+BIT_LENGTH*SIZE] = b[i+BIT_LENGTH*SIZE];
 			}
 
-			int freq_index =  a[i+BIT_LENGTH*SIZE];
-			float freq_factor = pow(2,(FREQ_START_INDEX-freq_index));
+			int dvfs_index =  a[i+BIT_LENGTH*SIZE];
+			//float feq_factor = pow(2,(FREQ_START_INDEX-freq_index));
 			//printf("%d %d %d %d %lf\n", i, freq_index, decimal, tam_testtime[i].tam_list[decimal] , tam_testtime[i].peak_power * freq_factor);
+			float freq = frequency_dvfs[dvfs_index];
+			float volt = voltage_dvfs[dvfs_index];
 
-			if(decimal< tam_testtime[i]. no_of_tam && tam_testtime[i].tam_list[decimal] * freq_factor < TAM_WIDTH_MAX && tam_testtime[i].peak_power * freq_factor < power_budget)
+			cout << "inside swapparticleinfo " << endl;
+			if(decimal< tam_testtime[i]. no_of_tam && 
+				tam_testtime[i].tam_list[decimal] * freq < TAM_WIDTH_MAX 
+				&& tam_testtime[i].peak_power * freq * volt*volt < power_budget)
 			{
 				core_temp[i] = tam_testtime[i].tam_list[decimal];
 				i++;
@@ -946,6 +954,9 @@ void initialiseparticle(particle *object)
 				i++;
 			}
 		}*/
+
+
+	cout << "particles are formed "<< endl;
 
 
 }

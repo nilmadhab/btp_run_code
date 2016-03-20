@@ -1043,16 +1043,19 @@ int particle_swarm_optimization()
 	long int lasttesttime = LARGENUMBER;
 	int samegencount=0;
 	int generation = 0;
-	
+	cout << "initialiseparticle " << endl;
 	for (int i=0;i<( NO_OF_PARTICLES  ); ){
-			printf("not ok\n");
+			//printf("not ok\n");
     		initialiseparticle(&(partarray[i]));
+    		if(i%50 == 0){
+    			 	 		cout << "particle no " << i << endl;
 
+            }
     		long int temp = bin_packing(partarray[i].info,i,generation);
     		if(i != 0 && temp != -1)
     		{
 	    			partarray[i].time_fitness = temp;
-	    			printf("ok\n");
+	    			//printf("ok\n");
 	    		
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -1070,7 +1073,7 @@ int particle_swarm_optimization()
 				}
 				if ( flag == 0 ) break ;
 				if ( l == i - 1 && partarray[i].time_fitness != -1) {
-					printf("Generated %d \n", i);
+					//printf("Generated %d \n", i);
 					// print_array(NEW_PARTICLE_SIZE, partarray[i].info, '\n');
 					i ++ ;
 					break ;
@@ -1080,7 +1083,7 @@ int particle_swarm_optimization()
 		if ( i == 0 && temp != -1) 
 			{
 				partarray[i].time_fitness = temp;
-				printf("Generated... %d \n", i);
+				//printf("Generated... %d \n", i);
 				
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -1093,8 +1096,8 @@ int particle_swarm_optimization()
 	}
 	// printf("test\n");
 	// for (int i=0;i<NO_OF_PARTICLES;i++)
-	for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
-        	printf("%ld\t",partarray[kkk].time_fitness);
+	//for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
+        	//printf("%ld\t",partarray[kkk].time_fitness);
 
     particle_test = 0;
         // printf("\n\n");
@@ -1145,12 +1148,16 @@ int particle_swarm_optimization()
     	int count;
     	while(gencount<MAX_ITERATION)
     	{
-        	
+        	cout << "current generation " << gencount << endl;
         	for(int i=0;i<NO_OF_PARTICLES;i++)
         	{
             	   	 /*for(int kkk = 0; kkk< SIZE; kkk++)
             	   	 	printf("%lf\t",partarray[i].info[kkk]);
             	   	 printf("\n\n");*/
+            	   	 	if(i%100 == 0){
+            	   	 		cout << "particle no " << i << endl;
+
+            	   	 	}
             	   	 //swaptamindex(partarray[i].info,partarray[i].lbest,globalbest.info, ALPHA,BETA); //paticle's IOpair part is updated to pbest  with prob APLHA	
             		int temp_info[SIZE];
             		for(int k = 0; k < SIZE; k++)
@@ -1217,58 +1224,14 @@ int particle_swarm_optimization()
                 		//printf ("{ %d, %d, %d, %d }\n", scheduler [globalbestIndx][pp]. io, scheduler [globalbestIndx][pp]. corenum, scheduler [globalbestIndx][pp]. starttime, scheduler [globalbestIndx][pp]. endtime);
                 }
    			}	
-   		/*
-        	for (int i=0;i<NO_OF_PARTICLES;i++)
-        	{
-           		if(drand48()< 0.2)
-           		{
-           			for(int jj = 0; jj< SIZE; jj++)
-           			{
-           				if(drand48()< 0.5)
-           				{
-           					int temp_store[BIT_LENGTH];
-           					for(int ll = 0 ; ll< BIT_LENGTH; ll++)
-           						temp_store[ll] = partarray[i]. info[jj * BIT_LENGTH + ll];
-           					int yy = (int) rand();
-           					yy = yy % BIT_LENGTH;
-           					int zz = (int) rand();
-           					zz = zz % BIT_LENGTH;
-           					
-           					if(temp_store[yy] == 0)
-           						temp_store[yy] = 1;
-           					else
-           						temp_store[yy] = 0;
-           					if(temp_store[zz] == 0)
-           						temp_store[zz] = 1;
-           					else
-           						temp_store[zz] = 0;		
-           					int binary = 0;
-           					int decimal;	
-						for(int k = 0; k < BIT_LENGTH ; k++)
-							//binary = binary + partarray[i]. info[(jj* BIT_LENGTH) + k] * pow (10,BIT_LENGTH - 1 -k);
-							binary = binary + temp_store[k] * pow(10, BIT_LENGTH - 1 - k);
-						decimal	= bin_to_decimal(binary);
-						if(decimal< tam_testtime[i]. no_of_tam)
-						{	
-							if(partarray[i]. info[jj * BIT_LENGTH + yy] == 0)
-           							partarray[i]. info[jj * BIT_LENGTH + yy] = 1;
-           						else
-           							partarray[i]. info[jj * BIT_LENGTH + yy] = 0;
-           						if(partarray[i]. info[jj * BIT_LENGTH + zz] == 0)
-           							partarray[i]. info[jj * BIT_LENGTH + zz] = 1;
-           						else
-           							partarray[i]. info[jj * BIT_LENGTH + zz] = 0;	
-           					}	
-           				}
-           			}
-           		}
-        	}*/
+   	
    		gencount++;
+   		//printf("\ngencount is %ld\n", gencount);
         if (temptime == lasttesttime)
    		{
    			samegencount++;
    			printf("\nlasttime is %ld for gen %ld",lasttesttime, gencount);
-   			printf("\n\n the semgencount value is %d", samegencount);
+   			printf("\n\n the semgencount value is %d\n", samegencount);
    		}
    		else
    		{	
@@ -1534,12 +1497,12 @@ int main(int argc, char *argv [ ])
 		}
 	
 		// fprintf(p1,"%ld\n",mint);
-		 printf("%ld\n",mint);
+		 printf(" best time is %ld\n",mint);
 		
 	}
-        for ( int i = 0 ; i < SIZE ; i ++ ) {
+        /*for ( int i = 0 ; i < SIZE ; i ++ ) {
                 printf ("{ %d, %d, %ld, %ld, %d , %lf}\n", BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq);
-        }
+        }*/
 
         cout << "BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq" << endl;
         for ( int i = 0 ; i < SIZE ; i ++ ) {
