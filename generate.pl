@@ -9,12 +9,12 @@ $h = $ARGV[2];
 	#$test = `./a.out 1`;
 	#print $test;
 	#print "nil";
-	system("g++ 3d_scheduling_4.cpp -o scale");
+	system("g++ 3d_scheduling_dvfs.cpp -o dvfs");
 	#$test = `./a.out 1`;
 	#print $test;
 	#print "nil";
-	system("./scale 1 20000 >". $w."_20000.txt ");
-	system("./scale 1 25000 >". $w."_25000.txt ");
+	system("./dvfs 1 15000 >". $w."_15000_dvfs_1.txt ");
+	#system("./scale 1 25000 >". $w."_25000.txt ");
 	
 	#system("./scale 1 15000 >". $w."_15000_dvfs.txt ");
 	#system("./scale 1 25000 >". $w."_25000.txt ");

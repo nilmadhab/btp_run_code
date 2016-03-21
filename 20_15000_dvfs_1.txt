@@ -1,10 +1,9 @@
-2016-3-20
-20000is the power_budget
+15000is the power_budget
 140 is TSV_MAX 
-40is TAM_WIDTH_MAX 
+20is TAM_WIDTH_MAX 
 5 nil is here
 no of tam   die level peak_power
- ************* 32 0 3704
+ ************* 20 0 3704
 1 2833432
 2 1423109
 3 945023
@@ -25,19 +24,7 @@ no of tam   die level peak_power
 18 185319
 19 181629
 20 180809
-21 179579
-22 177939
-23 127099
-24 126689
-25 126279
-27 125459
-28 124639
-29 121769
-30 120949
-31 120129
-37 119719
-39 119309
- ************* 16 0 53
+ ************* 14 0 53
 1 7906
 2 4049
 3 2892
@@ -52,9 +39,7 @@ no of tam   die level peak_power
 14 771
 17 770
 20 578
-34 577
-40 385
- ************* 14 0 54
+ ************* 12 0 54
 1 26597
 2 13623
 3 9730
@@ -67,9 +52,7 @@ no of tam   die level peak_power
 14 2595
 15 2594
 20 1946
-29 1945
-40 1297
- ************* 19 0 174
+ ************* 16 0 174
 1 1652
 2 832
 3 558
@@ -86,10 +69,7 @@ no of tam   die level peak_power
 14 131
 16 119
 20 107
-23 83
-25 82
-28 71
- ************* 23 0 198
+ ************* 18 0 198
 1 631161
 2 318644
 3 214472
@@ -108,12 +88,7 @@ no of tam   die level peak_power
 16 49021
 17 42894
 20 42893
-21 36766
-26 30639
-27 30638
-34 24511
-40 24510
- ************* 21 0 12614
+ ************* 17 0 12614
 1 5301239
 2 2650729
 3 1809815
@@ -131,11 +106,7 @@ no of tam   die level peak_power
 15 447197
 16 341858
 20 337478
-22 333317
-23 230821
-24 227978
-39 223598
- ************* 12 0 32
+ ************* 11 0 32
 1 5850
 2 3014
 3 2127
@@ -147,8 +118,7 @@ no of tam   die level peak_power
 9 886
 11 709
 16 532
-32 355
- ************* 12 0 33
+ ************* 11 0 33
 1 5850
 2 3014
 3 2127
@@ -160,8 +130,7 @@ no of tam   die level peak_power
 9 886
 11 709
 16 532
-32 355
- ************* 15 0 55
+ ************* 13 0 55
 1 8482
 2 4433
 3 3084
@@ -175,9 +144,7 @@ no of tam   die level peak_power
 12 963
 15 771
 17 770
-22 578
-34 577
- ************* 30 0 238
+ ************* 20 0 238
 1 312080
 2 157204
 3 104803
@@ -198,16 +165,6 @@ no of tam   die level peak_power
 18 18632
 19 18631
 20 17467
-21 16303
-22 16302
-23 15138
-25 13974
-26 13973
-27 12809
-30 11645
-32 11644
-34 10480
-39 9316
  ************* 9 0 534
 1 135845
 2 68016
@@ -218,7 +175,7 @@ no of tam   die level peak_power
 7 19727
 8 17286
 9 15603
- ************* 21 0 2497
+ ************* 16 0 2497
 1 1785278
 2 892835
 3 595412
@@ -235,12 +192,7 @@ no of tam   die level peak_power
 16 112105
 17 109367
 20 108975
-23 77995
-24 74867
-25 73303
-33 72911
-40 72519
- ************* 27 0 5109
+ ************* 18 0 5109
 1 1879524
 2 939859
 3 639989
@@ -259,16 +211,7 @@ no of tam   die level peak_power
 16 123434
 17 123239
 19 116999
-21 110564
-22 110369
-23 85214
-27 83069
-29 82874
-32 80729
-34 80534
-37 74489
-38 74294
- ************* 27 0 5084
+ ************* 18 0 5084
 1 1879524
 2 939859
 3 639989
@@ -287,16 +230,7 @@ no of tam   die level peak_power
 16 123434
 17 123239
 19 116999
-21 110564
-22 110369
-23 85214
-27 83069
-29 82874
-32 80729
-34 80534
-37 74489
-38 74294
- ************* 15 0 56
+ ************* 13 0 56
 1 12994
 2 6641
 3 4620
@@ -310,9 +244,7 @@ no of tam   die level peak_power
 12 1443
 15 1155
 17 1154
-22 866
-34 865
- ************* 22 0 125
+ ************* 17 0 125
 1 54712
 2 27752
 3 18634
@@ -330,12 +262,7 @@ no of tam   die level peak_power
 16 3964
 18 3568
 20 3172
-22 3171
-23 2775
-28 2379
-32 2378
-35 1982
- ************* 25 0 3525
+ ************* 18 0 3525
 1 1418234
 2 709372
 3 483258
@@ -354,14 +281,7 @@ no of tam   die level peak_power
 18 96998
 19 96347
 20 95913
-21 95696
-22 64882
-35 64665
-36 64448
-37 64014
-39 63797
-40 63363
- ************* 18 0 74
+ ************* 15 0 74
 1 3394
 2 1739
 3 1188
@@ -377,10 +297,7 @@ no of tam   die level peak_power
 16 255
 17 254
 20 212
-27 170
-34 169
-40 127
- ************* 24 0 2809
+ ************* 17 0 2809
 1 1016074
 2 508247
 3 338832
@@ -398,14 +315,7 @@ no of tam   die level peak_power
 15 67935
 16 63716
 17 62666
-21 62244
-22 46415
-23 44515
-24 42618
-25 41988
-29 41777
-32 41566
- ************* 26 0 4044
+ ************* 18 0 4044
 1 3163654
 2 1582035
 3 1057511
@@ -424,15 +334,7 @@ no of tam   die level peak_power
 16 215588
 19 200993
 20 200576
-21 186398
-22 150536
-23 145532
-30 140945
-31 140528
-37 135941
-38 125933
-40 125516
- ************* 18 0 76
+ ************* 15 0 76
 1 3394
 2 1739
 3 1188
@@ -448,10 +350,7 @@ no of tam   die level peak_power
 16 255
 17 254
 20 212
-27 170
-34 169
-40 127
- ************* 14 0 52
+ ************* 12 0 52
 1 1840
 2 941
 3 642
@@ -464,9 +363,7 @@ no of tam   die level peak_power
 12 213
 14 171
 17 170
-21 128
-34 127
- ************* 22 0 4179
+ ************* 17 0 4179
 1 1819997
 2 914149
 3 606978
@@ -484,11 +381,6 @@ no of tam   die level peak_power
 15 121725
 16 120554
 20 120319
-21 116794
-22 114209
-23 80604
-32 80369
-37 80134
  ************* 8 0 27
 1 55300
 2 30722
@@ -498,7 +390,7 @@ no of tam   die level peak_power
 6 12289
 9 9217
 17 6145
- ************* 11 0 42
+ ************* 10 0 42
 1 80656
 2 43016
 3 29574
@@ -509,8 +401,7 @@ no of tam   die level peak_power
 10 10754
 15 8066
 16 8065
-29 5377
- ************* 14 0 54
+ ************* 12 0 54
 1 4162
 2 2129
 3 1452
@@ -523,9 +414,7 @@ no of tam   die level peak_power
 12 483
 14 387
 17 386
-21 290
-34 289
- ************* 23 0 1727
+ ************* 17 0 1727
 1 2803245
 2 1402081
 3 954596
@@ -543,13 +432,7 @@ no of tam   die level peak_power
 16 187067
 17 186150
 20 179731
-21 170561
-22 154972
-23 125628
-26 124711
-33 123794
-40 117375
- ************* 20 0 106
+ ************* 16 0 106
 1 43610
 2 22201
 3 15065
@@ -566,11 +449,7 @@ no of tam   die level peak_power
 16 3172
 17 3171
 19 2775
-22 2379
-25 2378
-28 1982
-37 1586
- ************* 22 0 3579
+ ************* 17 0 3579
 1 1149163
 2 580587
 3 387173
@@ -588,12 +467,7 @@ no of tam   die level peak_power
 16 96533
 18 64874
 19 64701
-22 64528
-31 64355
-33 64182
-35 33041
-36 32869
- ************* 15 0 54
+ ************* 13 0 54
 1 8482
 2 4433
 3 3084
@@ -607,9 +481,7 @@ no of tam   die level peak_power
 12 963
 15 771
 17 770
-22 578
-34 577
- ************* 24 0 138
+ ************* 18 0 138
 1 30466
 2 15335
 3 10428
@@ -628,13 +500,7 @@ no of tam   die level peak_power
 17 2045
 18 2044
 19 1840
-22 1636
-24 1635
-25 1431
-30 1227
-35 1226
-37 1022
- ************* 30 0 244
+ ************* 20 0 244
 1 829724
 2 416404
 3 280687
@@ -655,16 +521,6 @@ no of tam   die level peak_power
 18 49352
 19 49351
 20 46267
-21 43183
-22 43182
-23 40098
-25 37014
-26 37013
-27 33929
-30 30845
-32 30844
-34 27760
-39 24676
  ************* 2 1 500
 1 190031
 2 170276
@@ -682,7 +538,7 @@ no of tam   die level peak_power
 14 583494
 15 315179
 16 294064
- ************* 14 1 52
+ ************* 12 1 52
 1 118129
 2 62173
 3 43521
@@ -695,9 +551,7 @@ no of tam   die level peak_power
 10 15543
 13 12434
 19 9326
-25 9325
-37 6217
- ************* 14 1 54
+ ************* 12 1 54
 1 241045
 2 123613
 3 86529
@@ -710,9 +564,7 @@ no of tam   die level peak_power
 10 30903
 13 24722
 19 18542
-25 18541
-38 12361
- ************* 15 1 66
+ ************* 12 1 66
 1 777193
 2 394765
 3 271401
@@ -725,9 +577,6 @@ no of tam   die level peak_power
 11 86355
 13 74018
 16 61682
-21 49346
-25 49345
-31 37009
  ************* 7 1 18
 1 23588
 2 13759
@@ -744,7 +593,7 @@ no of tam   die level peak_power
 5 1538
 8 1537
 9 1025
- ************* 14 1 62
+ ************* 13 1 62
 1 466727
 2 238329
 3 168816
@@ -758,8 +607,7 @@ no of tam   die level peak_power
 12 49652
 16 39722
 17 39721
-23 29791
- ************* 13 1 53
+ ************* 11 1 53
 1 9609
 2 5033
 3 3431
@@ -771,8 +619,6 @@ no of tam   die level peak_power
 11 1143
 14 915
 17 914
-21 686
-33 685
  ************* 11 1 2641
 1 2247166
 2 1123810
@@ -785,7 +631,7 @@ no of tam   die level peak_power
 9 287104
 10 247974
 11 236599
- ************* 9 1 35
+ ************* 8 1 35
 1 222848
 2 120709
 3 83568
@@ -794,7 +640,6 @@ no of tam   die level peak_power
 6 46427
 8 37141
 12 27856
-23 18571
  ************* 5 1 12
 1 1388
 2 867
@@ -818,7 +663,7 @@ no of tam   die level peak_power
 6 1298
 8 1297
 11 865
- ************* 9 1 34
+ ************* 8 1 34
 1 102128
 2 53284
 3 39963
@@ -827,7 +672,6 @@ no of tam   die level peak_power
 6 22202
 8 17761
 11 13321
-22 8881
  ************* 5 1 12
 1 1031
 2 644
@@ -853,7 +697,7 @@ no of tam   die level peak_power
 8 663193
 9 622163
 10 544579
- ************* 15 1 65
+ ************* 12 1 65
 1 777193
 2 394765
 3 271401
@@ -866,9 +710,6 @@ no of tam   die level peak_power
 11 86355
 13 74018
 16 61682
-21 49346
-25 49345
-31 37009
  ************* 8 2 707
 1 926665
 2 463725
@@ -878,7 +719,7 @@ no of tam   die level peak_power
 6 174491
 7 173705
 10 102965
- ************* 16 2 66
+ ************* 14 2 66
 1 591585
 2 308117
 3 209519
@@ -893,9 +734,7 @@ no of tam   die level peak_power
 12 61623
 16 49299
 17 49298
-24 36974
-33 36973
- ************* 14 2 53
+ ************* 12 2 53
 1 121238
 2 62173
 3 43521
@@ -908,9 +747,7 @@ no of tam   die level peak_power
 10 15543
 13 12434
 19 9326
-26 9325
-38 6217
- ************* 16 2 74
+ ************* 13 2 74
 1 14478
 2 7350
 3 5122
@@ -924,9 +761,6 @@ no of tam   die level peak_power
 12 1558
 13 1336
 16 1113
-22 891
-24 890
-32 668
  ************* 12 2 1357
 1 480681
 2 240543
@@ -940,7 +774,7 @@ no of tam   die level peak_power
 10 50343
 11 44050
 12 43644
- ************* 20 2 96
+ ************* 16 2 96
 1 57736
 2 29224
 3 19958
@@ -957,11 +791,7 @@ no of tam   die level peak_power
 14 4989
 16 4276
 20 3564
-22 3563
-27 2851
-32 2850
-40 2138
- ************* 20 2 101
+ ************* 16 2 101
 1 223784
 2 113208
 3 76350
@@ -978,11 +808,7 @@ no of tam   die level peak_power
 14 18429
 16 18428
 17 15796
-21 13164
-22 13163
-28 10531
-32 10530
- ************* 12 2 52
+ ************* 11 2 52
 1 96512
 2 49560
 3 33910
@@ -994,8 +820,7 @@ no of tam   die level peak_power
 12 10434
 16 10433
 18 7825
-36 5217
- ************* 17 2 1348
+ ************* 15 2 1348
 1 415000
 2 207675
 3 138509
@@ -1011,8 +836,6 @@ no of tam   die level peak_power
 13 34495
 17 33791
 18 33615
-22 22527
-23 21647
  ************* 3 2 169
 1 10119
 2 5098
@@ -1117,7 +940,7 @@ no of tam   die level peak_power
 12 53351
 15 46871
 18 39311
- ************* 25 2 6060
+ ************* 16 2 6060
 1 2102430
 2 1058511
 3 717079
@@ -1134,15 +957,6 @@ no of tam   die level peak_power
 14 184183
 15 159431
 16 145417
-22 133587
-23 133405
-25 123577
-26 121393
-27 111565
-28 111383
-29 101555
-30 86813
-31 72981
  ************* 10 2 223
 1 768
 2 386
@@ -1190,7 +1004,7 @@ no of tam   die level peak_power
  ************* 2 3 291
 1 50221
 2 47111
- ************* 11 4 43
+ ************* 10 4 43
 1 428
 2 220
 3 155
@@ -1201,8 +1015,7 @@ no of tam   die level peak_power
 8 64
 11 51
 16 38
-32 25
- ************* 26 4 191
+ ************* 18 4 191
 1 15292
 2 7719
 3 5146
@@ -1221,14 +1034,6 @@ no of tam   die level peak_power
 16 1029
 18 955
 19 882
-21 809
-22 808
-23 735
-26 662
-27 661
-30 588
-35 515
-36 514
  ************* 3 4 45
 1 5058
 2 2582
@@ -1239,7 +1044,7 @@ no of tam   die level peak_power
 3 11129
 4 6782
 5 5829
- ************* 28 4 950
+ ************* 19 4 950
 1 191874
 2 95992
 3 64070
@@ -1259,15 +1064,6 @@ no of tam   die level peak_power
 18 10869
 19 10319
 20 9989
-25 9878
-32 6206
-33 5985
-34 5765
-35 5655
-36 5545
-37 5325
-38 5215
-39 5105
  ************* 17 4 466
 1 185794
 2 93014
@@ -1286,7 +1082,7 @@ no of tam   die level peak_power
 18 10571
 19 10103
 20 9869
- ************* 17 4 421
+ ************* 16 4 421
 1 65686
 2 32891
 3 21959
@@ -1303,14 +1099,13 @@ no of tam   die level peak_power
 18 3739
 19 3549
 20 3454
-21 3359
  ************* 5 4 152
 1 22427
 2 11262
 3 8721
 4 5680
 5 4605
- ************* 24 4 1089
+ ************* 17 4 1089
 1 26351
 2 13182
 3 8802
@@ -1328,14 +1123,7 @@ no of tam   die level peak_power
 17 1572
 18 1488
 19 1416
-32 836
-33 822
-34 798
-35 774
-36 750
-37 738
-38 714
- ************* 15 4 937
+ ************* 14 4 937
 1 120188
 2 60128
 3 40137
@@ -1350,53 +1138,26 @@ no of tam   die level peak_power
 16 7586
 17 7174
 18 7106
-32 3863
-initialiseparticle 
+inside pso
 particle no 0
-particle no 50
-particle no 50
-particle no 50
-particle no 50
-particle no 50
-particle no 50
-particle no 50
-particle no 50
-particle no 50
 particle no 50
 particle no 100
 particle no 150
 particle no 200
 particle no 250
-particle no 250
-particle no 250
-particle no 300
 particle no 300
 particle no 350
 particle no 400
-particle no 400
 particle no 450
-particle no 500
 particle no 500
 particle no 550
 particle no 600
-particle no 600
 particle no 650
-particle no 650
-particle no 650
-particle no 700
-particle no 700
-particle no 700
-particle no 700
 particle no 700
 particle no 750
 particle no 800
 particle no 850
-particle no 850
 particle no 900
-particle no 900
-particle no 900
-particle no 900
-particle no 950
 particle no 950
 current generation 0
 particle no 0
@@ -1420,6 +1181,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 3167506 for gen 2
+
+
+ the semgencount value is 1
 current generation 2
 particle no 0
 particle no 100
@@ -1432,9 +1198,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 2209687 for gen 3
+lasttime is 3167506 for gen 3
 
- the semgencount value is 1
+
+ the semgencount value is 2
 current generation 3
 particle no 0
 particle no 100
@@ -1446,6 +1213,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 3167506 for gen 4
+
+
+ the semgencount value is 3
 current generation 4
 particle no 0
 particle no 100
@@ -1457,6 +1229,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 3167506 for gen 5
+
+
+ the semgencount value is 4
 current generation 5
 particle no 0
 particle no 100
@@ -1479,6 +1256,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 3141681 for gen 7
+
+
+ the semgencount value is 1
 current generation 7
 particle no 0
 particle no 100
@@ -1490,10 +1272,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1801721 for gen 8
-
- the semgencount value is 1
 current generation 8
 particle no 0
 particle no 100
@@ -1516,6 +1294,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 3090260 for gen 10
+
+
+ the semgencount value is 1
 current generation 10
 particle no 0
 particle no 100
@@ -1528,9 +1311,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1725398 for gen 11
+lasttime is 3090260 for gen 11
 
- the semgencount value is 1
+
+ the semgencount value is 2
 current generation 11
 particle no 0
 particle no 100
@@ -1542,10 +1326,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1725398 for gen 12
-
- the semgencount value is 2
 current generation 12
 particle no 0
 particle no 100
@@ -1568,10 +1348,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1722379 for gen 14
-
- the semgencount value is 1
 current generation 14
 particle no 0
 particle no 100
@@ -1606,7 +1382,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1714773 for gen 17
+lasttime is 2976584 for gen 17
+
 
  the semgencount value is 1
 current generation 17
@@ -1620,6 +1397,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2976584 for gen 18
+
+
+ the semgencount value is 2
 current generation 18
 particle no 0
 particle no 100
@@ -1642,6 +1424,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2957223 for gen 20
+
+
+ the semgencount value is 1
 current generation 20
 particle no 0
 particle no 100
@@ -1653,10 +1440,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1635807 for gen 21
-
- the semgencount value is 1
 current generation 21
 particle no 0
 particle no 100
@@ -1668,10 +1451,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1635807 for gen 22
-
- the semgencount value is 2
 current generation 22
 particle no 0
 particle no 100
@@ -1705,10 +1484,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1603025 for gen 25
-
- the semgencount value is 1
 current generation 25
 particle no 0
 particle no 100
@@ -1720,10 +1495,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1603025 for gen 26
-
- the semgencount value is 2
 current generation 26
 particle no 0
 particle no 100
@@ -1735,6 +1506,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2880661 for gen 27
+
+
+ the semgencount value is 1
 current generation 27
 particle no 0
 particle no 100
@@ -1757,10 +1533,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1594018 for gen 29
-
- the semgencount value is 1
 current generation 29
 particle no 0
 particle no 100
@@ -1772,6 +1544,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2844892 for gen 30
+
+
+ the semgencount value is 1
 current generation 30
 particle no 0
 particle no 100
@@ -1784,9 +1561,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1583005 for gen 31
+lasttime is 2844892 for gen 31
 
- the semgencount value is 1
+
+ the semgencount value is 2
 current generation 31
 particle no 0
 particle no 100
@@ -1798,6 +1576,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2844892 for gen 32
+
+
+ the semgencount value is 3
 current generation 32
 particle no 0
 particle no 100
@@ -1809,10 +1592,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1582893 for gen 33
-
- the semgencount value is 1
 current generation 33
 particle no 0
 particle no 100
@@ -1835,10 +1614,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1577327 for gen 35
-
- the semgencount value is 1
 current generation 35
 particle no 0
 particle no 100
@@ -1850,10 +1625,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1577327 for gen 36
-
- the semgencount value is 2
 current generation 36
 particle no 0
 particle no 100
@@ -1866,9 +1637,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1577327 for gen 37
+lasttime is 2746607 for gen 37
 
- the semgencount value is 3
+
+ the semgencount value is 1
 current generation 37
 particle no 0
 particle no 100
@@ -1892,7 +1664,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1574664 for gen 39
+lasttime is 2739703 for gen 39
+
 
  the semgencount value is 1
 current generation 39
@@ -1906,10 +1679,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1574664 for gen 40
-
- the semgencount value is 2
 current generation 40
 particle no 0
 particle no 100
@@ -1921,6 +1690,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2717999 for gen 41
+
+
+ the semgencount value is 1
 current generation 41
 particle no 0
 particle no 100
@@ -1932,10 +1706,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1573404 for gen 42
-
- the semgencount value is 1
 current generation 42
 particle no 0
 particle no 100
@@ -1947,6 +1717,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2715545 for gen 43
+
+
+ the semgencount value is 1
 current generation 43
 particle no 0
 particle no 100
@@ -1958,6 +1733,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2715545 for gen 44
+
+
+ the semgencount value is 2
 current generation 44
 particle no 0
 particle no 100
@@ -1970,9 +1750,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1571126 for gen 45
+lasttime is 2715545 for gen 45
 
- the semgencount value is 1
+
+ the semgencount value is 3
 current generation 45
 particle no 0
 particle no 100
@@ -1995,10 +1776,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1563122 for gen 47
-
- the semgencount value is 1
 current generation 47
 particle no 0
 particle no 100
@@ -2010,10 +1787,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1563122 for gen 48
-
- the semgencount value is 2
 current generation 48
 particle no 0
 particle no 100
@@ -2025,10 +1798,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1563122 for gen 49
-
- the semgencount value is 3
 current generation 49
 particle no 0
 particle no 100
@@ -2040,10 +1809,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1563122 for gen 50
-
- the semgencount value is 4
 current generation 50
 particle no 0
 particle no 100
@@ -2055,6 +1820,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2666678 for gen 51
+
+
+ the semgencount value is 1
 current generation 51
 particle no 0
 particle no 100
@@ -2066,10 +1836,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1550959 for gen 52
-
- the semgencount value is 1
 current generation 52
 particle no 0
 particle no 100
@@ -2092,6 +1858,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2631062 for gen 54
+
+
+ the semgencount value is 1
 current generation 54
 particle no 0
 particle no 100
@@ -2103,6 +1874,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2631062 for gen 55
+
+
+ the semgencount value is 2
 current generation 55
 particle no 0
 particle no 100
@@ -2114,10 +1890,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1535559 for gen 56
-
- the semgencount value is 1
 current generation 56
 particle no 0
 particle no 100
@@ -2129,10 +1901,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1535559 for gen 57
-
- the semgencount value is 2
 current generation 57
 particle no 0
 particle no 100
@@ -2144,6 +1912,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2551617 for gen 58
+
+
+ the semgencount value is 1
 current generation 58
 particle no 0
 particle no 100
@@ -2156,9 +1929,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1515194 for gen 59
+lasttime is 2551617 for gen 59
 
- the semgencount value is 1
+
+ the semgencount value is 2
 current generation 59
 particle no 0
 particle no 100
@@ -2171,9 +1945,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1515194 for gen 60
+lasttime is 2551617 for gen 60
 
- the semgencount value is 2
+
+ the semgencount value is 3
 current generation 60
 particle no 0
 particle no 100
@@ -2185,10 +1960,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1515194 for gen 61
-
- the semgencount value is 3
 current generation 61
 particle no 0
 particle no 100
@@ -2201,9 +1972,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1515194 for gen 62
+lasttime is 2506051 for gen 62
 
- the semgencount value is 4
+
+ the semgencount value is 1
 current generation 62
 particle no 0
 particle no 100
@@ -2216,9 +1988,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1515194 for gen 63
+lasttime is 2506051 for gen 63
 
- the semgencount value is 5
+
+ the semgencount value is 2
 current generation 63
 particle no 0
 particle no 100
@@ -2231,9 +2004,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1515194 for gen 64
+lasttime is 2506051 for gen 64
 
- the semgencount value is 6
+
+ the semgencount value is 3
 current generation 64
 particle no 0
 particle no 100
@@ -2257,7 +2031,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1509212 for gen 66
+lasttime is 2502730 for gen 66
+
 
  the semgencount value is 1
 current generation 66
@@ -2271,10 +2046,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1509212 for gen 67
-
- the semgencount value is 2
 current generation 67
 particle no 0
 particle no 100
@@ -2287,9 +2058,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1509212 for gen 68
+lasttime is 2481092 for gen 68
 
- the semgencount value is 3
+
+ the semgencount value is 1
 current generation 68
 particle no 0
 particle no 100
@@ -2301,6 +2073,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2481092 for gen 69
+
+
+ the semgencount value is 2
 current generation 69
 particle no 0
 particle no 100
@@ -2324,7 +2101,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1504162 for gen 71
+lasttime is 2450685 for gen 71
+
 
  the semgencount value is 1
 current generation 71
@@ -2338,6 +2116,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2450685 for gen 72
+
+
+ the semgencount value is 2
 current generation 72
 particle no 0
 particle no 100
@@ -2349,10 +2132,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1501992 for gen 73
-
- the semgencount value is 1
 current generation 73
 particle no 0
 particle no 100
@@ -2365,9 +2144,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1501992 for gen 74
+lasttime is 2445356 for gen 74
 
- the semgencount value is 2
+
+ the semgencount value is 1
 current generation 74
 particle no 0
 particle no 100
@@ -2379,10 +2159,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1501992 for gen 75
-
- the semgencount value is 3
 current generation 75
 particle no 0
 particle no 100
@@ -2394,6 +2170,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2428914 for gen 76
+
+
+ the semgencount value is 1
 current generation 76
 particle no 0
 particle no 100
@@ -2406,9 +2187,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1500812 for gen 77
+lasttime is 2428914 for gen 77
 
- the semgencount value is 1
+
+ the semgencount value is 2
 current generation 77
 particle no 0
 particle no 100
@@ -2431,6 +2213,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2411715 for gen 79
+
+
+ the semgencount value is 1
 current generation 79
 particle no 0
 particle no 100
@@ -2442,6 +2229,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2411715 for gen 80
+
+
+ the semgencount value is 2
 current generation 80
 particle no 0
 particle no 100
@@ -2464,10 +2256,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1498281 for gen 82
-
- the semgencount value is 1
 current generation 82
 particle no 0
 particle no 100
@@ -2479,6 +2267,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2392266 for gen 83
+
+
+ the semgencount value is 1
 current generation 83
 particle no 0
 particle no 100
@@ -2501,6 +2294,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2387839 for gen 85
+
+
+ the semgencount value is 1
 current generation 85
 particle no 0
 particle no 100
@@ -2524,7 +2322,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1496616 for gen 87
+lasttime is 2378611 for gen 87
+
 
  the semgencount value is 1
 current generation 87
@@ -2550,7 +2349,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1496514 for gen 89
+lasttime is 2376600 for gen 89
+
 
  the semgencount value is 1
 current generation 89
@@ -2575,6 +2375,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2373454 for gen 91
+
+
+ the semgencount value is 1
 current generation 91
 particle no 0
 particle no 100
@@ -2586,10 +2391,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1493054 for gen 92
-
- the semgencount value is 1
 current generation 92
 particle no 0
 particle no 100
@@ -2601,10 +2402,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1493054 for gen 93
-
- the semgencount value is 2
 current generation 93
 particle no 0
 particle no 100
@@ -2616,6 +2413,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2372322 for gen 94
+
+
+ the semgencount value is 1
 current generation 94
 particle no 0
 particle no 100
@@ -2627,10 +2429,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1492553 for gen 95
-
- the semgencount value is 1
 current generation 95
 particle no 0
 particle no 100
@@ -2642,6 +2440,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2370024 for gen 96
+
+
+ the semgencount value is 1
 current generation 96
 particle no 0
 particle no 100
@@ -2664,6 +2467,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2365521 for gen 98
+
+
+ the semgencount value is 1
 current generation 98
 particle no 0
 particle no 100
@@ -2709,7 +2517,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1487051 for gen 102
+lasttime is 2356279 for gen 102
+
 
  the semgencount value is 1
 current generation 102
@@ -2723,6 +2532,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2356279 for gen 103
+
+
+ the semgencount value is 2
 current generation 103
 particle no 0
 particle no 100
@@ -2735,9 +2549,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1486652 for gen 104
+lasttime is 2356279 for gen 104
 
- the semgencount value is 1
+
+ the semgencount value is 3
 current generation 104
 particle no 0
 particle no 100
@@ -2760,6 +2575,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2355060 for gen 106
+
+
+ the semgencount value is 1
 current generation 106
 particle no 0
 particle no 100
@@ -2771,10 +2591,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1484300 for gen 107
-
- the semgencount value is 1
 current generation 107
 particle no 0
 particle no 100
@@ -2787,9 +2603,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1484300 for gen 108
+lasttime is 2353649 for gen 108
 
- the semgencount value is 2
+
+ the semgencount value is 1
 current generation 108
 particle no 0
 particle no 100
@@ -2802,9 +2619,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1484300 for gen 109
+lasttime is 2353649 for gen 109
 
- the semgencount value is 3
+
+ the semgencount value is 2
 current generation 109
 particle no 0
 particle no 100
@@ -2816,10 +2634,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1484300 for gen 110
-
- the semgencount value is 4
 current generation 110
 particle no 0
 particle no 100
@@ -2842,10 +2656,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1484222 for gen 112
-
- the semgencount value is 1
 current generation 112
 particle no 0
 particle no 100
@@ -2857,6 +2667,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2352901 for gen 113
+
+
+ the semgencount value is 1
 current generation 113
 particle no 0
 particle no 100
@@ -2868,10 +2683,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1483876 for gen 114
-
- the semgencount value is 1
 current generation 114
 particle no 0
 particle no 100
@@ -2905,10 +2716,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480166 for gen 117
-
- the semgencount value is 1
 current generation 117
 particle no 0
 particle no 100
@@ -2921,9 +2728,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480166 for gen 118
+lasttime is 2351966 for gen 118
 
- the semgencount value is 2
+
+ the semgencount value is 1
 current generation 118
 particle no 0
 particle no 100
@@ -2947,7 +2755,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480101 for gen 120
+lasttime is 2351816 for gen 120
+
 
  the semgencount value is 1
 current generation 120
@@ -2962,7 +2771,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480101 for gen 121
+lasttime is 2351816 for gen 121
+
 
  the semgencount value is 2
 current generation 121
@@ -2977,7 +2787,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480101 for gen 122
+lasttime is 2351816 for gen 122
+
 
  the semgencount value is 3
 current generation 122
@@ -2991,10 +2802,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480101 for gen 123
-
- the semgencount value is 4
 current generation 123
 particle no 0
 particle no 100
@@ -3006,6 +2813,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2351259 for gen 124
+
+
+ the semgencount value is 1
 current generation 124
 particle no 0
 particle no 100
@@ -3017,10 +2829,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480017 for gen 125
-
- the semgencount value is 1
 current generation 125
 particle no 0
 particle no 100
@@ -3033,9 +2841,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 126
+lasttime is 2350642 for gen 126
 
- the semgencount value is 2
+
+ the semgencount value is 1
 current generation 126
 particle no 0
 particle no 100
@@ -3048,9 +2857,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 127
+lasttime is 2350642 for gen 127
 
- the semgencount value is 3
+
+ the semgencount value is 2
 current generation 127
 particle no 0
 particle no 100
@@ -3063,9 +2873,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 128
+lasttime is 2350642 for gen 128
 
- the semgencount value is 4
+
+ the semgencount value is 3
 current generation 128
 particle no 0
 particle no 100
@@ -3078,9 +2889,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 129
+lasttime is 2350642 for gen 129
 
- the semgencount value is 5
+
+ the semgencount value is 4
 current generation 129
 particle no 0
 particle no 100
@@ -3093,9 +2905,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 130
+lasttime is 2350642 for gen 130
 
- the semgencount value is 6
+
+ the semgencount value is 5
 current generation 130
 particle no 0
 particle no 100
@@ -3107,10 +2920,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480017 for gen 131
-
- the semgencount value is 7
 current generation 131
 particle no 0
 particle no 100
@@ -3123,9 +2932,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 132
+lasttime is 2350472 for gen 132
 
- the semgencount value is 8
+
+ the semgencount value is 1
 current generation 132
 particle no 0
 particle no 100
@@ -3138,9 +2948,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 133
+lasttime is 2350472 for gen 133
 
- the semgencount value is 9
+
+ the semgencount value is 2
 current generation 133
 particle no 0
 particle no 100
@@ -3153,9 +2964,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 134
+lasttime is 2350472 for gen 134
 
- the semgencount value is 10
+
+ the semgencount value is 3
 current generation 134
 particle no 0
 particle no 100
@@ -3168,9 +2980,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 135
+lasttime is 2350472 for gen 135
 
- the semgencount value is 11
+
+ the semgencount value is 4
 current generation 135
 particle no 0
 particle no 100
@@ -3182,10 +2995,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480017 for gen 136
-
- the semgencount value is 12
 current generation 136
 particle no 0
 particle no 100
@@ -3198,9 +3007,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 137
+lasttime is 2350167 for gen 137
 
- the semgencount value is 13
+
+ the semgencount value is 1
 current generation 137
 particle no 0
 particle no 100
@@ -3213,9 +3023,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 138
+lasttime is 2350167 for gen 138
 
- the semgencount value is 14
+
+ the semgencount value is 2
 current generation 138
 particle no 0
 particle no 100
@@ -3227,10 +3038,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1480017 for gen 139
-
- the semgencount value is 15
 current generation 139
 particle no 0
 particle no 100
@@ -3243,9 +3050,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1480017 for gen 140
+lasttime is 2349522 for gen 140
 
- the semgencount value is 16
+
+ the semgencount value is 1
 current generation 140
 particle no 0
 particle no 100
@@ -3257,6 +3065,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2349522 for gen 141
+
+
+ the semgencount value is 2
 current generation 141
 particle no 0
 particle no 100
@@ -3268,6 +3081,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2349522 for gen 142
+
+
+ the semgencount value is 3
 current generation 142
 particle no 0
 particle no 100
@@ -3280,9 +3098,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479948 for gen 143
+lasttime is 2349522 for gen 143
 
- the semgencount value is 1
+
+ the semgencount value is 4
 current generation 143
 particle no 0
 particle no 100
@@ -3295,9 +3114,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479948 for gen 144
+lasttime is 2349522 for gen 144
 
- the semgencount value is 2
+
+ the semgencount value is 5
 current generation 144
 particle no 0
 particle no 100
@@ -3310,9 +3130,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479948 for gen 145
+lasttime is 2349522 for gen 145
 
- the semgencount value is 3
+
+ the semgencount value is 6
 current generation 145
 particle no 0
 particle no 100
@@ -3325,9 +3146,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479948 for gen 146
+lasttime is 2349522 for gen 146
 
- the semgencount value is 4
+
+ the semgencount value is 7
 current generation 146
 particle no 0
 particle no 100
@@ -3340,9 +3162,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479948 for gen 147
+lasttime is 2349522 for gen 147
 
- the semgencount value is 5
+
+ the semgencount value is 8
 current generation 147
 particle no 0
 particle no 100
@@ -3354,6 +3177,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2349522 for gen 148
+
+
+ the semgencount value is 9
 current generation 148
 particle no 0
 particle no 100
@@ -3365,6 +3193,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2349522 for gen 149
+
+
+ the semgencount value is 10
 current generation 149
 particle no 0
 particle no 100
@@ -3376,10 +3209,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1479675 for gen 150
-
- the semgencount value is 1
 current generation 150
 particle no 0
 particle no 100
@@ -3392,9 +3221,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 151
+lasttime is 2349296 for gen 151
 
- the semgencount value is 2
+
+ the semgencount value is 1
 current generation 151
 particle no 0
 particle no 100
@@ -3407,9 +3237,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 152
+lasttime is 2349296 for gen 152
 
- the semgencount value is 3
+
+ the semgencount value is 2
 current generation 152
 particle no 0
 particle no 100
@@ -3421,10 +3252,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1479675 for gen 153
-
- the semgencount value is 4
 current generation 153
 particle no 0
 particle no 100
@@ -3437,9 +3264,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 154
+lasttime is 2349281 for gen 154
 
- the semgencount value is 5
+
+ the semgencount value is 1
 current generation 154
 particle no 0
 particle no 100
@@ -3452,9 +3280,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 155
+lasttime is 2349281 for gen 155
 
- the semgencount value is 6
+
+ the semgencount value is 2
 current generation 155
 particle no 0
 particle no 100
@@ -3467,9 +3296,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 156
+lasttime is 2349281 for gen 156
 
- the semgencount value is 7
+
+ the semgencount value is 3
 current generation 156
 particle no 0
 particle no 100
@@ -3482,9 +3312,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 157
+lasttime is 2349281 for gen 157
 
- the semgencount value is 8
+
+ the semgencount value is 4
 current generation 157
 particle no 0
 particle no 100
@@ -3497,9 +3328,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 158
+lasttime is 2349281 for gen 158
 
- the semgencount value is 9
+
+ the semgencount value is 5
 current generation 158
 particle no 0
 particle no 100
@@ -3512,9 +3344,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 159
+lasttime is 2349281 for gen 159
 
- the semgencount value is 10
+
+ the semgencount value is 6
 current generation 159
 particle no 0
 particle no 100
@@ -3527,9 +3360,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1479675 for gen 160
+lasttime is 2349281 for gen 160
 
- the semgencount value is 11
+
+ the semgencount value is 7
 current generation 160
 particle no 0
 particle no 100
@@ -3541,10 +3375,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1479675 for gen 161
-
- the semgencount value is 12
 current generation 161
 particle no 0
 particle no 100
@@ -3579,7 +3409,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1478885 for gen 164
+lasttime is 2348299 for gen 164
+
 
  the semgencount value is 1
 current generation 164
@@ -3593,6 +3424,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2348299 for gen 165
+
+
+ the semgencount value is 2
 current generation 165
 particle no 0
 particle no 100
@@ -3604,6 +3440,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2348299 for gen 166
+
+
+ the semgencount value is 3
 current generation 166
 particle no 0
 particle no 100
@@ -3616,9 +3457,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1478634 for gen 167
+lasttime is 2348299 for gen 167
 
- the semgencount value is 1
+
+ the semgencount value is 4
 current generation 167
 particle no 0
 particle no 100
@@ -3630,6 +3472,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2348299 for gen 168
+
+
+ the semgencount value is 5
 current generation 168
 particle no 0
 particle no 100
@@ -3641,6 +3488,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2348299 for gen 169
+
+
+ the semgencount value is 6
 current generation 169
 particle no 0
 particle no 100
@@ -3664,7 +3516,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 171
+lasttime is 2348089 for gen 171
+
 
  the semgencount value is 1
 current generation 171
@@ -3679,7 +3532,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 172
+lasttime is 2348089 for gen 172
+
 
  the semgencount value is 2
 current generation 172
@@ -3694,7 +3548,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 173
+lasttime is 2348089 for gen 173
+
 
  the semgencount value is 3
 current generation 173
@@ -3709,7 +3564,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 174
+lasttime is 2348089 for gen 174
+
 
  the semgencount value is 4
 current generation 174
@@ -3724,7 +3580,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 175
+lasttime is 2348089 for gen 175
+
 
  the semgencount value is 5
 current generation 175
@@ -3739,7 +3596,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 176
+lasttime is 2348089 for gen 176
+
 
  the semgencount value is 6
 current generation 176
@@ -3754,7 +3612,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 177
+lasttime is 2348089 for gen 177
+
 
  the semgencount value is 7
 current generation 177
@@ -3769,7 +3628,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 178
+lasttime is 2348089 for gen 178
+
 
  the semgencount value is 8
 current generation 178
@@ -3784,7 +3644,8 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 179
+lasttime is 2348089 for gen 179
+
 
  the semgencount value is 9
 current generation 179
@@ -3798,10 +3659,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1477882 for gen 180
-
- the semgencount value is 10
 current generation 180
 particle no 0
 particle no 100
@@ -3814,9 +3671,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 181
+lasttime is 2347945 for gen 181
 
- the semgencount value is 11
+
+ the semgencount value is 1
 current generation 181
 particle no 0
 particle no 100
@@ -3829,9 +3687,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 182
+lasttime is 2347945 for gen 182
 
- the semgencount value is 12
+
+ the semgencount value is 2
 current generation 182
 particle no 0
 particle no 100
@@ -3844,9 +3703,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 183
+lasttime is 2347945 for gen 183
 
- the semgencount value is 13
+
+ the semgencount value is 3
 current generation 183
 particle no 0
 particle no 100
@@ -3859,9 +3719,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477882 for gen 184
+lasttime is 2347945 for gen 184
 
- the semgencount value is 14
+
+ the semgencount value is 4
 current generation 184
 particle no 0
 particle no 100
@@ -3873,6 +3734,11 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
+
+lasttime is 2347945 for gen 185
+
+
+ the semgencount value is 5
 current generation 185
 particle no 0
 particle no 100
@@ -3885,9 +3751,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 186
+lasttime is 2347945 for gen 186
 
- the semgencount value is 1
+
+ the semgencount value is 6
 current generation 186
 particle no 0
 particle no 100
@@ -3900,9 +3767,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 187
+lasttime is 2347945 for gen 187
 
- the semgencount value is 2
+
+ the semgencount value is 7
 current generation 187
 particle no 0
 particle no 100
@@ -3915,9 +3783,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 188
+lasttime is 2347945 for gen 188
 
- the semgencount value is 3
+
+ the semgencount value is 8
 current generation 188
 particle no 0
 particle no 100
@@ -3930,9 +3799,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 189
+lasttime is 2347945 for gen 189
 
- the semgencount value is 4
+
+ the semgencount value is 9
 current generation 189
 particle no 0
 particle no 100
@@ -3945,9 +3815,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 190
+lasttime is 2347945 for gen 190
 
- the semgencount value is 5
+
+ the semgencount value is 10
 current generation 190
 particle no 0
 particle no 100
@@ -3960,9 +3831,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 191
+lasttime is 2347945 for gen 191
 
- the semgencount value is 6
+
+ the semgencount value is 11
 current generation 191
 particle no 0
 particle no 100
@@ -3975,9 +3847,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 192
+lasttime is 2347945 for gen 192
 
- the semgencount value is 7
+
+ the semgencount value is 12
 current generation 192
 particle no 0
 particle no 100
@@ -3990,9 +3863,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 193
+lasttime is 2347945 for gen 193
 
- the semgencount value is 8
+
+ the semgencount value is 13
 current generation 193
 particle no 0
 particle no 100
@@ -4004,10 +3878,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1477768 for gen 194
-
- the semgencount value is 9
 current generation 194
 particle no 0
 particle no 100
@@ -4019,10 +3889,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1477768 for gen 195
-
- the semgencount value is 10
 current generation 195
 particle no 0
 particle no 100
@@ -4034,10 +3900,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1477768 for gen 196
-
- the semgencount value is 11
 current generation 196
 particle no 0
 particle no 100
@@ -4050,9 +3912,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 197
+lasttime is 2342218 for gen 197
 
- the semgencount value is 12
+
+ the semgencount value is 1
 current generation 197
 particle no 0
 particle no 100
@@ -4064,10 +3927,6 @@ particle no 600
 particle no 700
 particle no 800
 particle no 900
-
-lasttime is 1477768 for gen 198
-
- the semgencount value is 13
 current generation 198
 particle no 0
 particle no 100
@@ -4080,9 +3939,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 199
+lasttime is 2341987 for gen 199
 
- the semgencount value is 14
+
+ the semgencount value is 1
 current generation 199
 particle no 0
 particle no 100
@@ -4095,9 +3955,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 200
+lasttime is 2341987 for gen 200
 
- the semgencount value is 15
+
+ the semgencount value is 2
 current generation 200
 particle no 0
 particle no 100
@@ -4110,9 +3971,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 201
+lasttime is 2341987 for gen 201
 
- the semgencount value is 16
+
+ the semgencount value is 3
 current generation 201
 particle no 0
 particle no 100
@@ -4125,9 +3987,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 202
+lasttime is 2341987 for gen 202
 
- the semgencount value is 17
+
+ the semgencount value is 4
 current generation 202
 particle no 0
 particle no 100
@@ -4140,9 +4003,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 203
+lasttime is 2341987 for gen 203
 
- the semgencount value is 18
+
+ the semgencount value is 5
 current generation 203
 particle no 0
 particle no 100
@@ -4155,9 +4019,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 204
+lasttime is 2341987 for gen 204
 
- the semgencount value is 19
+
+ the semgencount value is 6
 current generation 204
 particle no 0
 particle no 100
@@ -4170,9 +4035,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 205
+lasttime is 2341987 for gen 205
 
- the semgencount value is 20
+
+ the semgencount value is 7
 current generation 205
 particle no 0
 particle no 100
@@ -4185,9 +4051,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 206
+lasttime is 2341987 for gen 206
 
- the semgencount value is 21
+
+ the semgencount value is 8
 current generation 206
 particle no 0
 particle no 100
@@ -4200,9 +4067,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 207
+lasttime is 2341987 for gen 207
 
- the semgencount value is 22
+
+ the semgencount value is 9
 current generation 207
 particle no 0
 particle no 100
@@ -4215,9 +4083,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 208
+lasttime is 2341987 for gen 208
 
- the semgencount value is 23
+
+ the semgencount value is 10
 current generation 208
 particle no 0
 particle no 100
@@ -4230,9 +4099,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 209
+lasttime is 2341987 for gen 209
 
- the semgencount value is 24
+
+ the semgencount value is 11
 current generation 209
 particle no 0
 particle no 100
@@ -4245,9 +4115,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 210
+lasttime is 2341987 for gen 210
 
- the semgencount value is 25
+
+ the semgencount value is 12
 current generation 210
 particle no 0
 particle no 100
@@ -4260,9 +4131,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 211
+lasttime is 2341987 for gen 211
 
- the semgencount value is 26
+
+ the semgencount value is 13
 current generation 211
 particle no 0
 particle no 100
@@ -4275,9 +4147,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 212
+lasttime is 2341987 for gen 212
 
- the semgencount value is 27
+
+ the semgencount value is 14
 current generation 212
 particle no 0
 particle no 100
@@ -4290,9 +4163,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 213
+lasttime is 2341987 for gen 213
 
- the semgencount value is 28
+
+ the semgencount value is 15
 current generation 213
 particle no 0
 particle no 100
@@ -4305,9 +4179,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 214
+lasttime is 2341987 for gen 214
 
- the semgencount value is 29
+
+ the semgencount value is 16
 current generation 214
 particle no 0
 particle no 100
@@ -4320,9 +4195,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 215
+lasttime is 2341987 for gen 215
 
- the semgencount value is 30
+
+ the semgencount value is 17
 current generation 215
 particle no 0
 particle no 100
@@ -4335,9 +4211,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 216
+lasttime is 2341987 for gen 216
 
- the semgencount value is 31
+
+ the semgencount value is 18
 current generation 216
 particle no 0
 particle no 100
@@ -4350,9 +4227,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 217
+lasttime is 2341987 for gen 217
 
- the semgencount value is 32
+
+ the semgencount value is 19
 current generation 217
 particle no 0
 particle no 100
@@ -4365,9 +4243,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 218
+lasttime is 2341987 for gen 218
 
- the semgencount value is 33
+
+ the semgencount value is 20
 current generation 218
 particle no 0
 particle no 100
@@ -4380,9 +4259,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 219
+lasttime is 2341987 for gen 219
 
- the semgencount value is 34
+
+ the semgencount value is 21
 current generation 219
 particle no 0
 particle no 100
@@ -4395,9 +4275,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 220
+lasttime is 2341987 for gen 220
 
- the semgencount value is 35
+
+ the semgencount value is 22
 current generation 220
 particle no 0
 particle no 100
@@ -4410,9 +4291,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 221
+lasttime is 2341987 for gen 221
 
- the semgencount value is 36
+
+ the semgencount value is 23
 current generation 221
 particle no 0
 particle no 100
@@ -4425,9 +4307,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 222
+lasttime is 2341987 for gen 222
 
- the semgencount value is 37
+
+ the semgencount value is 24
 current generation 222
 particle no 0
 particle no 100
@@ -4440,9 +4323,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 223
+lasttime is 2341987 for gen 223
 
- the semgencount value is 38
+
+ the semgencount value is 25
 current generation 223
 particle no 0
 particle no 100
@@ -4455,9 +4339,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 224
+lasttime is 2341987 for gen 224
 
- the semgencount value is 39
+
+ the semgencount value is 26
 current generation 224
 particle no 0
 particle no 100
@@ -4470,9 +4355,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 225
+lasttime is 2341987 for gen 225
 
- the semgencount value is 40
+
+ the semgencount value is 27
 current generation 225
 particle no 0
 particle no 100
@@ -4485,9 +4371,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 226
+lasttime is 2341987 for gen 226
 
- the semgencount value is 41
+
+ the semgencount value is 28
 current generation 226
 particle no 0
 particle no 100
@@ -4500,9 +4387,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 227
+lasttime is 2341987 for gen 227
 
- the semgencount value is 42
+
+ the semgencount value is 29
 current generation 227
 particle no 0
 particle no 100
@@ -4515,9 +4403,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 228
+lasttime is 2341987 for gen 228
 
- the semgencount value is 43
+
+ the semgencount value is 30
 current generation 228
 particle no 0
 particle no 100
@@ -4530,9 +4419,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 229
+lasttime is 2341987 for gen 229
 
- the semgencount value is 44
+
+ the semgencount value is 31
 current generation 229
 particle no 0
 particle no 100
@@ -4545,9 +4435,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 230
+lasttime is 2341987 for gen 230
 
- the semgencount value is 45
+
+ the semgencount value is 32
 current generation 230
 particle no 0
 particle no 100
@@ -4560,9 +4451,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 231
+lasttime is 2341987 for gen 231
 
- the semgencount value is 46
+
+ the semgencount value is 33
 current generation 231
 particle no 0
 particle no 100
@@ -4575,9 +4467,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 232
+lasttime is 2341987 for gen 232
 
- the semgencount value is 47
+
+ the semgencount value is 34
 current generation 232
 particle no 0
 particle no 100
@@ -4590,9 +4483,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 233
+lasttime is 2341987 for gen 233
 
- the semgencount value is 48
+
+ the semgencount value is 35
 current generation 233
 particle no 0
 particle no 100
@@ -4605,9 +4499,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 234
+lasttime is 2341987 for gen 234
 
- the semgencount value is 49
+
+ the semgencount value is 36
 current generation 234
 particle no 0
 particle no 100
@@ -4620,9 +4515,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 235
+lasttime is 2341987 for gen 235
 
- the semgencount value is 50
+
+ the semgencount value is 37
 current generation 235
 particle no 0
 particle no 100
@@ -4635,9 +4531,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 236
+lasttime is 2341987 for gen 236
 
- the semgencount value is 51
+
+ the semgencount value is 38
 current generation 236
 particle no 0
 particle no 100
@@ -4650,9 +4547,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 237
+lasttime is 2341987 for gen 237
 
- the semgencount value is 52
+
+ the semgencount value is 39
 current generation 237
 particle no 0
 particle no 100
@@ -4665,9 +4563,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 238
+lasttime is 2341987 for gen 238
 
- the semgencount value is 53
+
+ the semgencount value is 40
 current generation 238
 particle no 0
 particle no 100
@@ -4680,9 +4579,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 239
+lasttime is 2341987 for gen 239
 
- the semgencount value is 54
+
+ the semgencount value is 41
 current generation 239
 particle no 0
 particle no 100
@@ -4695,9 +4595,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 240
+lasttime is 2341987 for gen 240
 
- the semgencount value is 55
+
+ the semgencount value is 42
 current generation 240
 particle no 0
 particle no 100
@@ -4710,9 +4611,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 241
+lasttime is 2341987 for gen 241
 
- the semgencount value is 56
+
+ the semgencount value is 43
 current generation 241
 particle no 0
 particle no 100
@@ -4725,9 +4627,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 242
+lasttime is 2341987 for gen 242
 
- the semgencount value is 57
+
+ the semgencount value is 44
 current generation 242
 particle no 0
 particle no 100
@@ -4740,9 +4643,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 243
+lasttime is 2341987 for gen 243
 
- the semgencount value is 58
+
+ the semgencount value is 45
 current generation 243
 particle no 0
 particle no 100
@@ -4755,9 +4659,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 244
+lasttime is 2341987 for gen 244
 
- the semgencount value is 59
+
+ the semgencount value is 46
 current generation 244
 particle no 0
 particle no 100
@@ -4770,9 +4675,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 245
+lasttime is 2341987 for gen 245
 
- the semgencount value is 60
+
+ the semgencount value is 47
 current generation 245
 particle no 0
 particle no 100
@@ -4785,9 +4691,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 246
+lasttime is 2341987 for gen 246
 
- the semgencount value is 61
+
+ the semgencount value is 48
 current generation 246
 particle no 0
 particle no 100
@@ -4800,9 +4707,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 247
+lasttime is 2341987 for gen 247
 
- the semgencount value is 62
+
+ the semgencount value is 49
 current generation 247
 particle no 0
 particle no 100
@@ -4815,9 +4723,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 248
+lasttime is 2341987 for gen 248
 
- the semgencount value is 63
+
+ the semgencount value is 50
 current generation 248
 particle no 0
 particle no 100
@@ -4830,9 +4739,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 249
+lasttime is 2341987 for gen 249
 
- the semgencount value is 64
+
+ the semgencount value is 51
 current generation 249
 particle no 0
 particle no 100
@@ -4845,9 +4755,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 250
+lasttime is 2341987 for gen 250
 
- the semgencount value is 65
+
+ the semgencount value is 52
 current generation 250
 particle no 0
 particle no 100
@@ -4860,9 +4771,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 251
+lasttime is 2341987 for gen 251
 
- the semgencount value is 66
+
+ the semgencount value is 53
 current generation 251
 particle no 0
 particle no 100
@@ -4875,9 +4787,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 252
+lasttime is 2341987 for gen 252
 
- the semgencount value is 67
+
+ the semgencount value is 54
 current generation 252
 particle no 0
 particle no 100
@@ -4890,9 +4803,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 253
+lasttime is 2341987 for gen 253
 
- the semgencount value is 68
+
+ the semgencount value is 55
 current generation 253
 particle no 0
 particle no 100
@@ -4905,9 +4819,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 254
+lasttime is 2341987 for gen 254
 
- the semgencount value is 69
+
+ the semgencount value is 56
 current generation 254
 particle no 0
 particle no 100
@@ -4920,9 +4835,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 255
+lasttime is 2341987 for gen 255
 
- the semgencount value is 70
+
+ the semgencount value is 57
 current generation 255
 particle no 0
 particle no 100
@@ -4935,9 +4851,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 256
+lasttime is 2341987 for gen 256
 
- the semgencount value is 71
+
+ the semgencount value is 58
 current generation 256
 particle no 0
 particle no 100
@@ -4950,9 +4867,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 257
+lasttime is 2341987 for gen 257
 
- the semgencount value is 72
+
+ the semgencount value is 59
 current generation 257
 particle no 0
 particle no 100
@@ -4965,9 +4883,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 258
+lasttime is 2341987 for gen 258
 
- the semgencount value is 73
+
+ the semgencount value is 60
 current generation 258
 particle no 0
 particle no 100
@@ -4980,9 +4899,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 259
+lasttime is 2341987 for gen 259
 
- the semgencount value is 74
+
+ the semgencount value is 61
 current generation 259
 particle no 0
 particle no 100
@@ -4995,9 +4915,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 260
+lasttime is 2341987 for gen 260
 
- the semgencount value is 75
+
+ the semgencount value is 62
 current generation 260
 particle no 0
 particle no 100
@@ -5010,9 +4931,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 261
+lasttime is 2341987 for gen 261
 
- the semgencount value is 76
+
+ the semgencount value is 63
 current generation 261
 particle no 0
 particle no 100
@@ -5025,9 +4947,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 262
+lasttime is 2341987 for gen 262
 
- the semgencount value is 77
+
+ the semgencount value is 64
 current generation 262
 particle no 0
 particle no 100
@@ -5040,9 +4963,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 263
+lasttime is 2341987 for gen 263
 
- the semgencount value is 78
+
+ the semgencount value is 65
 current generation 263
 particle no 0
 particle no 100
@@ -5055,9 +4979,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 264
+lasttime is 2341987 for gen 264
 
- the semgencount value is 79
+
+ the semgencount value is 66
 current generation 264
 particle no 0
 particle no 100
@@ -5070,9 +4995,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 265
+lasttime is 2341987 for gen 265
 
- the semgencount value is 80
+
+ the semgencount value is 67
 current generation 265
 particle no 0
 particle no 100
@@ -5085,9 +5011,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 266
+lasttime is 2341987 for gen 266
 
- the semgencount value is 81
+
+ the semgencount value is 68
 current generation 266
 particle no 0
 particle no 100
@@ -5100,9 +5027,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 267
+lasttime is 2341987 for gen 267
 
- the semgencount value is 82
+
+ the semgencount value is 69
 current generation 267
 particle no 0
 particle no 100
@@ -5115,9 +5043,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 268
+lasttime is 2341987 for gen 268
 
- the semgencount value is 83
+
+ the semgencount value is 70
 current generation 268
 particle no 0
 particle no 100
@@ -5130,9 +5059,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 269
+lasttime is 2341987 for gen 269
 
- the semgencount value is 84
+
+ the semgencount value is 71
 current generation 269
 particle no 0
 particle no 100
@@ -5145,9 +5075,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 270
+lasttime is 2341987 for gen 270
 
- the semgencount value is 85
+
+ the semgencount value is 72
 current generation 270
 particle no 0
 particle no 100
@@ -5160,9 +5091,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 271
+lasttime is 2341987 for gen 271
 
- the semgencount value is 86
+
+ the semgencount value is 73
 current generation 271
 particle no 0
 particle no 100
@@ -5175,9 +5107,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 272
+lasttime is 2341987 for gen 272
 
- the semgencount value is 87
+
+ the semgencount value is 74
 current generation 272
 particle no 0
 particle no 100
@@ -5190,9 +5123,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 273
+lasttime is 2341987 for gen 273
 
- the semgencount value is 88
+
+ the semgencount value is 75
 current generation 273
 particle no 0
 particle no 100
@@ -5205,9 +5139,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 274
+lasttime is 2341987 for gen 274
 
- the semgencount value is 89
+
+ the semgencount value is 76
 current generation 274
 particle no 0
 particle no 100
@@ -5220,9 +5155,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 275
+lasttime is 2341987 for gen 275
 
- the semgencount value is 90
+
+ the semgencount value is 77
 current generation 275
 particle no 0
 particle no 100
@@ -5235,9 +5171,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 276
+lasttime is 2341987 for gen 276
 
- the semgencount value is 91
+
+ the semgencount value is 78
 current generation 276
 particle no 0
 particle no 100
@@ -5250,9 +5187,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 277
+lasttime is 2341987 for gen 277
 
- the semgencount value is 92
+
+ the semgencount value is 79
 current generation 277
 particle no 0
 particle no 100
@@ -5265,9 +5203,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 278
+lasttime is 2341987 for gen 278
 
- the semgencount value is 93
+
+ the semgencount value is 80
 current generation 278
 particle no 0
 particle no 100
@@ -5280,9 +5219,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 279
+lasttime is 2341987 for gen 279
 
- the semgencount value is 94
+
+ the semgencount value is 81
 current generation 279
 particle no 0
 particle no 100
@@ -5295,9 +5235,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 280
+lasttime is 2341987 for gen 280
 
- the semgencount value is 95
+
+ the semgencount value is 82
 current generation 280
 particle no 0
 particle no 100
@@ -5310,9 +5251,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 281
+lasttime is 2341987 for gen 281
 
- the semgencount value is 96
+
+ the semgencount value is 83
 current generation 281
 particle no 0
 particle no 100
@@ -5325,9 +5267,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 282
+lasttime is 2341987 for gen 282
 
- the semgencount value is 97
+
+ the semgencount value is 84
 current generation 282
 particle no 0
 particle no 100
@@ -5340,9 +5283,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 283
+lasttime is 2341987 for gen 283
 
- the semgencount value is 98
+
+ the semgencount value is 85
 current generation 283
 particle no 0
 particle no 100
@@ -5355,9 +5299,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 284
+lasttime is 2341987 for gen 284
 
- the semgencount value is 99
+
+ the semgencount value is 86
 current generation 284
 particle no 0
 particle no 100
@@ -5370,9 +5315,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 285
+lasttime is 2341987 for gen 285
 
- the semgencount value is 100
+
+ the semgencount value is 87
 current generation 285
 particle no 0
 particle no 100
@@ -5385,9 +5331,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 286
+lasttime is 2341987 for gen 286
 
- the semgencount value is 101
+
+ the semgencount value is 88
 current generation 286
 particle no 0
 particle no 100
@@ -5400,9 +5347,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 287
+lasttime is 2341987 for gen 287
 
- the semgencount value is 102
+
+ the semgencount value is 89
 current generation 287
 particle no 0
 particle no 100
@@ -5415,9 +5363,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 288
+lasttime is 2341987 for gen 288
 
- the semgencount value is 103
+
+ the semgencount value is 90
 current generation 288
 particle no 0
 particle no 100
@@ -5430,9 +5379,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 289
+lasttime is 2341987 for gen 289
 
- the semgencount value is 104
+
+ the semgencount value is 91
 current generation 289
 particle no 0
 particle no 100
@@ -5445,9 +5395,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 290
+lasttime is 2341987 for gen 290
 
- the semgencount value is 105
+
+ the semgencount value is 92
 current generation 290
 particle no 0
 particle no 100
@@ -5460,9 +5411,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 291
+lasttime is 2341987 for gen 291
 
- the semgencount value is 106
+
+ the semgencount value is 93
 current generation 291
 particle no 0
 particle no 100
@@ -5475,9 +5427,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 292
+lasttime is 2341987 for gen 292
 
- the semgencount value is 107
+
+ the semgencount value is 94
 current generation 292
 particle no 0
 particle no 100
@@ -5490,9 +5443,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 293
+lasttime is 2341987 for gen 293
 
- the semgencount value is 108
+
+ the semgencount value is 95
 current generation 293
 particle no 0
 particle no 100
@@ -5505,9 +5459,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 294
+lasttime is 2341987 for gen 294
 
- the semgencount value is 109
+
+ the semgencount value is 96
 current generation 294
 particle no 0
 particle no 100
@@ -5520,9 +5475,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 295
+lasttime is 2341987 for gen 295
 
- the semgencount value is 110
+
+ the semgencount value is 97
 current generation 295
 particle no 0
 particle no 100
@@ -5535,9 +5491,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 296
+lasttime is 2341987 for gen 296
 
- the semgencount value is 111
+
+ the semgencount value is 98
 current generation 296
 particle no 0
 particle no 100
@@ -5550,9 +5507,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 297
+lasttime is 2341987 for gen 297
 
- the semgencount value is 112
+
+ the semgencount value is 99
 current generation 297
 particle no 0
 particle no 100
@@ -5565,9 +5523,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 298
+lasttime is 2341987 for gen 298
 
- the semgencount value is 113
+
+ the semgencount value is 100
 current generation 298
 particle no 0
 particle no 100
@@ -5580,9 +5539,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 299
+lasttime is 2341987 for gen 299
 
- the semgencount value is 114
+
+ the semgencount value is 101
 current generation 299
 particle no 0
 particle no 100
@@ -5595,9 +5555,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 300
+lasttime is 2341987 for gen 300
 
- the semgencount value is 115
+
+ the semgencount value is 102
 current generation 300
 particle no 0
 particle no 100
@@ -5610,9 +5571,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 301
+lasttime is 2341987 for gen 301
 
- the semgencount value is 116
+
+ the semgencount value is 103
 current generation 301
 particle no 0
 particle no 100
@@ -5625,9 +5587,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 302
+lasttime is 2341987 for gen 302
 
- the semgencount value is 117
+
+ the semgencount value is 104
 current generation 302
 particle no 0
 particle no 100
@@ -5640,9 +5603,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 303
+lasttime is 2341987 for gen 303
 
- the semgencount value is 118
+
+ the semgencount value is 105
 current generation 303
 particle no 0
 particle no 100
@@ -5655,9 +5619,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 304
+lasttime is 2341987 for gen 304
 
- the semgencount value is 119
+
+ the semgencount value is 106
 current generation 304
 particle no 0
 particle no 100
@@ -5670,9 +5635,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 305
+lasttime is 2341987 for gen 305
 
- the semgencount value is 120
+
+ the semgencount value is 107
 current generation 305
 particle no 0
 particle no 100
@@ -5685,9 +5651,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 306
+lasttime is 2341987 for gen 306
 
- the semgencount value is 121
+
+ the semgencount value is 108
 current generation 306
 particle no 0
 particle no 100
@@ -5700,9 +5667,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 307
+lasttime is 2341987 for gen 307
 
- the semgencount value is 122
+
+ the semgencount value is 109
 current generation 307
 particle no 0
 particle no 100
@@ -5715,9 +5683,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 308
+lasttime is 2341987 for gen 308
 
- the semgencount value is 123
+
+ the semgencount value is 110
 current generation 308
 particle no 0
 particle no 100
@@ -5730,9 +5699,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 309
+lasttime is 2341987 for gen 309
 
- the semgencount value is 124
+
+ the semgencount value is 111
 current generation 309
 particle no 0
 particle no 100
@@ -5745,9 +5715,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 310
+lasttime is 2341987 for gen 310
 
- the semgencount value is 125
+
+ the semgencount value is 112
 current generation 310
 particle no 0
 particle no 100
@@ -5760,9 +5731,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 311
+lasttime is 2341987 for gen 311
 
- the semgencount value is 126
+
+ the semgencount value is 113
 current generation 311
 particle no 0
 particle no 100
@@ -5775,9 +5747,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 312
+lasttime is 2341987 for gen 312
 
- the semgencount value is 127
+
+ the semgencount value is 114
 current generation 312
 particle no 0
 particle no 100
@@ -5790,9 +5763,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 313
+lasttime is 2341987 for gen 313
 
- the semgencount value is 128
+
+ the semgencount value is 115
 current generation 313
 particle no 0
 particle no 100
@@ -5805,9 +5779,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 314
+lasttime is 2341987 for gen 314
 
- the semgencount value is 129
+
+ the semgencount value is 116
 current generation 314
 particle no 0
 particle no 100
@@ -5820,9 +5795,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 315
+lasttime is 2341987 for gen 315
 
- the semgencount value is 130
+
+ the semgencount value is 117
 current generation 315
 particle no 0
 particle no 100
@@ -5835,9 +5811,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 316
+lasttime is 2341987 for gen 316
 
- the semgencount value is 131
+
+ the semgencount value is 118
 current generation 316
 particle no 0
 particle no 100
@@ -5850,9 +5827,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 317
+lasttime is 2341987 for gen 317
 
- the semgencount value is 132
+
+ the semgencount value is 119
 current generation 317
 particle no 0
 particle no 100
@@ -5865,9 +5843,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 318
+lasttime is 2341987 for gen 318
 
- the semgencount value is 133
+
+ the semgencount value is 120
 current generation 318
 particle no 0
 particle no 100
@@ -5880,9 +5859,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 319
+lasttime is 2341987 for gen 319
 
- the semgencount value is 134
+
+ the semgencount value is 121
 current generation 319
 particle no 0
 particle no 100
@@ -5895,9 +5875,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 320
+lasttime is 2341987 for gen 320
 
- the semgencount value is 135
+
+ the semgencount value is 122
 current generation 320
 particle no 0
 particle no 100
@@ -5910,9 +5891,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 321
+lasttime is 2341987 for gen 321
 
- the semgencount value is 136
+
+ the semgencount value is 123
 current generation 321
 particle no 0
 particle no 100
@@ -5925,9 +5907,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 322
+lasttime is 2341987 for gen 322
 
- the semgencount value is 137
+
+ the semgencount value is 124
 current generation 322
 particle no 0
 particle no 100
@@ -5940,9 +5923,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 323
+lasttime is 2341987 for gen 323
 
- the semgencount value is 138
+
+ the semgencount value is 125
 current generation 323
 particle no 0
 particle no 100
@@ -5955,9 +5939,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 324
+lasttime is 2341987 for gen 324
 
- the semgencount value is 139
+
+ the semgencount value is 126
 current generation 324
 particle no 0
 particle no 100
@@ -5970,9 +5955,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 325
+lasttime is 2341987 for gen 325
 
- the semgencount value is 140
+
+ the semgencount value is 127
 current generation 325
 particle no 0
 particle no 100
@@ -5985,9 +5971,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 326
+lasttime is 2341987 for gen 326
 
- the semgencount value is 141
+
+ the semgencount value is 128
 current generation 326
 particle no 0
 particle no 100
@@ -6000,9 +5987,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 327
+lasttime is 2341987 for gen 327
 
- the semgencount value is 142
+
+ the semgencount value is 129
 current generation 327
 particle no 0
 particle no 100
@@ -6015,9 +6003,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 328
+lasttime is 2341987 for gen 328
 
- the semgencount value is 143
+
+ the semgencount value is 130
 current generation 328
 particle no 0
 particle no 100
@@ -6030,9 +6019,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 329
+lasttime is 2341987 for gen 329
 
- the semgencount value is 144
+
+ the semgencount value is 131
 current generation 329
 particle no 0
 particle no 100
@@ -6045,9 +6035,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 330
+lasttime is 2341987 for gen 330
 
- the semgencount value is 145
+
+ the semgencount value is 132
 current generation 330
 particle no 0
 particle no 100
@@ -6060,9 +6051,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 331
+lasttime is 2341987 for gen 331
 
- the semgencount value is 146
+
+ the semgencount value is 133
 current generation 331
 particle no 0
 particle no 100
@@ -6075,9 +6067,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 332
+lasttime is 2341987 for gen 332
 
- the semgencount value is 147
+
+ the semgencount value is 134
 current generation 332
 particle no 0
 particle no 100
@@ -6090,9 +6083,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 333
+lasttime is 2341987 for gen 333
 
- the semgencount value is 148
+
+ the semgencount value is 135
 current generation 333
 particle no 0
 particle no 100
@@ -6105,9 +6099,10 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 334
+lasttime is 2341987 for gen 334
 
- the semgencount value is 149
+
+ the semgencount value is 136
 current generation 334
 particle no 0
 particle no 100
@@ -6120,104 +6115,312 @@ particle no 700
 particle no 800
 particle no 900
 
-lasttime is 1477768 for gen 335
+lasttime is 2341987 for gen 335
+
+
+ the semgencount value is 137
+current generation 335
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 336
+
+
+ the semgencount value is 138
+current generation 336
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 337
+
+
+ the semgencount value is 139
+current generation 337
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 338
+
+
+ the semgencount value is 140
+current generation 338
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 339
+
+
+ the semgencount value is 141
+current generation 339
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 340
+
+
+ the semgencount value is 142
+current generation 340
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 341
+
+
+ the semgencount value is 143
+current generation 341
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 342
+
+
+ the semgencount value is 144
+current generation 342
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 343
+
+
+ the semgencount value is 145
+current generation 343
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 344
+
+
+ the semgencount value is 146
+current generation 344
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 345
+
+
+ the semgencount value is 147
+current generation 345
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 346
+
+
+ the semgencount value is 148
+current generation 346
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 347
+
+
+ the semgencount value is 149
+current generation 347
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 2341987 for gen 348
+
 
  the semgencount value is 150
 
-gencount is 335
- best time is 1477768
+gencount is 348
+best time is 2341987
 BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq
-{ 33, 16, 0, 588128, 28 , 0.500000}
-{ 18, 7, 0, 583200, 75 , 0.250000}
-{ 41, 4, 0, 562359, 28 , 1.000000}
-{ 80, 8, 0, 555806, 10 , 0.500000}
-{ 49, 10, 0, 544579, 28 , 1.000000}
-{ 16, 11, 0, 518192, 75 , 0.250000}
-{ 28, 11, 0, 515536, 75 , 0.250000}
-{ 0, 23, 0, 508396, 75 , 0.250000}
-{ 55, 1, 0, 480681, 16 , 1.000000}
-{ 68, 1, 0, 475924, 16 , 0.500000}
-{ 50, 8, 0, 444112, 28 , 0.250000}
-{ 52, 3, 0, 419038, 16 , 0.500000}
-{ 88, 2, 0, 372056, 0 , 0.250000}
-{ 42, 3, 0, 334272, 28 , 0.250000}
-{ 24, 1, 0, 322624, 75 , 0.250000}
-{ 62, 1, 0, 283808, 16 , 0.250000}
-{ 46, 2, 0, 213136, 28 , 0.250000}
-{ 82, 2, 0, 188444, 10 , 0.250000}
-{ 23, 2, 0, 122888, 75 , 0.250000}
-{ 81, 1, 0, 100442, 10 , 0.500000}
-{ 44, 2, 0, 92184, 28 , 0.250000}
-{ 90, 1, 0, 89708, 0 , 0.250000}
-{ 72, 1, 0, 52980, 16 , 0.250000}
-{ 73, 1, 0, 52548, 16 , 0.250000}
-{ 60, 1, 0, 40476, 16 , 0.250000}
-{ 2, 3, 0, 38920, 75 , 0.250000}
-{ 40, 1, 0, 38436, 28 , 0.250000}
-{ 84, 2, 0, 30876, 0 , 0.250000}
-{ 43, 1, 0, 5552, 28 , 0.250000}
-{ 47, 3, 0, 2060, 28 , 0.250000}
-{ 79, 4, 588128, 945048, 10 , 2.000000}
-{ 51, 3, 588128, 935539, 16 , 1.000000}
-{ 19, 10, 588128, 934237, 75 , 1.000000}
-{ 31, 10, 588128, 933588, 75 , 0.250000}
-{ 26, 21, 588128, 929250, 75 , 0.500000}
-{ 11, 23, 588128, 900108, 75 , 0.250000}
-{ 75, 10, 588128, 827452, 16 , 0.250000}
-{ 39, 10, 945048, 1183376, 28 , 0.250000}
-{ 12, 9, 945048, 1180802, 75 , 1.000000}
-{ 5, 23, 945048, 1175869, 75 , 1.000000}
-{ 36, 9, 945048, 1142430, 28 , 0.500000}
-{ 59, 5, 945048, 1117526, 16 , 0.500000}
-{ 22, 7, 1183376, 1322143, 75 , 2.000000}
-{ 71, 1, 1183376, 1319671, 16 , 4.000000}
-{ 35, 4, 1183376, 1319350, 28 , 0.500000}
-{ 57, 8, 1183376, 1309744, 16 , 0.250000}
-{ 13, 17, 1183376, 1306615, 75 , 1.000000}
-{ 92, 6, 1183376, 1268104, 0 , 0.250000}
-{ 76, 10, 1322143, 1438167, 16 , 2.000000}
-{ 4, 6, 1322143, 1432443, 75 , 1.000000}
-{ 87, 9, 1322143, 1408215, 0 , 0.250000}
-{ 32, 2, 1322143, 1407281, 28 , 2.000000}
-{ 58, 6, 1322143, 1395179, 16 , 0.250000}
-{ 15, 4, 1322143, 1350687, 75 , 0.500000}
-{ 86, 1, 1322143, 1348745, 0 , 1.000000}
-{ 70, 2, 1322143, 1341392, 16 , 1.000000}
-{ 30, 8, 1322143, 1338499, 75 , 0.250000}
-{ 9, 16, 1438167, 1459127, 75 , 1.000000}
-{ 10, 8, 1438167, 1455453, 75 , 1.000000}
-{ 61, 8, 1438167, 1455075, 16 , 0.500000}
-{ 14, 4, 1438167, 1452027, 75 , 0.250000}
-{ 37, 2, 1438167, 1451926, 28 , 1.000000}
-{ 89, 5, 1438167, 1451410, 0 , 1.000000}
-{ 54, 5, 1438167, 1450639, 16 , 0.250000}
-{ 64, 1, 1438167, 1449168, 16 , 1.000000}
-{ 38, 4, 1438167, 1446367, 28 , 0.250000}
-{ 45, 2, 1438167, 1444223, 28 , 0.500000}
-{ 27, 3, 1459127, 1466659, 75 , 2.000000}
-{ 78, 2, 1459127, 1465441, 16 , 1.000000}
-{ 53, 13, 1459127, 1465344, 16 , 2.000000}
-{ 85, 2, 1459127, 1464291, 0 , 0.500000}
-{ 48, 5, 1459127, 1462272, 28 , 1.000000}
-{ 34, 7, 1466659, 1472099, 28 , 4.000000}
-{ 91, 9, 1466659, 1469623, 0 , 1.000000}
-{ 66, 2, 1466659, 1468637, 16 , 0.500000}
-{ 3, 1, 1466659, 1468311, 75 , 1.000000}
-{ 63, 1, 1466659, 1467437, 16 , 1.000000}
-{ 56, 13, 1472099, 1474949, 16 , 2.000000}
-{ 67, 4, 1472099, 1474438, 16 , 1.000000}
-{ 8, 5, 1472099, 1474026, 75 , 1.000000}
-{ 17, 16, 1472099, 1473119, 75 , 0.250000}
-{ 77, 2, 1472099, 1472871, 16 , 0.500000}
-{ 65, 7, 1474949, 1476487, 16 , 2.000000}
-{ 69, 4, 1474949, 1476246, 16 , 2.000000}
-{ 6, 6, 1474949, 1476190, 75 , 1.000000}
-{ 74, 2, 1474949, 1475838, 16 , 4.000000}
-{ 83, 1, 1474949, 1475377, 0 , 1.000000}
-{ 7, 4, 1476487, 1477285, 75 , 2.000000}
-{ 1, 17, 1476487, 1477257, 75 , 1.000000}
-{ 20, 12, 1476487, 1477165, 75 , 0.500000}
-{ 21, 14, 1476487, 1476829, 75 , 0.500000}
-{ 25, 5, 1477285, 1477768, 75 , 2.000000}
-{ 29, 15, 1477285, 1477670, 75 , 2.000000}
-2016-3-21
+{ 49, 6, 0, 1038107, 35 , 0.830000}
+{ 12, 3, 0, 999982, 57 , 0.640000}
+{ 19, 5, 0, 994934, 57 , 0.640000}
+{ 31, 2, 0, 968381, 57 , 0.430000}
+{ 51, 1, 0, 926665, 18 , 1.000000}
+{ 52, 1, 0, 924351, 18 , 0.640000}
+{ 36, 2, 0, 918058, 35 , 0.430000}
+{ 50, 2, 0, 918058, 35 , 0.430000}
+{ 41, 3, 0, 902841, 35 , 0.830000}
+{ 79, 4, 0, 860049, 18 , 0.830000}
+{ 26, 6, 0, 750792, 57 , 0.640000}
+{ 0, 9, 0, 733211, 57 , 0.430000}
+{ 39, 1, 0, 729260, 35 , 0.640000}
+{ 59, 1, 0, 648437, 18 , 0.640000}
+{ 75, 1, 0, 619618, 18 , 0.830000}
+{ 55, 2, 0, 559402, 18 , 0.430000}
+{ 68, 1, 0, 553400, 18 , 0.430000}
+{ 42, 1, 0, 518251, 35 , 0.430000}
+{ 9, 1, 0, 487625, 57 , 0.640000}
+{ 32, 2, 0, 395990, 35 , 0.430000}
+{ 10, 1, 0, 315918, 57 , 0.430000}
+{ 57, 2, 0, 263274, 18 , 0.430000}
+{ 88, 2, 0, 216311, 0 , 0.430000}
+{ 62, 1, 0, 165004, 18 , 0.430000}
+{ 58, 1, 0, 150800, 18 , 0.640000}
+{ 27, 1, 0, 101418, 57 , 0.430000}
+{ 61, 1, 0, 95837, 18 , 0.640000}
+{ 23, 1, 0, 66626, 57 , 0.830000}
+{ 82, 1, 0, 60507, 18 , 0.830000}
+{ 37, 1, 0, 54855, 35 , 0.430000}
+{ 44, 1, 0, 52448, 35 , 0.830000}
+{ 70, 2, 0, 44765, 18 , 0.430000}
+{ 30, 1, 0, 36706, 57 , 0.830000}
+{ 84, 1, 0, 35562, 0 , 0.430000}
+{ 86, 1, 0, 32050, 0 , 0.830000}
+{ 65, 1, 0, 30035, 18 , 0.640000}
+{ 90, 2, 0, 26190, 0 , 0.430000}
+{ 60, 1, 0, 23532, 18 , 0.430000}
+{ 69, 1, 0, 19048, 18 , 0.430000}
+{ 78, 2, 0, 14683, 18 , 0.430000}
+{ 67, 1, 0, 13651, 18 , 0.640000}
+{ 29, 1, 0, 13253, 57 , 0.640000}
+{ 45, 1, 0, 8112, 35 , 0.640000}
+{ 38, 1, 0, 6178, 35 , 0.830000}
+{ 17, 1, 0, 5303, 57 , 0.640000}
+{ 25, 1, 0, 5014, 57 , 0.830000}
+{ 21, 1, 0, 4279, 57 , 0.430000}
+{ 66, 2, 0, 2300, 18 , 0.430000}
+{ 43, 1, 0, 2168, 35 , 0.640000}
+{ 63, 1, 0, 1809, 18 , 0.430000}
+{ 83, 1, 0, 515, 0 , 0.830000}
+{ 5, 12, 1038107, 1750197, 57 , 0.640000}
+{ 16, 2, 1038107, 1747479, 57 , 1.000000}
+{ 33, 8, 1038107, 1746069, 35 , 0.830000}
+{ 80, 6, 1038107, 1671283, 18 , 0.640000}
+{ 28, 3, 1038107, 1643064, 57 , 0.640000}
+{ 18, 3, 1038107, 1567532, 57 , 0.640000}
+{ 11, 6, 1750197, 2109115, 57 , 0.830000}
+{ 76, 8, 1750197, 2085909, 18 , 0.830000}
+{ 13, 11, 1750197, 2052750, 57 , 0.640000}
+{ 71, 3, 1750197, 2034884, 18 , 0.640000}
+{ 4, 4, 1750197, 2008711, 57 , 0.640000}
+{ 22, 12, 2109115, 2302776, 57 , 0.830000}
+{ 35, 2, 2109115, 2302260, 35 , 0.640000}
+{ 46, 2, 2109115, 2192371, 35 , 0.640000}
+{ 92, 4, 2109115, 2179189, 0 , 0.430000}
+{ 81, 2, 2109115, 2165875, 18 , 0.830000}
+{ 24, 3, 2109115, 2155324, 57 , 0.640000}
+{ 34, 4, 2109115, 2143310, 35 , 1.000000}
+{ 2, 3, 2109115, 2120837, 57 , 0.830000}
+{ 87, 12, 2302776, 2322286, 0 , 0.830000}
+{ 53, 8, 2302776, 2321428, 18 , 1.000000}
+{ 91, 6, 2302776, 2313101, 0 , 0.430000}
+{ 73, 2, 2302776, 2313071, 18 , 0.640000}
+{ 64, 2, 2322286, 2332002, 18 , 0.830000}
+{ 15, 10, 2322286, 2331578, 57 , 0.640000}
+{ 89, 10, 2322286, 2329003, 0 , 1.000000}
+{ 40, 2, 2322286, 2328349, 35 , 0.830000}
+{ 7, 3, 2322286, 2327232, 57 , 0.430000}
+{ 8, 3, 2322286, 2327104, 57 , 0.640000}
+{ 72, 3, 2332002, 2336681, 18 , 1.000000}
+{ 56, 20, 2332002, 2336295, 18 , 0.830000}
+{ 6, 4, 2332002, 2335713, 57 , 0.430000}
+{ 74, 2, 2336681, 2340239, 18 , 1.000000}
+{ 85, 2, 2336681, 2339791, 0 , 0.830000}
+{ 48, 8, 2336681, 2339523, 35 , 0.830000}
+{ 20, 2, 2336681, 2339398, 57 , 0.640000}
+{ 14, 11, 2336681, 2338937, 57 , 0.640000}
+{ 47, 1, 2336681, 2337712, 35 , 1.000000}
+{ 77, 2, 2336681, 2337067, 18 , 1.000000}
+{ 1, 10, 2340239, 2341745, 57 , 0.640000}
+{ 54, 13, 2340239, 2341575, 18 , 1.000000}
+{ 3, 9, 2341745, 2341987, 57 , 0.830000}

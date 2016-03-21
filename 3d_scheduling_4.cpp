@@ -16,6 +16,7 @@
 #define NEW_PARTICLE_SIZE BIT_LENGTH*SIZE+SIZE
 #define FREQ_START_INDEX 2 //freq_factor[i] = pow(2,(FREQ_START_INDEX-freq_index[i]));
 using namespace std;
+#include <ctime>
 
 
 typedef struct swapsequence{
@@ -1386,7 +1387,13 @@ int main(int argc, char *argv [ ])
         int iteration;
 
 	long int t,mint;
-	
+
+	time_t t_nil = time(0);   // get time now
+    struct tm * now = localtime( & t_nil );
+    cout << (now->tm_year + 1900) << '-' 
+         << (now->tm_mon + 1) << '-'
+         <<  now->tm_mday
+         << endl;
 	FILE *tamread;
 	tamread = fopen("tam_testtime.txt","r");
 	int kk = 0;
@@ -1508,6 +1515,13 @@ int main(int argc, char *argv [ ])
         for ( int i = 0 ; i < SIZE ; i ++ ) {
                 printf ("{ %d, %d, %ld, %ld, %d , %lf}\n", BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq);
         }
+
+        t_nil = time(0);   // get time now
+    now = localtime( & t_nil );
+    cout << (now->tm_year + 1900) << '-' 
+         << (now->tm_mon + 1) << '-'
+         <<  now->tm_mday
+         << endl;
 
     // print_csv(mint, BestParticle);
     //print_parallel(mint, BestParticle);

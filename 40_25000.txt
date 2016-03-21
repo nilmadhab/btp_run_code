@@ -1,3 +1,4 @@
+2016-3-21
 25000is the power_budget
 140 is TSV_MAX 
 40is TAM_WIDTH_MAX 
@@ -1350,3 +1351,96 @@ no of tam   die level peak_power
 17 7174
 18 7106
 32 3863
+initialiseparticle 
+particle no 0
+particle no 50
+particle no 50
+particle no 100
+particle no 150
+particle no 150
+particle no 150
+particle no 200
+particle no 200
+particle no 250
+particle no 250
+particle no 250
+particle no 250
+particle no 250
+particle no 250
+particle no 250
+particle no 300
+particle no 300
+particle no 300
+particle no 350
+particle no 350
+particle no 350
+particle no 400
+particle no 450
+particle no 450
+particle no 450
+particle no 450
+particle no 450
+particle no 450
+particle no 450
+particle no 500
+particle no 550
+particle no 600
+particle no 600
+particle no 600
+particle no 600
+particle no 650
+particle no 650
+particle no 650
+particle no 650
+particle no 650
+particle no 650
+particle no 700
+particle no 750
+particle no 750
+particle no 750
+particle no 800
+particle no 850
+particle no 850
+particle no 900
+particle no 900
+particle no 950
+current generation 0
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+current generation 1
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+current generation 2
+particle no 0
+particle no 100
+particle no 200
+particle no 300
+particle no 400
+particle no 500
+particle no 600
+particle no 700
+particle no 800
+particle no 900
+
+lasttime is 1878825 for gen 3
+
+ the semgencount value is 1
+current generation 3
+particle no 0
+particle no 100

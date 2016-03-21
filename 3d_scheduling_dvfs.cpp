@@ -4,11 +4,11 @@
 # include <string.h>
 # include <time.h>
 
-//# include "iolist.h"
+# include "iolist.h"
 #include <iostream>
 #define LARGENUMBER 999999999
-#define  NO_OF_PARTICLES 5
-#define  MAX_ITERATION 10
+#define  NO_OF_PARTICLES 1000
+#define  MAX_ITERATION 1000
 #define ALPHA 0.1
 #define BETA 0.10
 #define  GAMMA 0.2
@@ -18,17 +18,6 @@
 using namespace std;
 #define MAX_VOLTS 4
 
-
-#define TAM_WIDTH_MAX 40
-#define BIT_LENGTH 4
-#define TSV_MAX 140
-#define NDies 5
-#define NCores {32,19,28,4,10}
-#define SIZE 93
-#define HARD_DIE_TEST 0
-#define TAM {{15,12,11,14,15,15,10,10,12,15,9,13,15,15,12,14,15,12,15,15,12,11,15,7,9,11,14,13,14,12,15,15},{2,12,11,11,11,7,7,11,10,11,8,5,7,7,8,5,7,10,11},{8,12,11,12,12,14,14,9,13,3,8,11,5,2,7,2,4,6,4,4,9,3,3,3,13,15,10,5},{9,11,2,2},{9,15,3,5,14,12,11,5,13,11},}
-#define TAMSUM {412,161,222,24,98}
-#define POWER {3704,53,54,174,198,12614,32,33,55,238,534,2497,5109,5084,56,125,3525,74,2809,4044,76,52,4179,27,42,54,1727,106,3579,54,138,244,500,4805,52,54,66,18,16,62,53,2641,35,12,24,20,34,12,24,3623,65,707,66,53,74,1357,96,101,52,1348,169,455,517,253,74,344,163,265,263,105,194,758,154,226,197,1388,6060,223,285,4572,2784,286,291,43,191,45,173,950,466,421,152,1089,937}
 
 
 float voltage_dvfs[] = {1, 0.9,0.8,0.7};
@@ -273,11 +262,11 @@ long int bin_packing(int *particle_info, int index, int genaration)
 		tam_index[i] = bin_to_decimal(binary);
 		dvfs_index[i] = particle_info[i+BIT_LENGTH*SIZE];
 		//freq_factor[i] = pow(2,(FREQ_START_INDEX-freq_index[i]));
-		cout <<  "dvfs_index " << dvfs_index[i] << endl;
+		//cout <<  "dvfs_index " << dvfs_index[i] << endl;
 		freq[i] = frequency_dvfs[dvfs_index[i]];
 		volt[i] = voltage_dvfs[dvfs_index[i]];
-		cout << "freq[i]" << freq[i] << endl;
-		cout << "volt[i]" << volt[i] << endl;
+		//cout << "freq[i]" << freq[i] << endl;
+		//cout << "volt[i]" << volt[i] << endl;
 	}		
 	// printf("test2\n");
 
@@ -791,7 +780,7 @@ void swapparticleinfo(int *a, int *b, double prob)
 			float freq = frequency_dvfs[dvfs_index];
 			float volt = voltage_dvfs[dvfs_index];
 
-			cout << "inside swapparticleinfo " << endl;
+			//cout << "inside swapparticleinfo " << endl;
 			if(decimal< tam_testtime[i]. no_of_tam && 
 				tam_testtime[i].tam_list[decimal] * freq < TAM_WIDTH_MAX 
 				&& tam_testtime[i].peak_power * freq * volt*volt < power_budget)
@@ -956,7 +945,7 @@ void initialiseparticle(particle *object)
 		}*/
 
 
-	cout << "particles are formed "<< endl;
+	//cout << "particles are formed "<< endl;
 
 
 }
@@ -972,16 +961,19 @@ int particle_swarm_optimization()
 	long int lasttesttime = LARGENUMBER;
 	int samegencount=0;
 	int generation = 0;
-	
+	cout << "inside pso" << endl;
 	for (int i=0;i<( NO_OF_PARTICLES  ); ){
-			printf("not ok\n");
+			//printf("not ok\n");
     		initialiseparticle(&(partarray[i]));
+    		if(i%50 == 0){
+    			 	 		cout << "particle no " << i << endl;
 
+            }
     		long int temp = bin_packing(partarray[i].info,i,generation);
     		if(i != 0 && temp != -1)
     		{
 	    			partarray[i].time_fitness = temp;
-	    			printf("ok\n");
+	    			//printf("ok\n");
 	    		
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -999,7 +991,7 @@ int particle_swarm_optimization()
 				}
 				if ( flag == 0 ) break ;
 				if ( l == i - 1 && partarray[i].time_fitness != -1) {
-					printf("Generated %d \n", i);
+					//printf("Generated %d \n", i);
 					// print_array(NEW_PARTICLE_SIZE, partarray[i].info, '\n');
 					i ++ ;
 					break ;
@@ -1009,7 +1001,7 @@ int particle_swarm_optimization()
 		if ( i == 0 && temp != -1) 
 			{
 				partarray[i].time_fitness = temp;
-				printf("Generated... %d \n", i);
+				//printf("Generated... %d \n", i);
 				
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -1022,8 +1014,8 @@ int particle_swarm_optimization()
 	}
 	// printf("test\n");
 	// for (int i=0;i<NO_OF_PARTICLES;i++)
-	for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
-        	printf("%ld\t",partarray[kkk].time_fitness);
+	//for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
+      //  	printf("%ld\t",partarray[kkk].time_fitness);
 
     particle_test = 0;
         // printf("\n\n");
@@ -1074,9 +1066,13 @@ int particle_swarm_optimization()
     	int count;
     	while(gencount<MAX_ITERATION)
     	{
-        	
+        	cout << "current generation " << gencount << endl;
         	for(int i=0;i<NO_OF_PARTICLES;i++)
         	{
+        		if(i%100 == 0){
+            	   	 		cout << "particle no " << i << endl;
+
+            	   	 	}
             	   	 /*for(int kkk = 0; kkk< SIZE; kkk++)
             	   	 	printf("%lf\t",partarray[i].info[kkk]);
             	   	 printf("\n\n");*/
@@ -1196,16 +1192,16 @@ int particle_swarm_optimization()
         if (temptime == lasttesttime)
    		{
    			samegencount++;
-   			printf("\nlasttime is %ld for gen %ld",lasttesttime, gencount);
-   			printf("\n\n the semgencount value is %d", samegencount);
+   			printf("\nlasttime is %ld for gen %ld\n",lasttesttime, gencount);
+   			printf("\n\n the semgencount value is %d\n", samegencount);
    		}
    		else
    		{	
    			samegencount = 0;
    			lasttesttime= temptime;
    		}	
-   		/*if (samegencount == 150)
-   			break;*/	
+   		if (samegencount == 150)
+   			break;	
    	}
    	printf("\ngencount is %ld\n", gencount);
 
@@ -1400,6 +1396,32 @@ int main(int argc, char *argv [ ])
 		print_csv(partarray[0].time_fitness, scheduler[0]);
 		return 0;
 	}
+
+	////////////////////////////////////////////////////
+
+	// modified by nil to check
+		
+	cout << NDies << " " <<"nil is here" << endl;
+	kk = 0;
+	cout << "no of tam " << " " << " die level" <<" " << "peak_power" << endl;
+ 	 for(int ii = 0; ii< NDies; ii++)
+	{
+		for(int jj = 0; jj< Cores[ii]; jj++)
+		{
+			cout << " ************* " << tam_testtime[kk].no_of_tam << " " ;
+			cout << tam_testtime[kk].die_level << " ";
+			cout << tam_testtime[kk].peak_power << endl;
+			for(int jj = 0; jj< tam_testtime[kk].no_of_tam; jj++)
+			{
+				cout << tam_testtime[kk].tam_list[jj] << " " << tam_testtime[kk].testtime_list[jj] << endl; 
+			}
+			kk = kk + 1;
+		}
+	}
+
+	//end modified by nil
+
+	/////////////////////////////////////////////
 	
 	for(iteration=0;iteration < NoIteration;iteration++)
 	{
@@ -1437,12 +1459,10 @@ int main(int argc, char *argv [ ])
 		}
 	
 		// fprintf(p1,"%ld\n",mint);
-		 printf("%ld\n",mint);
+		 printf("best time is %ld\n",mint);
 		
 	}
-        for ( int i = 0 ; i < SIZE ; i ++ ) {
-                printf ("{ %d, %d, %ld, %ld, %d , %lf}\n", BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq);
-        }
+    
 
         cout << "BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq" << endl;
         for ( int i = 0 ; i < SIZE ; i ++ ) {
