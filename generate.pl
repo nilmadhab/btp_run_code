@@ -13,7 +13,7 @@ $h = $ARGV[2];
 	#$test = `./a.out 1`;
 	#print $test;
 	#print "nil";
-	system("./dvfs 1 15000 >". $w."_15000_dvfs_1.txt ");
+	system("./dvfs 1 20000 >". $w."_20000_dvfs_1.txt ");
 	#system("./scale 1 25000 >". $w."_25000.txt ");
 	
 	#system("./scale 1 15000 >". $w."_15000_dvfs.txt ");
